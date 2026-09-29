@@ -61,6 +61,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VERSION: ${{ steps.version.outputs.version }}
         run: |
+          NAME=$(jq -r .name pack.json)
           scripts/changelog.sh "v$VERSION" > dist/notes.md
           cat dist/notes.md
           if git rev-parse -q --verify "refs/tags/v$VERSION" >/dev/null; then
@@ -69,10 +70,10 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git tag -a "v$VERSION" -m "Skyblock $VERSION"
+          git tag -a "v$VERSION" -m "$NAME $VERSION"
           git push origin "v$VERSION"
           gh release create "v$VERSION" dist/*.mrpack \
-            --title "Skyblock $VERSION" \
+            --title "$NAME $VERSION" \
             --notes-file dist/notes.md
 
       # Skipped silently until the MODRINTH_PROJECT_ID variable and the MODRINTH_TOKEN secret
