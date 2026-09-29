@@ -6,7 +6,7 @@ Usage: build-mrpack.py <version> [output-dir]
 Every jar and zip in mods/, resourcepacks/, shaderpacks/ and datapacks/ is looked up on Modrinth
 by its SHA-1. Files Modrinth knows go into modrinth.index.json as downloads from its CDN, so the
 pack does not redistribute them; anything else is copied into overrides/ together with config/
-and skyrecipes/.
+skyrecipes/ and the game options.
 
 Besides the pack, writes dependencies.json with the Modrinth versions the pack embeds, ready to
 be sent along with the version.
@@ -20,6 +20,8 @@ import zipfile
 from pathlib import Path
 
 FOLDERS = ["config", "datapacks", "mods", "resourcepacks", "skyrecipes", "shaderpacks"]
+# Loose files from the profile root that ship as overrides too: video, sound, controls, keybinds.
+FILES = ["options.txt"]
 LOOKUP_FOLDERS = {"mods", "resourcepacks", "shaderpacks", "datapacks"}
 SKIP_NAMES = {".gitkeep", ".DS_Store"}
 USER_AGENT = "soldey/Skyblock-modpack (github.com/soldey)"
@@ -33,7 +35,7 @@ STRIP_KEYS = {
 
 def tracked_files():
     out = subprocess.run(
-        ["git", "ls-files", "-z", "--", *FOLDERS], check=True, capture_output=True
+        ["git", "ls-files", "-z", "--", *FOLDERS, *FILES], check=True, capture_output=True
     ).stdout
     return sorted(Path(p) for p in out.decode().split("\0") if p and Path(p).name not in SKIP_NAMES)
 

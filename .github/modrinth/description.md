@@ -4,8 +4,6 @@ A ready-to-play modpack for **Hypixel SkyBlock** on **Minecraft 26.1.2 (Fabric)*
 
 The big SkyBlock mods are all here and already configured. On top of that comes the FurSky Reborn texture pack and a full performance stack, so the game stays smooth.
 
-Install it, log in to `mc.hypixel.net` and play.
-
 ## SkyBlock
 
 - **[SkyHanni](https://modrinth.com/mod/skyhanni)** — best known for the Garden: crop milestones with ETA, visitor shopping lists with prices, money per hour. Also covers Diana, Slayer, Fishing, Mining, Bingo and the Rift, plus a damage indicator and lots of chat cleanup.

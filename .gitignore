@@ -15,6 +15,7 @@
 !/resourcepacks/
 !/skyrecipes/
 !/shaderpacks/
+!/options.txt
 
 # Git does not keep empty folders.
 !/datapacks/.gitkeep

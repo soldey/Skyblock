@@ -5,8 +5,8 @@
     "/co": "/chat officer",
     "/d": "/warp dungeon_hub",
     "/cc": "/chat coop",
-    "/cg": "/chat guild",
     "/i": "/is",
+    "/cg": "/chat guild",
     "/ca": "/chat all",
     "/h": "/hub",
     "/s": "/skyblock",
@@ -15,7 +15,7 @@
   },
   "commandArgs": {
     "/v": "/visit",
-    "/m": "/msg",
-    "/pa": "/p accept"
+    "/pa": "/p accept",
+    "/m": "/msg"
   }
 }
