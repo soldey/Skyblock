@@ -1,0 +1,16 @@
+{
+	"disableCrosshair": false,
+	"hideCrosshairInContainers": true,
+	"showCrosshairInPerspective": true,
+	"showCrosshairInSpectator": false,
+	"removeCrosshairBlendingFirstPerson": false,
+	"removeCrosshairBlendingThirdPerson": false,
+	"crosshairOpacityFirstPerson": 100.0,
+	"crosshairOpacityThirdPerson": 100.0,
+	"disableAttackIndicator": false,
+	"removeAttackIndicatorBlendingFirstPerson": false,
+	"removeAttackIndicatorBlendingThirdPerson": false,
+	"attackIndicatorOpacityFirstPerson": 100.0,
+	"attackIndicatorOpacityThirdPerson": 100.0,
+	"debugCrosshairAttackIndicator": false
+}

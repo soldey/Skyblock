@@ -1,0 +1,8583 @@
+{
+  "baseStats": {
+    "ZOMBIE_PICKAXE": {
+      "BREAKING_POWER": 3,
+      "MINING_SPEED": 190
+    },
+    "STARRED_MIDAS_SWORD": {
+      "DAMAGE": 170
+    },
+    "HOT_HOLLOW_LEGGINGS": {
+      "INTELLIGENCE": 107,
+      "DEFENSE": 75,
+      "WALK_SPEED": 6,
+      "HEALTH": 281,
+      "MENDING": 6
+    },
+    "PHD_GRIMOIRE": {
+      "TROPHY_FISH_CHANCE": 4
+    },
+    "SCARF_STUDIES": {
+      "RIFT_TIME": 10
+    },
+    "SHEEP_AXE": {
+      "DAMAGE": 20
+    },
+    "BURNING_CRIMSON_LEGGINGS": {
+      "INTELLIGENCE": 8,
+      "DEFENSE": 87,
+      "CRITICAL_DAMAGE": 32,
+      "STRENGTH": 48,
+      "HEALTH": 325
+    },
+    "REVENANT_SWORD": {
+      "INTELLIGENCE": 100,
+      "STRENGTH": 50,
+      "DAMAGE": 90
+    },
+    "MANGROVE_LOCKET": {
+      "SWEEP": 1,
+      "FORAGING_FORTUNE": 5
+    },
+    "ARMOR_OF_MAGMA_LEGGINGS": {
+      "DEFENSE": 25,
+      "HEALTH": 75
+    },
+    "LIVELY_SEPULTURE_CHESTPLATE": {
+      "RIFT_MANA_REGEN": 25,
+      "RIFT_HEALTH": 1,
+      "RIFT_TIME": 65,
+      "RIFT_INTELLIGENCE": 30
+    },
+    "EMERALD_ARMOR_LEGGINGS": {
+      "DEFENSE": 75
+    },
+    "REKINDLED_EMBER_LEGGINGS": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 70,
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 30,
+      "HEALTH": 220
+    },
+    "AGARIMOO_ARTIFACT": {
+      "FISHING_SPEED": 3,
+      "FISHING_WISDOM": 1,
+      "FARMING_WISDOM": 1
+    },
+    "ANTI_SENTIENT_PICKAXE": {
+      "RIFT_DAMAGE": 5
+    },
+    "FANCY_SWORD": {
+      "DAMAGE": 20
+    },
+    "PERFECT_LEGGINGS_13": {
+      "DEFENSE": 380
+    },
+    "PERFECT_LEGGINGS_12": {
+      "DEFENSE": 360
+    },
+    "ARACHNE_BELT": {
+      "DEFENSE": 5,
+      "HEALTH": 10
+    },
+    "FLAMEBREAKER_CHESTPLATE": {
+      "MINING_FORTUNE": 5,
+      "MINING_SPEED": 15
+    },
+    "ANTI_BITE_SCARF": {
+      "RIFT_HEALTH": 1,
+      "RIFT_TIME": 100,
+      "RIFT_INTELLIGENCE": 20
+    },
+    "PERFECT_LEGGINGS_11": {
+      "DEFENSE": 340
+    },
+    "BACKWATER_CHESTPLATE": {
+      "DEFENSE": 25,
+      "HEALTH": 50,
+      "SEA_CREATURE_CHANCE": 2
+    },
+    "BASIC_MUSHROOM_COW_AXE": {
+      "DAMAGE": 10
+    },
+    "PERFECT_LEGGINGS_10": {
+      "DEFENSE": 320
+    },
+    "GLACITE_CHESTPLATE": {
+      "MINING_FORTUNE": 5,
+      "DEFENSE": 150,
+      "WALK_SPEED": 15,
+      "MINING_SPEED": 10,
+      "TRUE_DEFENSE": 10
+    },
+    "TITAN_BOOTS": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 100,
+      "STRENGTH": 10,
+      "HEALTH": 100
+    },
+    "CRYPT_WITHERLORD_LEGGINGS": {
+      "DEFENSE": 95,
+      "WALK_SPEED": 5
+    },
+    "RED_CLAW_RING": {
+      "CRITICAL_DAMAGE": 3
+    },
+    "HARDENED_DIAMOND_CHESTPLATE": {
+      "DEFENSE": 120
+    },
+    "BIG_SPRING_BOOTS": {
+      "DEFENSE": 10
+    },
+    "FIG_BOOTS": {
+      "DEFENSE": 25,
+      "SWEEP": 10,
+      "FORAGING_FORTUNE": 30,
+      "HEALTH": 65
+    },
+    "KINDRED": {
+      "WALK_SPEED": 70
+    },
+    "MINERAL_TALISMAN": {
+      "MINING_FORTUNE": 3
+    },
+    "STARRED_BONZO_STAFF": {
+      "INTELLIGENCE": 300,
+      "WEAPON_ABILITY_DAMAGE": 1100,
+      "DAMAGE": 160
+    },
+    "SPONGE_ROD": {
+      "FISHING_SPEED": 30,
+      "STRENGTH": 15,
+      "DAMAGE": 20
+    },
+    "BERSERKER_LEGGINGS": {
+      "CRITICAL_DAMAGE": 50,
+      "STRENGTH": 50
+    },
+    "SUPER_UNDEAD_BOW": {
+      "DAMAGE": 220
+    },
+    "BASIC_FISHING_NET": {
+      "PULL": 5
+    },
+    "GOLD_SPADE": {
+      "DAMAGE": 15
+    },
+    "APEX_PRAEDATOR": {
+      "DAMAGE": 20
+    },
+    "FROZEN_BLAZE_HELMET": {
+      "DEFENSE": 105,
+      "WALK_SPEED": 2,
+      "STRENGTH": 40
+    },
+    "STARRED_ADAPTIVE_BELT": {
+      "DEFENSE": 10,
+      "STRENGTH": 10,
+      "HEALTH": 15
+    },
+    "CELESTE_LEGGINGS": {
+      "INTELLIGENCE": 40,
+      "DEFENSE": 20,
+      "HEALTH": 20
+    },
+    "MERCENARY_BOOTS": {
+      "DEFENSE": 30,
+      "STRENGTH": 10,
+      "HEALTH": 30
+    },
+    "CROPIE_HELMET": {
+      "DEFENSE": 30,
+      "WALK_SPEED": 3,
+      "FARMING_FORTUNE": 20,
+      "HEALTH": 110
+    },
+    "CELESTE_BOOTS": {
+      "INTELLIGENCE": 20,
+      "DEFENSE": 10,
+      "HEALTH": 10
+    },
+    "VALKYRIE": {
+      "INTELLIGENCE": 60,
+      "FEROCITY": 60,
+      "STRENGTH": 145,
+      "DAMAGE": 270
+    },
+    "STRONG_DRAGON_HELMET": {
+      "DEFENSE": 110,
+      "STRENGTH": 25,
+      "HEALTH": 70
+    },
+    "HURRICANE_BOW": {
+      "STRENGTH": 50,
+      "DAMAGE": 120
+    },
+    "CELESTE_HELMET": {
+      "INTELLIGENCE": 30,
+      "DEFENSE": 15,
+      "HEALTH": 15
+    },
+    "BLOBFISH_HAT": {
+      "INTELLIGENCE": -10,
+      "STRENGTH": 25
+    },
+    "PATRICE_SWORD": {
+      "STRENGTH": 50,
+      "DAMAGE": 100
+    },
+    "PESTHUNTER_RING": {
+      "BONUS_PEST_CHANCE": 40
+    },
+    "UNDEAD_SWORD": {
+      "DAMAGE": 30
+    },
+    "ARROW": {
+      "DAMAGE": 1
+    },
+    "REKINDLED_EMBER_BOOTS": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 40,
+      "CRITICAL_DAMAGE": 15,
+      "STRENGTH": 30,
+      "HEALTH": 140
+    },
+    "NECROMANCER_LORD_BOOTS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 150,
+      "HEALTH": 180
+    },
+    "HELIANTHUS_CHESTPLATE": {
+      "DEFENSE": 50,
+      "WALK_SPEED": 7,
+      "BONUS_PEST_CHANCE": 20,
+      "FARMING_FORTUNE": 40,
+      "HEALTH": 205
+    },
+    "SHRIVELED_BRACELET": {
+      "CRITICAL_DAMAGE": 15,
+      "STRENGTH": 10
+    },
+    "TARANTULA_FANG": {
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 45,
+      "DAMAGE": 90
+    },
+    "INFERNAL_FERVOR_LEGGINGS": {
+      "INTELLIGENCE": 13,
+      "DEFENSE": 290,
+      "HEALTH": 529,
+      "TRUE_DEFENSE": 12
+    },
+    "WITHER_LEGGINGS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 220,
+      "HEALTH": 250
+    },
+    "FERMENTO_BOOTS": {
+      "DEFENSE": 40,
+      "WALK_SPEED": 5,
+      "FARMING_FORTUNE": 30,
+      "HEALTH": 130
+    },
+    "SHARK_SCALE_BOOTS": {
+      "DEFENSE": 100,
+      "HEALTH": 125
+    },
+    "INK_WAND": {
+      "WEAPON_ABILITY_DAMAGE": 10000,
+      "STRENGTH": 90,
+      "DAMAGE": 130
+    },
+    "DIVAN_BOOTS": {
+      "MINING_FORTUNE": 30,
+      "DEFENSE": 110,
+      "HEAT_RESISTANCE": 10,
+      "HEALTH": 80,
+      "MINING_SPEED": 80
+    },
+    "FLAMEBREAKER_HELMET": {
+      "MINING_FORTUNE": 5,
+      "MINING_SPEED": 15
+    },
+    "REKINDLED_EMBER_CHESTPLATE": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 70,
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 30,
+      "HEALTH": 250
+    },
+    "BANDAGED_MITHRIL_PICKAXE": {
+      "MINING_FORTUNE": 4,
+      "BREAKING_POWER": 5,
+      "MINING_SPEED": 250,
+      "DAMAGE": 30
+    },
+    "DIAMOND_HUNTER_LEGGINGS": {
+      "HEALTH": 150
+    },
+    "BURNING_HOLLOW_HELMET": {
+      "INTELLIGENCE": 206,
+      "DEFENSE": 86,
+      "WALK_SPEED": 8,
+      "HEALTH": 273,
+      "MENDING": 8
+    },
+    "RAMPART_BOOTS": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 40,
+      "HEALTH": 75
+    },
+    "TITANIUM_CLOAK": {
+      "MINING_FORTUNE": 10,
+      "MINING_SPEED": 30
+    },
+    "MUSIC_PANTS": {
+      "TREASURE_CHANCE": 1,
+      "DEFENSE": 35
+    },
+    "JAKE_PLUSHIE": {
+      "HEALTH": 2
+    },
+    "FIERY_CRIMSON_BOOTS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 80,
+      "CRITICAL_DAMAGE": 40,
+      "STRENGTH": 60,
+      "HEALTH": 260
+    },
+    "STARRED_SHADOW_ASSASSIN_HELMET": {
+      "DEFENSE": 70,
+      "WALK_SPEED": 8,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 30,
+      "HEALTH": 170
+    },
+    "STARRED_SHADOW_ASSASSIN_CHESTPLATE": {
+      "DEFENSE": 110,
+      "WALK_SPEED": 8,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 30,
+      "HEALTH": 250
+    },
+    "YOUNG_DRAGON_BOOTS": {
+      "DEFENSE": 90,
+      "WALK_SPEED": 20,
+      "HEALTH": 60
+    },
+    "GOLD_HUNTER_BOOTS": {
+      "HEALTH": 75
+    },
+    "ADAPTIVE_BOOTS": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 45,
+      "STRENGTH": 15,
+      "HEALTH": 90
+    },
+    "SEA_ARCHER_HELMET": {
+      "DEFENSE": 20,
+      "HEALTH": 20
+    },
+    "DULL_SHARK_TOOTH_NECKLACE": {
+      "STRENGTH": 4
+    },
+    "THE_PRIMORDIAL": {
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 15
+    },
+    "SPONGE_CHESTPLATE": {
+      "DEFENSE": 150,
+      "SEA_CREATURE_CHANCE": 2
+    },
+    "HELLFIRE_ROD": {
+      "TROPHY_FISH_CHANCE": 25,
+      "FISHING_SPEED": 60,
+      "STRENGTH": 225,
+      "SEA_CREATURE_CHANCE": 14,
+      "DAMAGE": 225
+    },
+    "TANK_MINER_LEGGINGS": {
+      "DEFENSE": 15,
+      "MINING_SPEED": 10
+    },
+    "SILK_EDGE_SWORD": {
+      "WEAPON_ABILITY_DAMAGE": 400,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 125,
+      "DAMAGE": 175
+    },
+    "CROWN_OF_AVARICE": {
+      "DEFENSE": 100,
+      "HEALTH": 200
+    },
+    "RESPIRATION_ARTIFACT": {
+      "RESPIRATION": 15
+    },
+    "PROTECTOR_DRAGON_LEGGINGS": {
+      "DEFENSE": 165,
+      "HEALTH": 100
+    },
+    "STARRED_BONE_BOOMERANG": {
+      "STRENGTH": 150,
+      "DAMAGE": 320
+    },
+    "BURNING_TERROR_LEGGINGS": {
+      "INTELLIGENCE": 8,
+      "DEFENSE": 87,
+      "WALK_SPEED": 19,
+      "CRITICAL_DAMAGE": 79,
+      "HEALTH": 325
+    },
+    "OLD_DRAGON_HELMET": {
+      "DEFENSE": 110,
+      "HEALTH": 90
+    },
+    "FIERY_FERVOR_CHESTPLATE": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 280,
+      "HEALTH": 530,
+      "TRUE_DEFENSE": 10
+    },
+    "SNOWMAN_MASK": {
+      "HEALTH": 10
+    },
+    "SALMON_CHESTPLATE_NEW": {
+      "DEFENSE": 55,
+      "HEALTH": 130
+    },
+    "SPONGE_BELT": {
+      "TROPHY_FISH_CHANCE": 1,
+      "FISHING_SPEED": 2
+    },
+    "ENDER_NECKLACE": {
+      "DEFENSE": 10,
+      "HEALTH": 15
+    },
+    "BURNING_HOLLOW_LEGGINGS": {
+      "INTELLIGENCE": 135,
+      "DEFENSE": 94,
+      "WALK_SPEED": 8,
+      "HEALTH": 352,
+      "MENDING": 8
+    },
+    "EMBER_BOOTS": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 30,
+      "HEALTH": 35
+    },
+    "HOLY_DRAGON_HELMET": {
+      "DEFENSE": 110,
+      "HEALTH": 110,
+      "MENDING": 10
+    },
+    "IRON_SPADE": {
+      "DAMAGE": 25
+    },
+    "WARM_WIZARD_FACE_2": {
+      "RIFT_HEALTH": 1,
+      "RIFT_TIME": 130,
+      "RIFT_INTELLIGENCE": 26
+    },
+    "THUNDER_BOOTS": {
+      "DEFENSE": 150,
+      "STRENGTH": 25,
+      "HEALTH": 175,
+      "SEA_CREATURE_CHANCE": 4
+    },
+    "PERFECT_BOOTS_9": {
+      "DEFENSE": 250
+    },
+    "PERFECT_BOOTS_8": {
+      "DEFENSE": 230
+    },
+    "PERFECT_BOOTS_7": {
+      "DEFENSE": 210
+    },
+    "PERFECT_BOOTS_6": {
+      "DEFENSE": 190
+    },
+    "PERFECT_BOOTS_5": {
+      "DEFENSE": 170
+    },
+    "PERFECT_BOOTS_4": {
+      "DEFENSE": 150
+    },
+    "PEST_VEST": {
+      "BONUS_PEST_CHANCE": 10
+    },
+    "PERFECT_BOOTS_3": {
+      "DEFENSE": 130
+    },
+    "PERFECT_BOOTS_2": {
+      "DEFENSE": 110
+    },
+    "PERFECT_BOOTS_1": {
+      "DEFENSE": 90
+    },
+    "MAGMA_ROD": {
+      "TROPHY_FISH_CHANCE": 15,
+      "FISHING_SPEED": 40,
+      "STRENGTH": 175,
+      "SEA_CREATURE_CHANCE": 6,
+      "DAMAGE": 175
+    },
+    "LEGEND_ROD": {
+      "FISHING_SPEED": 65,
+      "STRENGTH": 125,
+      "SEA_CREATURE_CHANCE": 6,
+      "DAMAGE": 125
+    },
+    "ASTRAEA": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 250,
+      "FEROCITY": 30,
+      "STRENGTH": 150,
+      "DAMAGE": 270,
+      "TRUE_DEFENSE": 20
+    },
+    "SWEET_AXE": {
+      "DAMAGE": 25
+    },
+    "SQUIRE_CHESTPLATE": {
+      "DEFENSE": 40,
+      "STRENGTH": 5,
+      "HEALTH": 40
+    },
+    "MYTHOS_LEGGINGS": {
+      "DEFENSE": 70,
+      "STRENGTH": 40,
+      "HEALTH": 140
+    },
+    "DOJO_BLACK_BELT": {
+      "DEFENSE": 25,
+      "HEALTH": 35
+    },
+    "TURBO_FISHING_NET": {
+      "PULL": 50
+    },
+    "IRON_LEGGINGS": {
+      "DEFENSE": 25
+    },
+    "PIGS_FOOT": {
+      "WALK_SPEED": 1
+    },
+    "ADAPTIVE_LEGGINGS": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 65,
+      "STRENGTH": 15,
+      "HEALTH": 145
+    },
+    "FEROCITY_SWORD_150": {
+      "FEROCITY": 150,
+      "DAMAGE": 10
+    },
+    "BRONZE_HUNTER_BOOTS": {
+      "HEALTH": 25
+    },
+    "FIREDUST_DAGGER": {
+      "CRITICAL_DAMAGE": 15,
+      "STRENGTH": 45,
+      "DAMAGE": 90
+    },
+    "HEAT_LEGGINGS": {
+      "MINING_FORTUNE": 10,
+      "DEFENSE": 50,
+      "HEAT_RESISTANCE": 20,
+      "STRENGTH": 15,
+      "HEALTH": 20,
+      "MINING_SPEED": 15
+    },
+    "SORROW_LEGGINGS": {
+      "MINING_FORTUNE": 20,
+      "MAGIC_FIND": 5,
+      "MINING_SPEED": 50,
+      "TRUE_DEFENSE": 70
+    },
+    "SHAMAN_SWORD": {
+      "WALK_SPEED": 5,
+      "STRENGTH": 20,
+      "DAMAGE": 100
+    },
+    "YETI_SWORD": {
+      "INTELLIGENCE": 50,
+      "WEAPON_ABILITY_DAMAGE": 15000,
+      "STRENGTH": 170,
+      "DAMAGE": 150
+    },
+    "PUMPKIN_BOMB": {
+      "WEAPON_ABILITY_DAMAGE": 3000
+    },
+    "LUSH_RING": {
+      "HEALTH": 3
+    },
+    "FIGSTONE_AXE": {
+      "SWEEP": 25,
+      "FORAGING_FORTUNE": 35,
+      "STRENGTH": 15,
+      "DAMAGE": 50
+    },
+    "MINERAL_CHESTPLATE": {
+      "DEFENSE": 125,
+      "WALK_SPEED": 15,
+      "BLOCK_FORTUNE": 25
+    },
+    "FEROCITY_SWORD_50": {
+      "FEROCITY": 50,
+      "DAMAGE": 10
+    },
+    "HEARTFIRE_DAGGER": {
+      "ATTACK_SPEED": 20,
+      "CRITICAL_CHANCE": 10,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 75,
+      "DAMAGE": 160
+    },
+    "STAR_SWORD_3000": {
+      "DAMAGE": 999999
+    },
+    "CANOPY_BOOTS": {
+      "DEFENSE": 20,
+      "SWEEP": 6,
+      "HEALTH": 50
+    },
+    "INFERNAL_CRIMSON_HELMET": {
+      "INTELLIGENCE": 38,
+      "DEFENSE": 126,
+      "CRITICAL_DAMAGE": 50,
+      "STRENGTH": 76,
+      "HEALTH": 403
+    },
+    "RAGGEDY_SHARK_TOOTH_NECKLACE": {
+      "STRENGTH": 2
+    },
+    "VANQUISHED_GHAST_CLOAK": {
+      "DEFENSE": 10,
+      "HEALTH": 10
+    },
+    "CHICKEN_AXE": {
+      "DAMAGE": 20
+    },
+    "ICHTHYIC_BELT": {
+      "FISHING_SPEED": 6,
+      "HEALTH": 12
+    },
+    "STARLIGHT_LEGGINGS": {
+      "INTELLIGENCE": 60,
+      "DEFENSE": 30,
+      "HEALTH": 30
+    },
+    "REDSTONE_TIPPED_ARROW": {
+      "DAMAGE": 15
+    },
+    "EON_PICKAXE": {
+      "RIFT_DAMAGE": 5
+    },
+    "DIRT_ROD": {
+      "FISHING_SPEED": 20
+    },
+    "PUNCHCARD_ARTIFACT": {
+      "RIFT_TIME": 30
+    },
+    "ALPHA_PICK": {
+      "BREAKING_POWER": 1,
+      "MINING_SPEED": 1
+    },
+    "MASTIFF_BOOTS": {
+      "INTELLIGENCE": 25,
+      "CRITICAL_DAMAGE": 15,
+      "HEALTH": 200
+    },
+    "VENOMS_TOUCH": {
+      "STRENGTH": 100,
+      "DAMAGE": 250
+    },
+    "WATER_HYDRA_HEAD": {
+      "DEFENSE": 100,
+      "HEALTH": 100,
+      "SEA_CREATURE_CHANCE": 2
+    },
+    "SNAKE_IN_A_BOOT": {
+      "RIFT_WALK_SPEED": 7,
+      "RIFT_TIME": 60
+    },
+    "HOT_FERVOR_CHESTPLATE": {
+      "INTELLIGENCE": 6,
+      "DEFENSE": 176,
+      "HEALTH": 334,
+      "TRUE_DEFENSE": 6
+    },
+    "GILLSPLASH_BELT": {
+      "FISHING_SPEED": 14,
+      "HEALTH_REGENERATION": 2,
+      "HEALTH": 30
+    },
+    "TARANTULA_CHESTPLATE": {
+      "INTELLIGENCE": 100,
+      "DEFENSE": 100,
+      "HEALTH": 120
+    },
+    "INFERNAL_TERROR_LEGGINGS": {
+      "INTELLIGENCE": 13,
+      "DEFENSE": 139,
+      "WALK_SPEED": 30,
+      "CRITICAL_DAMAGE": 126,
+      "HEALTH": 517
+    },
+    "VANGUARD_LEGGINGS": {
+      "COLD_RESISTANCE": 1
+    },
+    "DIVAN_CHESTPLATE": {
+      "MINING_FORTUNE": 30,
+      "DEFENSE": 130,
+      "HEAT_RESISTANCE": 10,
+      "HEALTH": 200,
+      "MINING_SPEED": 80
+    },
+    "SUPERIOR_DRAGON_CHESTPLATE": {
+      "INTELLIGENCE": 25,
+      "DEFENSE": 190,
+      "WALK_SPEED": 3,
+      "CRITICAL_CHANCE": 2,
+      "CRITICAL_DAMAGE": 10,
+      "STRENGTH": 10,
+      "HEALTH": 150
+    },
+    "LYNX_TALISMAN": {
+      "WALK_SPEED": 2
+    },
+    "FROZEN_BLAZE_BOOTS": {
+      "DEFENSE": 95,
+      "WALK_SPEED": 2,
+      "STRENGTH": 40
+    },
+    "CHALLENGER_BELT": {
+      "DEFENSE": 10,
+      "STRENGTH": 5,
+      "HEALTH": 20
+    },
+    "COW_HEAD": {
+      "DEFENSE": 5,
+      "HEALTH": 10
+    },
+    "INFERNAL_CRIMSON_BOOTS": {
+      "INTELLIGENCE": 13,
+      "DEFENSE": 101,
+      "CRITICAL_DAMAGE": 50,
+      "STRENGTH": 76,
+      "HEALTH": 328
+    },
+    "BERSERKER_BOOTS": {
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 25
+    },
+    "PROTECTOR_DRAGON_BOOTS": {
+      "DEFENSE": 115,
+      "HEALTH": 60
+    },
+    "SPEEDSTER_CHESTPLATE": {
+      "DEFENSE": 70,
+      "WALK_SPEED": 15
+    },
+    "END_LEGGINGS": {
+      "DEFENSE": 50,
+      "HEALTH": 25
+    },
+    "FANCY_TUXEDO_CHESTPLATE": {
+      "INTELLIGENCE": 150,
+      "CRITICAL_DAMAGE": 80
+    },
+    "BACKWATER_HELMET": {
+      "DEFENSE": 15,
+      "HEALTH": 30,
+      "SEA_CREATURE_CHANCE": 2
+    },
+    "SPONGE_BOOTS": {
+      "DEFENSE": 75,
+      "SEA_CREATURE_CHANCE": 2
+    },
+    "UNDEAD_BOW": {
+      "DAMAGE": 80
+    },
+    "FERMENTO_LEGGINGS": {
+      "DEFENSE": 40,
+      "WALK_SPEED": 6,
+      "FARMING_FORTUNE": 35,
+      "HEALTH": 195
+    },
+    "HOT_AURORA_HELMET": {
+      "INTELLIGENCE": 347,
+      "DEFENSE": 63,
+      "ABILITY_DAMAGE_PERCENT": 20,
+      "HEALTH": 202
+    },
+    "CHEAP_TUXEDO_LEGGINGS": {
+      "INTELLIGENCE": 25,
+      "CRITICAL_DAMAGE": 25
+    },
+    "ZOMBIE_MASK": {
+      "HEALTH": 1
+    },
+    "VANQUISHED_BLAZE_BELT": {
+      "DEFENSE": 20,
+      "STRENGTH": 5
+    },
+    "WITCH_RING": {
+      "ALCHEMY_WISDOM": 1
+    },
+    "SCARF_THESIS": {
+      "RIFT_TIME": 11
+    },
+    "RABBIT_LEGGINGS": {
+      "DEFENSE": 30,
+      "WALK_SPEED": 5
+    },
+    "GUNTHER_SNEAKERS": {
+      "RIFT_WALK_SPEED": 4,
+      "RIFT_TIME": 30
+    },
+    "LEGGINGS_OF_THE_COVEN": {
+      "RIFT_MANA_REGEN": 6,
+      "RIFT_HEALTH": 1,
+      "RIFT_TIME": 80
+    },
+    "WITHER_BOOTS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 150,
+      "HEALTH": 180
+    },
+    "SALMON_BOOTS_NEW": {
+      "DEFENSE": 20,
+      "HEALTH": 85
+    },
+    "BOSS_SPIRIT_BOW": {
+      "DAMAGE": 1
+    },
+    "CRIMSON_BOOTS": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 40,
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 30,
+      "HEALTH": 130
+    },
+    "CLOWNFISH_HAT": {
+      "INTELLIGENCE": 50
+    },
+    "SORROW_BOOTS": {
+      "MINING_FORTUNE": 20,
+      "MAGIC_FIND": 5,
+      "MINING_SPEED": 50,
+      "TRUE_DEFENSE": 40
+    },
+    "AXE_OF_THE_SHREDDED": {
+      "STRENGTH": 115,
+      "DAMAGE": 140
+    },
+    "DRAGONFUSE_GLOVE": {
+      "DEFENSE": 5,
+      "CRITICAL_DAMAGE": 5,
+      "HEALTH": 30
+    },
+    "LAPIS_ARMOR_CHESTPLATE": {
+      "MINING_FORTUNE": 2,
+      "DEFENSE": 40,
+      "MINING_SPEED": 20
+    },
+    "STARRED_VENOMS_TOUCH": {
+      "STRENGTH": 180,
+      "DAMAGE": 370
+    },
+    "BRONZE_HUNTER_HELMET": {
+      "HEALTH": 50
+    },
+    "AURORA_CHESTPLATE": {
+      "INTELLIGENCE": 175,
+      "DEFENSE": 65,
+      "HEALTH": 230
+    },
+    "MAGICAL_STAFF": {
+      "DAMAGE": 20
+    },
+    "BLOSSOM_BRACELET": {
+      "FARMING_FORTUNE": 7,
+      "HEALTH": 15
+    },
+    "ARACK": {
+      "DAMAGE": 90
+    },
+    "HELMET_OF_LIVE_RELOADING": {
+      "HEALTH": 2000
+    },
+    "AURORA_BOOTS": {
+      "INTELLIGENCE": 175,
+      "DEFENSE": 40,
+      "HEALTH": 130
+    },
+    "ARTISANAL_SHORTBOW": {
+      "DAMAGE": 40
+    },
+    "CLOWNFISH_CLOAK": {
+      "TROPHY_FISH_CHANCE": 1,
+      "FISHING_SPEED": 2
+    },
+    "WITHER_CLOAK": {
+      "DEFENSE": 250,
+      "STRENGTH": 135,
+      "DAMAGE": 190
+    },
+    "BAT_TALISMAN": {
+      "INTELLIGENCE": 1,
+      "WALK_SPEED": 1,
+      "HEALTH": 1
+    },
+    "STARRED_BAT_WAND": {
+      "INTELLIGENCE": 330,
+      "WEAPON_ABILITY_DAMAGE": 2250,
+      "DAMAGE": 190
+    },
+    "LUSH_ARTIFACT": {
+      "HEALTH_REGENERATION": 1,
+      "HEALTH": 5
+    },
+    "FERMENTO_CHESTPLATE": {
+      "DEFENSE": 40,
+      "WALK_SPEED": 6,
+      "FARMING_FORTUNE": 35,
+      "HEALTH": 195
+    },
+    "SHENS_RINGALIA": {
+      "RIFT_TIME": 50
+    },
+    "SALMON_HAT_CELEBRATION": {
+      "WALK_SPEED": 2,
+      "STRENGTH": 15
+    },
+    "GREAT_SPOOK_GLOVES": {
+      "FEAR": 5
+    },
+    "NECROMANCER_LORD_LEGGINGS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 220,
+      "HEALTH": 250
+    },
+    "SALMON_CHESTPLATE": {
+      "DEFENSE": 55,
+      "HEALTH": 130
+    },
+    "FIERY_FERVOR_HELMET": {
+      "INTELLIGENCE": 30,
+      "DEFENSE": 200,
+      "HEALTH": 360,
+      "TRUE_DEFENSE": 10
+    },
+    "GOLEM_ARMOR_LEGGINGS": {
+      "DEFENSE": 75,
+      "HEALTH": 55
+    },
+    "SQUIRE_LEGGINGS": {
+      "DEFENSE": 30,
+      "STRENGTH": 5,
+      "HEALTH": 30
+    },
+    "GROWTH_CHESTPLATE": {
+      "DEFENSE": 50,
+      "HEALTH": 100
+    },
+    "TITANIUM_BELT": {
+      "MINING_FORTUNE": 10,
+      "MINING_SPEED": 30
+    },
+    "MERCENARY_AXE": {
+      "STRENGTH": 20,
+      "DAMAGE": 70
+    },
+    "WOOD_SWORD": {
+      "DAMAGE": 20
+    },
+    "SUNFLOWER_HEAD": {
+      "FARMING_FORTUNE": 10
+    },
+    "SPIDER_BOOTS": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 45,
+      "WALK_SPEED": 5
+    },
+    "REVENANT_BOOTS": {
+      "DEFENSE": 30,
+      "HEALTH": 100
+    },
+    "WARM_WIZARD_FACE": {
+      "RIFT_HEALTH": 1,
+      "RIFT_TIME": 130,
+      "RIFT_INTELLIGENCE": 26
+    },
+    "MYTHOS_NECKLACE": {
+      "DEFENSE": 15,
+      "STRENGTH": 15,
+      "HEALTH": 25
+    },
+    "RANCHERS_BOOTS": {
+      "DEFENSE": 70,
+      "WALK_SPEED": 50,
+      "HEALTH": 100
+    },
+    "HARVESTING_SWORD": {
+      "DAMAGE": 50
+    },
+    "RUNAANS_BOW": {
+      "STRENGTH": 50,
+      "DAMAGE": 160
+    },
+    "PROMISING_PICKAXE": {
+      "BREAKING_POWER": 3,
+      "MINING_SPEED": 50,
+      "DAMAGE": 20
+    },
+    "MITHRIL_PICKAXE": {
+      "MINING_FORTUNE": 7,
+      "BREAKING_POWER": 5,
+      "MINING_SPEED": 300,
+      "DAMAGE": 40
+    },
+    "RED_CLAW_ARTIFACT": {
+      "CRITICAL_DAMAGE": 5
+    },
+    "IMPLOSION_SCROLL": {
+      "WEAPON_ABILITY_DAMAGE": 10000
+    },
+    "AIMING_BOW": {
+      "DAMAGE": 100
+    },
+    "LEECH_BELT": {
+      "RIFT_WALK_SPEED": 3,
+      "RIFT_TIME": 80,
+      "RIFT_INTELLIGENCE": 5
+    },
+    "SNOW_SUIT_CHESTPLATE": {
+      "DEFENSE": 40,
+      "HEALTH": 100
+    },
+    "OXFORD_SHOES": {
+      "DEFENSE": 10,
+      "HEALTH": 25
+    },
+    "DIAMOND_PROFESSOR_HEAD": {
+      "DEFENSE": 40,
+      "STRENGTH": 20,
+      "HEALTH": 100
+    },
+    "GOLD_HUNTER_HELMET": {
+      "HEALTH": 100
+    },
+    "PESTHUNTER_RELIC": {
+      "BONUS_PEST_CHANCE": 80
+    },
+    "DIAMOND_PICKAXE": {
+      "BREAKING_POWER": 4,
+      "MINING_SPEED": 220,
+      "DAMAGE": 30
+    },
+    "GOLEM_ARMOR_BOOTS": {
+      "DEFENSE": 40,
+      "HEALTH": 40
+    },
+    "PICKONIMBUS": {
+      "BREAKING_POWER": 8,
+      "MINING_SPEED": 750,
+      "DAMAGE": 30
+    },
+    "SHADOW_ASSASSIN_HELMET": {
+      "DEFENSE": 70,
+      "WALK_SPEED": 7,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 25,
+      "HEALTH": 160
+    },
+    "MOOGMA_LEGGINGS": {
+      "DEFENSE": 175,
+      "CRITICAL_DAMAGE": 15,
+      "HEALTH": 200,
+      "SEA_CREATURE_CHANCE": 3
+    },
+    "WYLD_CHESTPLATE": {
+      "RIFT_TIME": 15
+    },
+    "JERRY_TALISMAN_GOLDEN": {
+      "INTELLIGENCE": -4
+    },
+    "GREAT_SPOOK_STAFF": {
+      "FEAR": 10
+    },
+    "WEREWOLF_HELMET": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 135,
+      "FEROCITY": 10
+    },
+    "GOLDEN_FLEECE": {
+      "CRITICAL_DAMAGE": 15,
+      "STRENGTH": 20,
+      "TRUE_DEFENSE": 10
+    },
+    "EMBER_CHESTPLATE": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 60,
+      "HEALTH": 65
+    },
+    "TITANIUM_GAUNTLET": {
+      "MINING_FORTUNE": 10,
+      "MINING_SPEED": 30
+    },
+    "LEATHER_BOOTS": {
+      "DEFENSE": 5
+    },
+    "ZOMBIE_HAT": {
+      "DEFENSE": 10
+    },
+    "WARDING_TRINKET": {
+      "RIFT_TIME": 40,
+      "RIFT_INTELLIGENCE": 5
+    },
+    "ARMOR_OF_THE_RESISTANCE_BOOTS": {
+      "DEFENSE": 8,
+      "HEALTH": 8
+    },
+    "WARDEN_HELMET": {
+      "DEFENSE": 100,
+      "HEALTH": 300
+    },
+    "GREAT_SPOOK_TALISMAN": {
+      "FEAR": 2
+    },
+    "MITHRIL_GAUNTLET": {
+      "MINING_FORTUNE": 5,
+      "MINING_SPEED": 20
+    },
+    "LEATHER_LEGGINGS": {
+      "DEFENSE": 10
+    },
+    "FIRE_FURY_STAFF": {
+      "INTELLIGENCE": 300,
+      "WEAPON_ABILITY_DAMAGE": 42000,
+      "DAMAGE": 100
+    },
+    "CROWN_OF_AVARICE_CELEBRATION": {
+      "DEFENSE": 100,
+      "HEALTH": 200
+    },
+    "INFERNAL_FERVOR_BOOTS": {
+      "INTELLIGENCE": 13,
+      "DEFENSE": 214,
+      "HEALTH": 403,
+      "TRUE_DEFENSE": 12
+    },
+    "CHALLENGER_CHESTPLATE": {
+      "DEFENSE": 40,
+      "STRENGTH": 25,
+      "HEALTH": 80
+    },
+    "FISHING_ROD": {
+      "FISHING_SPEED": 5,
+      "STRENGTH": 15,
+      "SEA_CREATURE_CHANCE": 1,
+      "DAMAGE": 15
+    },
+    "SUPERIOR_DRAGON_HELMET": {
+      "INTELLIGENCE": 25,
+      "DEFENSE": 130,
+      "WALK_SPEED": 3,
+      "CRITICAL_CHANCE": 2,
+      "CRITICAL_DAMAGE": 10,
+      "STRENGTH": 10,
+      "HEALTH": 90
+    },
+    "BIOHAZARD_SUIT": {
+      "DEFENSE": 20,
+      "HEALTH": 20
+    },
+    "SWORD_OF_LIVE_RELOADING": {
+      "FEROCITY": 600,
+      "DAMAGE": 69
+    },
+    "TANK_MINER_HELMET": {
+      "DEFENSE": 15,
+      "MINING_SPEED": 10
+    },
+    "THUNDER_CHESTPLATE": {
+      "DEFENSE": 225,
+      "STRENGTH": 25,
+      "HEALTH": 250,
+      "SEA_CREATURE_CHANCE": 4
+    },
+    "END_STONE_BOW": {
+      "DAMAGE": 140
+    },
+    "BEE_MASK": {
+      "WALK_SPEED": 7,
+      "FORAGING_FORTUNE": 7,
+      "HEALTH": 7
+    },
+    "TERA_SHELL_NECKLACE": {
+      "INTELLIGENCE": 20,
+      "DEFENSE": 30,
+      "HEALTH": 80
+    },
+    "NUTCRACKER_LEGGINGS": {
+      "DEFENSE": 35,
+      "HEALTH": 85
+    },
+    "RESPIRATION_TALISMAN": {
+      "RESPIRATION": 5
+    },
+    "HOT_CRIMSON_LEGGINGS": {
+      "INTELLIGENCE": 6,
+      "DEFENSE": 69,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 38,
+      "HEALTH": 258
+    },
+    "IMPLOSION_BELT": {
+      "DEFENSE": 70
+    },
+    "STRONG_DRAGON_LEGGINGS": {
+      "DEFENSE": 140,
+      "STRENGTH": 25,
+      "HEALTH": 100
+    },
+    "HELIX_ARMOR_LEGGINGS": {
+      "DEFENSE": 45,
+      "SWEEP": 20,
+      "FORAGING_FORTUNE": 45,
+      "HEALTH": 165
+    },
+    "RAMPART_HELMET": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 45,
+      "HEALTH": 100
+    },
+    "ELEANOR_SLIPPERS": {
+      "RIFT_TIME": 20,
+      "HEALTH": 40
+    },
+    "SQUIRE_SWORD": {
+      "STRENGTH": 10,
+      "DAMAGE": 50
+    },
+    "UNSTABLE_DRAGON_CHESTPLATE": {
+      "DEFENSE": 160,
+      "CRITICAL_CHANCE": 5,
+      "CRITICAL_DAMAGE": 15,
+      "HEALTH": 120
+    },
+    "BIGGER_SPRING_BOOTS": {
+      "DEFENSE": 10
+    },
+    "GENERALS_ARMOR_OF_THE_RESISTANCE_LEGGINGS": {
+      "DEFENSE": 12,
+      "HEALTH": 12
+    },
+    "TITANIUM_NECKLACE": {
+      "MINING_FORTUNE": 10,
+      "MINING_SPEED": 30
+    },
+    "CUTLASS": {
+      "ATTACK_SPEED": 100,
+      "DAMAGE": 1
+    },
+    "PRESSURE_ARTIFACT": {
+      "PRESSURE_RESISTANCE": 30
+    },
+    "CLAY_BRACELET": {
+      "TROPHY_FISH_CHANCE": 1,
+      "FISHING_SPEED": 2
+    },
+    "BOW": {
+      "DAMAGE": 30
+    },
+    "FIERY_TERROR_BOOTS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 80,
+      "WALK_SPEED": 24,
+      "CRITICAL_DAMAGE": 100,
+      "HEALTH": 260
+    },
+    "ARACHNE_HELMET": {
+      "DEFENSE": 40,
+      "HEALTH": 55
+    },
+    "CHEETAH_TALISMAN": {
+      "WALK_SPEED": 3
+    },
+    "FIERY_CRIMSON_HELMET": {
+      "INTELLIGENCE": 30,
+      "DEFENSE": 100,
+      "CRITICAL_DAMAGE": 40,
+      "STRENGTH": 60,
+      "HEALTH": 320
+    },
+    "WITHER_GOGGLES": {
+      "INTELLIGENCE": 300,
+      "ABILITY_DAMAGE_PERCENT": 45
+    },
+    "VAMPIRE_DENTIST_RELIC": {
+      "RIFT_HEALTH": 1,
+      "HEALTH_REGENERATION": 5,
+      "VITALITY": 1,
+      "RIFT_TIME": 30
+    },
+    "SOULWEAVER_GLOVES": {
+      "CRITICAL_DAMAGE": 10,
+      "STRENGTH": 10
+    },
+    "TORMENTOR": {
+      "CRITICAL_DAMAGE": 100,
+      "STRENGTH": 30,
+      "DAMAGE": 525
+    },
+    "TANK_WITHER_LEGGINGS": {
+      "INTELLIGENCE": 20,
+      "DEFENSE": 240,
+      "HEALTH": 260
+    },
+    "ANGUISH_ARTIFACT": {
+      "MAGIC_FIND": 3
+    },
+    "BIOHAZARD_HELMET": {
+      "DEFENSE": 10,
+      "HEALTH": 20
+    },
+    "FIERY_HOLLOW_BOOTS": {
+      "INTELLIGENCE": 170,
+      "DEFENSE": 88,
+      "WALK_SPEED": 10,
+      "HEALTH": 293,
+      "MENDING": 10
+    },
+    "PESTHUNTERS_BELT": {
+      "BONUS_PEST_CHANCE": 5
+    },
+    "GHOUL_BUSTER": {
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 90,
+      "DAMAGE": 140
+    },
+    "INFERNAL_FERVOR_HELMET": {
+      "INTELLIGENCE": 38,
+      "DEFENSE": 252,
+      "HEALTH": 454,
+      "TRUE_DEFENSE": 12
+    },
+    "FIG_LEGGINGS": {
+      "DEFENSE": 35,
+      "SWEEP": 10,
+      "FORAGING_FORTUNE": 30,
+      "HEALTH": 140
+    },
+    "STARRED_THORNS_BOOTS": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 50,
+      "WALK_SPEED": 35,
+      "STRENGTH": 35,
+      "HEALTH": 150
+    },
+    "CHARLIE_TROUSERS": {
+      "DEFENSE": 15,
+      "FORAGING_FORTUNE": 6,
+      "HEALTH": 45
+    },
+    "EMERALD_ARMOR_HELMET": {
+      "DEFENSE": 50
+    },
+    "HARDENED_DIAMOND_HELMET": {
+      "DEFENSE": 60
+    },
+    "GOLEM_SWORD": {
+      "DEFENSE": 25,
+      "WEAPON_ABILITY_DAMAGE": 250,
+      "STRENGTH": 125,
+      "DAMAGE": 80
+    },
+    "CHAINMAIL_LEGGINGS": {
+      "DEFENSE": 20
+    },
+    "REVIVED_HEART": {
+      "INTELLIGENCE": 100,
+      "DEFENSE": 35,
+      "VITALITY": 50,
+      "HEALTH": 100,
+      "MENDING": 50
+    },
+    "ETALPTSEHC_NORI": {
+      "RIFT_TIME": 30
+    },
+    "HOLY_DRAGON_CHESTPLATE": {
+      "DEFENSE": 160,
+      "HEALTH": 180,
+      "MENDING": 10
+    },
+    "SPIDER_HAT": {
+      "CRITICAL_CHANCE": 25
+    },
+    "TANK_WITHER_CHESTPLATE": {
+      "INTELLIGENCE": 20,
+      "DEFENSE": 275,
+      "HEALTH": 310
+    },
+    "PRIMORDIAL_HELMET": {
+      "INTELLIGENCE": 100,
+      "DEFENSE": 100,
+      "CRITICAL_DAMAGE": 10,
+      "HEALTH": 120
+    },
+    "ROOKIE_FARMING_AXE": {
+      "FARMING_FORTUNE": 5
+    },
+    "FROZEN_BLAZE_LEGGINGS": {
+      "DEFENSE": 140,
+      "WALK_SPEED": 2,
+      "STRENGTH": 40
+    },
+    "ZOOM_PICKAXE": {
+      "BREAKING_POWER": 10,
+      "MINING_SPEED": 99999999,
+      "DAMAGE": 99999999,
+      "SWING_RANGE": 15
+    },
+    "LEATHER_CHESTPLATE": {
+      "DEFENSE": 15
+    },
+    "LEGGINGS_OF_THE_PACK": {
+      "DEFENSE": 75,
+      "HEALTH": 80
+    },
+    "SATIN_TROUSERS": {
+      "DEFENSE": 10,
+      "HEALTH": 25
+    },
+    "ADVANCED_GARDENING_HOE": {
+      "FARMING_FORTUNE": 15
+    },
+    "STARRED_ADAPTIVE_LEGGINGS": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 75,
+      "STRENGTH": 15,
+      "HEALTH": 155
+    },
+    "NECROMANCER_LORD_HELMET": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 160,
+      "HEALTH": 200
+    },
+    "BURSTMAW_DAGGER": {
+      "ATTACK_SPEED": 10,
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 55,
+      "DAMAGE": 130
+    },
+    "INFINI_VACUUM": {
+      "FARMING_FORTUNE": 20,
+      "DAMAGE": 300
+    },
+    "SQUASH_BOOTS": {
+      "DEFENSE": 35,
+      "WALK_SPEED": 4,
+      "BONUS_PEST_CHANCE": 15,
+      "FARMING_FORTUNE": 25,
+      "HEALTH": 120
+    },
+    "TORRHUS_RING": {
+      "HELIX_FORTUNE": 10
+    },
+    "MAGMA_LORD_GAUNTLET": {
+      "FEROCITY": 2,
+      "STRENGTH": 10,
+      "HEALTH": 45
+    },
+    "GLACITE_BOOTS": {
+      "MINING_FORTUNE": 5,
+      "DEFENSE": 70,
+      "WALK_SPEED": 10,
+      "MINING_SPEED": 10,
+      "TRUE_DEFENSE": 5
+    },
+    "HEAT_HELMET": {
+      "MINING_FORTUNE": 10,
+      "DEFENSE": 50,
+      "HEAT_RESISTANCE": 20,
+      "STRENGTH": 15,
+      "HEALTH": 20,
+      "MINING_SPEED": 15
+    },
+    "CHUM_ROD": {
+      "FISHING_SPEED": 70,
+      "STRENGTH": 40,
+      "SEA_CREATURE_CHANCE": 2,
+      "DAMAGE": 55
+    },
+    "AUGER_ROD": {
+      "FISHING_SPEED": 110,
+      "STRENGTH": 90,
+      "DAMAGE": 135
+    },
+    "BURNING_CRIMSON_BOOTS": {
+      "INTELLIGENCE": 8,
+      "DEFENSE": 64,
+      "CRITICAL_DAMAGE": 32,
+      "STRENGTH": 48,
+      "HEALTH": 206
+    },
+    "CRYSTALLIZED_HEART": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 10,
+      "VITALITY": 40,
+      "HEALTH": 50,
+      "MENDING": 40
+    },
+    "SHARK_SCALE_HELMET": {
+      "DEFENSE": 125,
+      "HEALTH": 150
+    },
+    "HONED_SHARK_TOOTH_NECKLACE": {
+      "STRENGTH": 6
+    },
+    "FALLEN_STAR_HAT": {
+      "INTELLIGENCE": 2,
+      "DEFENSE": 30,
+      "HEALTH": 50
+    },
+    "SHARK_SCALE_CHESTPLATE": {
+      "DEFENSE": 175,
+      "HEALTH": 200
+    },
+    "REFINED_MITHRIL_PICKAXE": {
+      "MINING_FORTUNE": 10,
+      "BREAKING_POWER": 5,
+      "MINING_SPEED": 350,
+      "DAMAGE": 50
+    },
+    "PERFECT_BOOTS_10": {
+      "DEFENSE": 270
+    },
+    "AGARIMOO_RING": {
+      "FISHING_SPEED": 2,
+      "FISHING_WISDOM": 1
+    },
+    "PERFECT_BOOTS_12": {
+      "DEFENSE": 310
+    },
+    "FINAL_DESTINATION_HELMET": {
+      "INTELLIGENCE": 100,
+      "DEFENSE": 100,
+      "HEALTH": 140
+    },
+    "PERFECT_BOOTS_11": {
+      "DEFENSE": 290
+    },
+    "BURNING_TERROR_HELMET": {
+      "INTELLIGENCE": 24,
+      "DEFENSE": 79,
+      "WALK_SPEED": 19,
+      "CRITICAL_DAMAGE": 79,
+      "HEALTH": 254
+    },
+    "PERFECT_BOOTS_13": {
+      "DEFENSE": 330
+    },
+    "SPEED_WITHER_HELMET": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 80,
+      "WALK_SPEED": 30,
+      "CRITICAL_DAMAGE": 45,
+      "HEALTH": 180
+    },
+    "THERMODYNAMIC_HELMET": {
+      "DEFENSE": 135,
+      "WALK_SPEED": 25,
+      "ATTACK_SPEED": 5
+    },
+    "VERMIN_BELT": {
+      "RIFT_WALK_SPEED": 4,
+      "RIFT_TIME": 100,
+      "RIFT_INTELLIGENCE": 10
+    },
+    "PUMPKIN_BOOTS": {
+      "DEFENSE": 20,
+      "FARMING_FORTUNE": 15
+    },
+    "ODGERS_SILVER_TOOTH": {
+      "TROPHY_FISH_CHANCE": 2,
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "COW_AXE": {
+      "DAMAGE": 20
+    },
+    "SPEED_RELIC": {
+      "WALK_SPEED": 7,
+      "ATTACK_SPEED": 1,
+      "FISHING_SPEED": 1,
+      "MINING_SPEED": 1
+    },
+    "MINER_OUTFIT_CHESTPLATE": {
+      "DEFENSE": 40,
+      "MINING_SPEED": 15
+    },
+    "GREAT_SPOOK_NECKLACE": {
+      "FEAR": 5
+    },
+    "ARMOR_OF_YOG_CHESTPLATE": {
+      "MINING_FORTUNE": 20,
+      "DEFENSE": 15,
+      "HEAT_RESISTANCE": 10,
+      "HEALTH": 50,
+      "MINING_SPEED": 25
+    },
+    "DIVAN_HELMET": {
+      "MINING_FORTUNE": 30,
+      "DEFENSE": 130,
+      "HEAT_RESISTANCE": 10,
+      "HEALTH": 100,
+      "MINING_SPEED": 80
+    },
+    "FIG_CHESTPLATE": {
+      "DEFENSE": 45,
+      "SWEEP": 10,
+      "FORAGING_FORTUNE": 30,
+      "HEALTH": 160
+    },
+    "DAVIDS_CLOAK": {
+      "MAGIC_FIND": 2,
+      "HEALTH": 50
+    },
+    "ICE_ROD": {
+      "FISHING_SPEED": 15,
+      "DAMAGE": 30
+    },
+    "CHAINMAIL_BOOTS": {
+      "DEFENSE": 7
+    },
+    "GENERALS_ARMOR_OF_THE_RESISTANCE_CHESTPLATE": {
+      "DEFENSE": 15,
+      "HEALTH": 15
+    },
+    "GEMSTONE_GAUNTLET": {
+      "BREAKING_POWER": 8,
+      "STRENGTH": 50,
+      "MINING_SPEED": 800,
+      "DAMAGE": 300
+    },
+    "REFINED_TITANIUM_PICKAXE": {
+      "BREAKING_POWER": 6,
+      "MINING_SPEED": 200,
+      "DAMAGE": 65
+    },
+    "STARRED_SHADOW_FURY": {
+      "WALK_SPEED": 40,
+      "CRITICAL_DAMAGE": 60,
+      "STRENGTH": 160,
+      "DAMAGE": 310
+    },
+    "BAT_PERSON_HELMET": {
+      "DEFENSE": 15
+    },
+    "CHEAP_TUXEDO_BOOTS": {
+      "INTELLIGENCE": 25,
+      "CRITICAL_DAMAGE": 25
+    },
+    "RING_OF_BROKEN_LOVE": {
+      "RIFT_TIME": 80
+    },
+    "PRISMARINE_BOW": {
+      "STRENGTH": 25,
+      "DAMAGE": 50
+    },
+    "SALMON_HELMET_NEW": {
+      "DEFENSE": 30,
+      "HEALTH": 100
+    },
+    "HOLY_DRAGON_BOOTS": {
+      "DEFENSE": 90,
+      "HEALTH": 100,
+      "MENDING": 10
+    },
+    "DOJO_WHITE_BELT": {
+      "DEFENSE": 5,
+      "HEALTH": 10
+    },
+    "HOLY_DRAGON_LEGGINGS": {
+      "DEFENSE": 140,
+      "HEALTH": 155,
+      "MENDING": 10
+    },
+    "TARANTULA_HELMET": {
+      "INTELLIGENCE": 80,
+      "DEFENSE": 80,
+      "HEALTH": 100
+    },
+    "BLOOD_DONOR_RING": {
+      "RIFT_MANA_REGEN": 5,
+      "HEALTH_REGENERATION": 2,
+      "RIFT_TIME": 10
+    },
+    "HOT_HOLLOW_CHESTPLATE": {
+      "INTELLIGENCE": 107,
+      "DEFENSE": 88,
+      "WALK_SPEED": 6,
+      "HEALTH": 313,
+      "MENDING": 6
+    },
+    "STONE_SPADE": {
+      "DAMAGE": 20
+    },
+    "GENERALS_ARMOR_OF_THE_RESISTANCE_BOOTS": {
+      "DEFENSE": 8,
+      "HEALTH": 8
+    },
+    "CELESTE_CHESTPLATE": {
+      "INTELLIGENCE": 60,
+      "DEFENSE": 25,
+      "HEALTH": 25
+    },
+    "GOLD_HUNTER_LEGGINGS": {
+      "HEALTH": 125
+    },
+    "GLOWSTONE_GAUNTLET": {
+      "INTELLIGENCE": 10,
+      "MINING_FORTUNE": 5
+    },
+    "FARM_SUIT_BOOTS": {
+      "DEFENSE": 10,
+      "FARMING_FORTUNE": 5
+    },
+    "SCARF_GRIMOIRE": {
+      "RIFT_TIME": 12
+    },
+    "WITCH_MASK": {
+      "DEFENSE": 111,
+      "WEAPON_ABILITY_DAMAGE": 4000,
+      "HEALTH": 66
+    },
+    "GHAST_HEAD": {
+      "HEALTH": 100
+    },
+    "ASPECT_OF_THE_VOID": {
+      "STRENGTH": 100,
+      "DAMAGE": 120
+    },
+    "MAGMA_FISH_HAT": {
+      "INTELLIGENCE": 50
+    },
+    "FAIRY_CHESTPLATE": {
+      "INTELLIGENCE": -1,
+      "DEFENSE": 1,
+      "WALK_SPEED": 10,
+      "HEALTH": 1
+    },
+    "WISE_DRAGON_LEGGINGS": {
+      "INTELLIGENCE": 75,
+      "DEFENSE": 140,
+      "HEALTH": 100
+    },
+    "STAR_CHESTPLATE": {
+      "INTELLIGENCE": 2000,
+      "DEFENSE": 5000,
+      "HEALTH": 20000
+    },
+    "RESPIRATION_RING": {
+      "RESPIRATION": 10
+    },
+    "WISE_DRAGON_HELMET": {
+      "INTELLIGENCE": 125,
+      "DEFENSE": 110,
+      "HEALTH": 70
+    },
+    "NOVA_SWORD": {
+      "DAMAGE": 99999999,
+      "SWING_RANGE": 99999999
+    },
+    "INFERNAL_AURORA_CHESTPLATE": {
+      "INTELLIGENCE": 441,
+      "DEFENSE": 164,
+      "HEALTH": 580
+    },
+    "FLAMING_SWORD": {
+      "STRENGTH": 20,
+      "DAMAGE": 50
+    },
+    "STAFF_OF_THE_RISING_MOON": {
+      "WEAPON_ABILITY_DAMAGE": 1
+    },
+    "BIG_BRAIN_TALISMAN": {
+      "INTELLIGENCE": 1
+    },
+    "DIAMOND_SPADE": {
+      "DAMAGE": 30
+    },
+    "APPLICANT_STATEMENT": {
+      "TROPHY_FISH_CHANCE": 1
+    },
+    "FAIRY_LEGGINGS": {
+      "INTELLIGENCE": -1,
+      "DEFENSE": 1,
+      "WALK_SPEED": 10,
+      "HEALTH": 1
+    },
+    "GOBLIN_BOOTS": {
+      "INTELLIGENCE": -1,
+      "MINING_FORTUNE": 4,
+      "HEALTH": 60,
+      "MINING_SPEED": 10
+    },
+    "TINY_DANCER": {
+      "CRITICAL_DAMAGE": 1
+    },
+    "MASTER_THESIS": {
+      "TROPHY_FISH_CHANCE": 3
+    },
+    "CHUMMING_TALISMAN": {
+      "FISHING_SPEED": 1,
+      "FISHING_WISDOM": 1
+    },
+    "WIZARDMAN_LEGGINGS": {
+      "RIFT_MANA_REGEN": 8,
+      "RIFT_HEALTH": 1,
+      "RIFT_TIME": 100
+    },
+    "SOULS_REBOUND": {
+      "DAMAGE": 450
+    },
+    "TORRHUS_TALISMAN": {
+      "HELIX_FORTUNE": 5
+    },
+    "WITHER_HELMET": {
+      "INTELLIGENCE": 30,
+      "DEFENSE": 100,
+      "HEALTH": 200
+    },
+    "DELIRIUM_NECKLACE": {
+      "INTELLIGENCE": 1,
+      "DEFENSE": 1,
+      "FEROCITY": 1,
+      "WALK_SPEED": 1,
+      "CRITICAL_DAMAGE": 1,
+      "STRENGTH": 1,
+      "MAGIC_FIND": 1,
+      "HEALTH": 1,
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "GOBLIN_CHESTPLATE": {
+      "INTELLIGENCE": -1,
+      "MINING_FORTUNE": 4,
+      "HEALTH": 140,
+      "MINING_SPEED": 10
+    },
+    "DEFECTIVE_MONITOR": {
+      "RIFT_TIME": 60,
+      "RIFT_INTELLIGENCE": 6
+    },
+    "INFERNO_ROD": {
+      "TROPHY_FISH_CHANCE": 20,
+      "FISHING_SPEED": 50,
+      "STRENGTH": 200,
+      "SEA_CREATURE_CHANCE": 10,
+      "DAMAGE": 200
+    },
+    "FIERY_CRIMSON_LEGGINGS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 110,
+      "CRITICAL_DAMAGE": 40,
+      "STRENGTH": 60,
+      "HEALTH": 410
+    },
+    "CHESTPLATE_OF_THE_PACK": {
+      "DEFENSE": 95,
+      "HEALTH": 100
+    },
+    "INFINI_VACUUM_HOOVERIUS": {
+      "FARMING_FORTUNE": 25,
+      "DAMAGE": 400
+    },
+    "NECRON_BLADE": {
+      "INTELLIGENCE": 50,
+      "FEROCITY": 30,
+      "STRENGTH": 110,
+      "DAMAGE": 260
+    },
+    "SORROW_CHESTPLATE": {
+      "MINING_FORTUNE": 20,
+      "MAGIC_FIND": 5,
+      "MINING_SPEED": 50,
+      "TRUE_DEFENSE": 80
+    },
+    "BACKWATER_NECKLACE": {
+      "FISHING_SPEED": 2,
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "ROGUE_SWORD": {
+      "DAMAGE": 20
+    },
+    "ARMOR_OF_MAGMA_CHESTPLATE": {
+      "DEFENSE": 30,
+      "HEALTH": 100
+    },
+    "HOT_AURORA_BOOTS": {
+      "INTELLIGENCE": 221,
+      "DEFENSE": 50,
+      "HEALTH": 164
+    },
+    "DIAMOND_LEGGINGS": {
+      "DEFENSE": 30
+    },
+    "BLOSSOM_BELT": {
+      "FARMING_FORTUNE": 7,
+      "HEALTH": 15
+    },
+    "FUTURE_CALORIES": {
+      "RIFT_TIME": 21
+    },
+    "TEST_WAND_WEAPON": {
+      "RIFT_DAMAGE": 20
+    },
+    "HOT_FERVOR_BOOTS": {
+      "INTELLIGENCE": 6,
+      "DEFENSE": 107,
+      "HEALTH": 202,
+      "TRUE_DEFENSE": 6
+    },
+    "THORNS_BOOTS": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 50,
+      "WALK_SPEED": 25,
+      "STRENGTH": 25,
+      "HEALTH": 150
+    },
+    "SPONGE_HELMET": {
+      "DEFENSE": 100,
+      "SEA_CREATURE_CHANCE": 2
+    },
+    "JERRY_TALISMAN_BLUE": {
+      "INTELLIGENCE": -2
+    },
+    "TITANIUM_TALISMAN": {
+      "MINING_SPEED": 15
+    },
+    "REVENANT_CHESTPLATE": {
+      "DEFENSE": 70,
+      "HEALTH": 180
+    },
+    "SKYMART_VACUUM": {
+      "FARMING_FORTUNE": 5,
+      "DAMAGE": 100
+    },
+    "TORRHUS_BELT": {
+      "SWEEP": 2,
+      "FORAGING_FORTUNE": 10
+    },
+    "SLUG_BOOTS": {
+      "DEFENSE": 125,
+      "STRENGTH": 20,
+      "HEALTH": 150,
+      "SEA_CREATURE_CHANCE": 3
+    },
+    "WYLD_SWORD": {
+      "RIFT_DAMAGE": 2
+    },
+    "PERFECT_HELMET_2": {
+      "DEFENSE": 130
+    },
+    "GOLEM_ARMOR_CHESTPLATE": {
+      "DEFENSE": 90,
+      "HEALTH": 65
+    },
+    "HELIANTHUS_LEGGINGS": {
+      "DEFENSE": 50,
+      "WALK_SPEED": 7,
+      "BONUS_PEST_CHANCE": 20,
+      "FARMING_FORTUNE": 40,
+      "HEALTH": 205
+    },
+    "PERFECT_HELMET_3": {
+      "DEFENSE": 150
+    },
+    "TANK_MINER_BOOTS": {
+      "DEFENSE": 15,
+      "MINING_SPEED": 10
+    },
+    "PERFECT_HELMET_1": {
+      "DEFENSE": 110
+    },
+    "PERFECT_HELMET_6": {
+      "DEFENSE": 210
+    },
+    "PERFECT_HELMET_7": {
+      "DEFENSE": 230
+    },
+    "ANGUISH_RING": {
+      "MAGIC_FIND": 2,
+      "TRUE_DEFENSE": 1
+    },
+    "PERFECT_HELMET_4": {
+      "DEFENSE": 170
+    },
+    "STAR_SWORD": {
+      "DAMAGE": 99999
+    },
+    "PERFECT_HELMET_5": {
+      "DEFENSE": 190
+    },
+    "FANCY_TUXEDO_BOOTS": {
+      "INTELLIGENCE": 75,
+      "WALK_SPEED": 10,
+      "CRITICAL_DAMAGE": 35
+    },
+    "PERFECT_HELMET_8": {
+      "DEFENSE": 250
+    },
+    "PERFECT_HELMET_9": {
+      "DEFENSE": 270
+    },
+    "BURNING_FERVOR_LEGGINGS": {
+      "INTELLIGENCE": 8,
+      "DEFENSE": 183,
+      "HEALTH": 333,
+      "TRUE_DEFENSE": 8
+    },
+    "ARMOR_OF_THE_RESISTANCE_CHESTPLATE": {
+      "DEFENSE": 15,
+      "HEALTH": 15
+    },
+    "CRYSTAL_LEGGINGS": {
+      "INTELLIGENCE": 100,
+      "DEFENSE": 30
+    },
+    "MANGROVE_VINE": {
+      "SWEEP": 1,
+      "FORAGING_FORTUNE": 5
+    },
+    "SILKRIDER_SAFETY_BELT": {
+      "RIFT_WALK_SPEED": 2,
+      "RIFT_TIME": 60
+    },
+    "FIERY_CRIMSON_CHESTPLATE": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 130,
+      "CRITICAL_DAMAGE": 40,
+      "STRENGTH": 60,
+      "HEALTH": 460
+    },
+    "LEECH_SWORD": {
+      "RIFT_DAMAGE": 3
+    },
+    "THE_SHREDDER": {
+      "FEROCITY": 50,
+      "FISHING_SPEED": 115,
+      "DAMAGE": 120
+    },
+    "POWER_WITHER_BOOTS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 85,
+      "CRITICAL_DAMAGE": 30,
+      "STRENGTH": 40,
+      "HEALTH": 145
+    },
+    "ENDER_CLOAK": {
+      "DEFENSE": 10,
+      "HEALTH": 15
+    },
+    "GOLD_THORN_HEAD": {
+      "DEFENSE": 25,
+      "STRENGTH": 15,
+      "HEALTH": 50
+    },
+    "IRON_AXE": {
+      "DAMAGE": 25
+    },
+    "ANGLER_BELT": {
+      "FISHING_SPEED": 1
+    },
+    "SQUASH_CHESTPLATE": {
+      "DEFENSE": 35,
+      "WALK_SPEED": 5,
+      "BONUS_PEST_CHANCE": 15,
+      "FARMING_FORTUNE": 30,
+      "HEALTH": 180
+    },
+    "WITHER_BOW": {
+      "DAMAGE": 30
+    },
+    "REAPER_BOOTS": {
+      "INTELLIGENCE": 250,
+      "DEFENSE": 30,
+      "STRENGTH": 25,
+      "HEALTH": 100
+    },
+    "GREAT_SPOOK_LEGGINGS": {
+      "FEAR": 5
+    },
+    "EMBER_ROD": {
+      "INTELLIGENCE": 50,
+      "WEAPON_ABILITY_DAMAGE": 30,
+      "STRENGTH": 35,
+      "DAMAGE": 80
+    },
+    "RAZOR_SHARP_SHARK_TOOTH_NECKLACE": {
+      "STRENGTH": 10
+    },
+    "SPEEDSTER_LEGGINGS": {
+      "DEFENSE": 60,
+      "WALK_SPEED": 15
+    },
+    "FROZEN_AMULET": {
+      "FISHING_SPEED": 3,
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "FLAMING_FLAY": {
+      "FEROCITY": 25,
+      "STRENGTH": 250,
+      "DAMAGE": 200
+    },
+    "MOLTEN_BELT": {
+      "DEFENSE": 20,
+      "STRENGTH": 20,
+      "HEALTH": 30
+    },
+    "TREECAPITATOR_AXE": {
+      "SWEEP": 25
+    },
+    "HOT_CRIMSON_CHESTPLATE": {
+      "INTELLIGENCE": 6,
+      "DEFENSE": 82,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 38,
+      "HEALTH": 290
+    },
+    "ARACHNE_LEGGINGS": {
+      "DEFENSE": 50,
+      "HEALTH": 75
+    },
+    "CROPIE_TALISMAN": {
+      "WHEAT_FORTUNE": 10,
+      "CARROT_FORTUNE": 10,
+      "POTATO_FORTUNE": 10
+    },
+    "AGARIMOO_TALISMAN": {
+      "FISHING_SPEED": 1
+    },
+    "MANTICORE_CLAW": {
+      "FEROCITY": 4,
+      "CRITICAL_DAMAGE": 10,
+      "STRENGTH": 20
+    },
+    "SHARK_SCALE_LEGGINGS": {
+      "DEFENSE": 150,
+      "HEALTH": 175
+    },
+    "LUMINOUS_BRACELET": {
+      "FISHING_SPEED": 1,
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "CROWN_OF_GREED": {
+      "DEFENSE": 50,
+      "HEALTH": 100
+    },
+    "CRUX_TALISMAN_7": {
+      "RIFT_WALK_SPEED": 3,
+      "RIFT_TIME": 130,
+      "RIFT_INTELLIGENCE": 20
+    },
+    "CRUX_TALISMAN_6": {
+      "RIFT_WALK_SPEED": 2,
+      "RIFT_TIME": 100,
+      "RIFT_INTELLIGENCE": 15
+    },
+    "STARRED_ITEM_SPIRIT_BOW": {
+      "STRENGTH": 110,
+      "DAMAGE": 220
+    },
+    "CRUX_TALISMAN_5": {
+      "RIFT_WALK_SPEED": 1,
+      "RIFT_TIME": 70,
+      "RIFT_INTELLIGENCE": 10
+    },
+    "CRUX_TALISMAN_4": {
+      "RIFT_TIME": 55,
+      "RIFT_INTELLIGENCE": 7
+    },
+    "CRUX_TALISMAN_3": {
+      "RIFT_TIME": 35,
+      "RIFT_INTELLIGENCE": 5
+    },
+    "SWEEP_AXE": {
+      "SWEEP": 8
+    },
+    "MINER_OUTFIT_LEGGINGS": {
+      "DEFENSE": 30,
+      "MINING_SPEED": 15
+    },
+    "NUTCRACKER_HELMET": {
+      "DEFENSE": 35,
+      "HEALTH": 80
+    },
+    "CRUX_TALISMAN_2": {
+      "RIFT_TIME": 20,
+      "RIFT_INTELLIGENCE": 2
+    },
+    "CRUX_TALISMAN_1": {
+      "RIFT_TIME": 10
+    },
+    "FARM_ARMOR_HELMET": {
+      "DEFENSE": 15,
+      "FARMING_FORTUNE": 10
+    },
+    "DEATH_BOW": {
+      "DAMAGE": 300
+    },
+    "ZOMBIE_HEART": {
+      "VITALITY": 30,
+      "HEALTH": 50,
+      "MENDING": 30
+    },
+    "MITHRIL_CLOAK": {
+      "MINING_FORTUNE": 5,
+      "MINING_SPEED": 20
+    },
+    "MUSHROOM_COW_AXE": {
+      "DAMAGE": 20
+    },
+    "STARLIGHT_WAND": {
+      "WEAPON_ABILITY_DAMAGE": 300
+    },
+    "RED_SWEATER": {
+      "TROPHY_FISH_CHANCE": 4
+    },
+    "BLAZE_CHESTPLATE": {
+      "DEFENSE": 165,
+      "WALK_SPEED": 2,
+      "STRENGTH": 30
+    },
+    "CRIMSON_CHESTPLATE": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 65,
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 30,
+      "HEALTH": 230
+    },
+    "SALMON_BOOTS": {
+      "DEFENSE": 20,
+      "HEALTH": 85
+    },
+    "BACKWATER_BELT": {
+      "FISHING_SPEED": 2,
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "END_BOOTS": {
+      "DEFENSE": 25,
+      "HEALTH": 15
+    },
+    "ULTIMATE_WITHER_SCROLL": {
+      "WEAPON_ABILITY_DAMAGE": 10000
+    },
+    "GLUE_ARROW": {
+      "DAMAGE": 15
+    },
+    "SPEED_WITHER_LEGGINGS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 105,
+      "WALK_SPEED": 30,
+      "CRITICAL_DAMAGE": 45,
+      "HEALTH": 230
+    },
+    "GREAT_SPOOK_CHESTPLATE": {
+      "FEAR": 5
+    },
+    "DIVER_HELMET": {
+      "DEFENSE": 60,
+      "RESPIRATION": 3,
+      "HEALTH": 150,
+      "SEA_CREATURE_CHANCE": 2,
+      "PRESSURE_RESISTANCE": 15
+    },
+    "INFERNAL_HOLLOW_CHESTPLATE": {
+      "INTELLIGENCE": 214,
+      "DEFENSE": 171,
+      "WALK_SPEED": 13,
+      "HEALTH": 610,
+      "MENDING": 12
+    },
+    "GILLSPLASH_CLOAK": {
+      "FISHING_SPEED": 14,
+      "HEALTH_REGENERATION": 2,
+      "HEALTH": 25
+    },
+    "BONE_BOOMERANG": {
+      "STRENGTH": 130,
+      "DAMAGE": 270
+    },
+    "EMERALD_TIPPED_ARROW": {
+      "DAMAGE": 20
+    },
+    "HELIX_CHOPPER": {
+      "SWEEP": 50,
+      "FORAGING_FORTUNE": 50,
+      "STRENGTH": 25,
+      "DAMAGE": 75
+    },
+    "MIDAS_STAFF": {
+      "INTELLIGENCE": 50,
+      "WEAPON_ABILITY_DAMAGE": 6000,
+      "STRENGTH": 150,
+      "DAMAGE": 130
+    },
+    "MELON_CHESTPLATE": {
+      "DEFENSE": 25,
+      "WALK_SPEED": 3,
+      "BONUS_PEST_CHANCE": 10,
+      "FARMING_FORTUNE": 20,
+      "HEALTH": 150
+    },
+    "GHAST_CLOAK": {
+      "DEFENSE": 7,
+      "HEALTH": 7
+    },
+    "BLAZE_HAT": {
+      "STRENGTH": 20
+    },
+    "GHAST_BOOTS": {
+      "HEALTH": 100
+    },
+    "EMERALD_ARMOR_BOOTS": {
+      "DEFENSE": 45
+    },
+    "GREAT_SPOOK_HELMET": {
+      "FEAR": 5
+    },
+    "GROWTH_HELMET": {
+      "DEFENSE": 30,
+      "HEALTH": 50
+    },
+    "POWER_WITHER_CHESTPLATE": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 140,
+      "CRITICAL_DAMAGE": 30,
+      "STRENGTH": 40,
+      "HEALTH": 260
+    },
+    "BONE_NECKLACE": {
+      "DEFENSE": 35,
+      "CRITICAL_CHANCE": 3
+    },
+    "PRIMORDIAL_LEGGINGS": {
+      "INTELLIGENCE": 105,
+      "DEFENSE": 105,
+      "CRITICAL_DAMAGE": 10,
+      "HEALTH": 135
+    },
+    "MOLTEN_NECKLACE": {
+      "DEFENSE": 20,
+      "STRENGTH": 20,
+      "HEALTH": 30
+    },
+    "HOT_TERROR_LEGGINGS": {
+      "INTELLIGENCE": 6,
+      "DEFENSE": 69,
+      "WALK_SPEED": 15,
+      "CRITICAL_DAMAGE": 63,
+      "HEALTH": 258
+    },
+    "CHICKEN_LEGGS": {
+      "RIFT_TIME": 35
+    },
+    "ENDER_BOW": {
+      "DAMAGE": 60
+    },
+    "BONZO_MASK": {
+      "INTELLIGENCE": 100,
+      "DEFENSE": 100,
+      "HEALTH": 100
+    },
+    "SPOOKY_BOOTS": {
+      "DEFENSE": 25
+    },
+    "NECROMANCER_SWORD": {
+      "DEFENSE": 125,
+      "STRENGTH": 125,
+      "DAMAGE": 250
+    },
+    "GOBLIN_LEGGINGS": {
+      "INTELLIGENCE": -1,
+      "MINING_FORTUNE": 4,
+      "HEALTH": 125,
+      "MINING_SPEED": 10
+    },
+    "POTATO_RING": {
+      "WALK_SPEED": 2
+    },
+    "INFERNAL_TERROR_BOOTS": {
+      "INTELLIGENCE": 13,
+      "DEFENSE": 101,
+      "WALK_SPEED": 30,
+      "CRITICAL_DAMAGE": 126,
+      "HEALTH": 328
+    },
+    "SINSEEKER_SCYTHE": {
+      "STRENGTH": 100,
+      "DAMAGE": 100
+    },
+    "MOSQUITO_BOW": {
+      "CRITICAL_DAMAGE": 39,
+      "VITALITY": 20,
+      "STRENGTH": 151,
+      "DAMAGE": 319
+    },
+    "ANGUISH_TALISMAN": {
+      "MAGIC_FIND": 1
+    },
+    "VELVET_TOP_HAT": {
+      "DEFENSE": 10,
+      "HEALTH": 25
+    },
+    "BURNING_TERROR_BOOTS": {
+      "INTELLIGENCE": 8,
+      "DEFENSE": 64,
+      "WALK_SPEED": 19,
+      "CRITICAL_DAMAGE": 79,
+      "HEALTH": 206
+    },
+    "ORGAN_DONOR_RING": {
+      "COLD_RESISTANCE": 1
+    },
+    "CLEAVER": {
+      "STRENGTH": 10,
+      "DAMAGE": 40
+    },
+    "DUNGEONBREAKER": {
+      "WALK_SPEED": 20
+    },
+    "NANSORB_ARROW": {
+      "DAMAGE": 5
+    },
+    "SPOOKY_LEGGINGS": {
+      "DEFENSE": 35
+    },
+    "SPEEDSTER_HELMET": {
+      "DEFENSE": 45,
+      "WALK_SPEED": 15
+    },
+    "SHIMMERING_LIGHT_HOOD": {
+      "INTELLIGENCE": 70,
+      "DEFENSE": 70,
+      "WALK_SPEED": 10,
+      "HEALTH": 80
+    },
+    "HOT_HOLLOW_BOOTS": {
+      "INTELLIGENCE": 107,
+      "DEFENSE": 56,
+      "WALK_SPEED": 6,
+      "HEALTH": 188,
+      "MENDING": 6
+    },
+    "MASTIFF_HELMET": {
+      "INTELLIGENCE": 125,
+      "CRITICAL_DAMAGE": 15,
+      "HEALTH": 300
+    },
+    "PERFECT_HELMET_10": {
+      "DEFENSE": 290
+    },
+    "DEADGEHOG_HELMET": {
+      "INTELLIGENCE": 150
+    },
+    "SILVER_HUNTER_LEGGINGS": {
+      "HEALTH": 100
+    },
+    "HARDENED_DIAMOND_LEGGINGS": {
+      "DEFENSE": 95
+    },
+    "MINERAL_HELMET": {
+      "DEFENSE": 70,
+      "WALK_SPEED": 10,
+      "BLOCK_FORTUNE": 25
+    },
+    "ICHTHYIC_GLOVES": {
+      "FISHING_SPEED": 6,
+      "HEALTH": 8
+    },
+    "GOLD_HELMET": {
+      "DEFENSE": 10
+    },
+    "ZORROS_CAPE": {
+      "FEROCITY": 2,
+      "STRENGTH": 10,
+      "FARMING_FORTUNE": 10,
+      "FARMING_WISDOM": 1
+    },
+    "ROSETTA_BOOTS": {
+      "DEFENSE": 20
+    },
+    "SPIRIT_MASK": {
+      "INTELLIGENCE": 20,
+      "DEFENSE": 50,
+      "WALK_SPEED": 15,
+      "HEALTH": 100
+    },
+    "DIAMOND_HELMET": {
+      "DEFENSE": 15
+    },
+    "SWORD_OF_THE_MULTIVERSE": {
+      "RIFT_DAMAGE": 99999999,
+      "SWING_RANGE": 15
+    },
+    "REINFORCED_IRON_ARROW": {
+      "DAMAGE": 5
+    },
+    "BURNING_CRIMSON_HELMET": {
+      "INTELLIGENCE": 24,
+      "DEFENSE": 79,
+      "CRITICAL_DAMAGE": 32,
+      "STRENGTH": 48,
+      "HEALTH": 254
+    },
+    "GOLD_LIVID_HEAD": {
+      "DEFENSE": 30,
+      "STRENGTH": 15,
+      "HEALTH": 60
+    },
+    "EXPLOSIVE_ARROW": {
+      "DAMAGE": 3
+    },
+    "PERFECT_HELMET_12": {
+      "DEFENSE": 330
+    },
+    "IRON_HELMET": {
+      "DEFENSE": 12
+    },
+    "DOJO_BROWN_BELT": {
+      "DEFENSE": 20,
+      "HEALTH": 30
+    },
+    "PERFECT_HELMET_11": {
+      "DEFENSE": 310
+    },
+    "BOSS": {
+      "DEFENSE": 1000,
+      "WALK_SPEED": 60,
+      "HEALTH": 1000
+    },
+    "ITEM_SPIRIT_BOW": {
+      "STRENGTH": 100,
+      "DAMAGE": 210
+    },
+    "PERFECT_HELMET_13": {
+      "DEFENSE": 350
+    },
+    "HEARTMAW_DAGGER": {
+      "ATTACK_SPEED": 20,
+      "CRITICAL_CHANCE": 10,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 75,
+      "DAMAGE": 160
+    },
+    "GLOSSY_MINERAL_LEGGINGS": {
+      "DEFENSE": 150,
+      "WALK_SPEED": 25,
+      "BLOCK_FORTUNE": 50
+    },
+    "DWARVEN_HANDWARMERS": {
+      "MINING_FORTUNE": 30,
+      "COLD_RESISTANCE": 5,
+      "MINING_SPEED": 45
+    },
+    "LAST_BREATH": {
+      "CRITICAL_DAMAGE": 50,
+      "STRENGTH": 180,
+      "DAMAGE": 200
+    },
+    "ASPECT_OF_THE_JERRY_SIGNATURE": {
+      "DAMAGE": 2
+    },
+    "GOLD_NECRON_HEAD": {
+      "DEFENSE": 40,
+      "STRENGTH": 15,
+      "HEALTH": 80
+    },
+    "ENCHANTED_JACK_O_LANTERN": {
+      "DEFENSE": 10,
+      "HEALTH": 20
+    },
+    "RAYGUN": {
+      "DAMAGE": 99999999
+    },
+    "YOUNG_DRAGON_LEGGINGS": {
+      "DEFENSE": 140,
+      "WALK_SPEED": 20,
+      "HEALTH": 100
+    },
+    "SORROW_HELMET": {
+      "MINING_FORTUNE": 20,
+      "MAGIC_FIND": 5,
+      "MINING_SPEED": 50,
+      "TRUE_DEFENSE": 50
+    },
+    "CREEPER_LEGGINGS": {
+      "DEFENSE": 65,
+      "HEALTH": 200
+    },
+    "LOTUS_BRACELET": {
+      "FARMING_FORTUNE": 5,
+      "HEALTH": 10
+    },
+    "FIERY_HOLLOW_LEGGINGS": {
+      "INTELLIGENCE": 170,
+      "DEFENSE": 117,
+      "WALK_SPEED": 10,
+      "HEALTH": 439,
+      "MENDING": 10
+    },
+    "ENDER_BELT": {
+      "DEFENSE": 10,
+      "HEALTH": 15
+    },
+    "ELEGANT_TUXEDO_BOOTS": {
+      "INTELLIGENCE": 100,
+      "WALK_SPEED": 10,
+      "CRITICAL_DAMAGE": 50
+    },
+    "FIG_AXE": {
+      "SWEEP": 15,
+      "FORAGING_FORTUNE": 20,
+      "STRENGTH": 10,
+      "DAMAGE": 30
+    },
+    "ROOKIE_HOE": {
+      "FARMING_FORTUNE": 5
+    },
+    "BIOHAZARD_LEGGINGS": {
+      "DEFENSE": 15,
+      "HEALTH": 20
+    },
+    "TITANIUM_PICKAXE": {
+      "BREAKING_POWER": 6,
+      "MINING_SPEED": 140,
+      "DAMAGE": 60
+    },
+    "EMBER_HELMET": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 35,
+      "HEALTH": 40
+    },
+    "SILVER_HUNTER_CHESTPLATE": {
+      "HEALTH": 125
+    },
+    "FIERY_TERROR_LEGGINGS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 110,
+      "WALK_SPEED": 24,
+      "CRITICAL_DAMAGE": 100,
+      "HEALTH": 410
+    },
+    "MOONGLADE_ARTIFACT": {
+      "FIG_FORTUNE": 15,
+      "MANGROVE_FORTUNE": 15
+    },
+    "STONK_PICKAXE": {
+      "BREAKING_POWER": 1,
+      "MINING_SPEED": 380
+    },
+    "SNORKELING_HELMET": {
+      "DEFENSE": 60,
+      "HEALTH": 65,
+      "PRESSURE_RESISTANCE": 10
+    },
+    "BASIC_CHICKEN_AXE": {
+      "DAMAGE": 10
+    },
+    "HELIX_ARMOR_BOOTS": {
+      "DEFENSE": 30,
+      "SWEEP": 20,
+      "FORAGING_FORTUNE": 45,
+      "HEALTH": 85
+    },
+    "MAGMA_LORD_BOOTS": {
+      "DEFENSE": 150,
+      "CRITICAL_DAMAGE": 35,
+      "STRENGTH": 10,
+      "HEALTH": 200
+    },
+    "ALCHEMISTS_STAFF": {
+      "INTELLIGENCE": 20,
+      "WEAPON_ABILITY_DAMAGE": 10000,
+      "STRENGTH": 20,
+      "DAMAGE": 50
+    },
+    "REAPER_CHESTPLATE": {
+      "INTELLIGENCE": 250,
+      "DEFENSE": 70,
+      "STRENGTH": 25,
+      "HEALTH": 180
+    },
+    "MASTIFF_CHESTPLATE": {
+      "CRITICAL_DAMAGE": 15,
+      "HEALTH": 500
+    },
+    "FLAMING_FIST": {
+      "DEFENSE": 20,
+      "FEROCITY": 1,
+      "CRITICAL_DAMAGE": 10,
+      "STRENGTH": 10,
+      "HEALTH": 30
+    },
+    "BINGO_BLASTER": {
+      "INTELLIGENCE": 300,
+      "ABILITY_DAMAGE_PERCENT": 20,
+      "WEAPON_ABILITY_DAMAGE": 625
+    },
+    "MINERAL_LEGGINGS": {
+      "DEFENSE": 125,
+      "WALK_SPEED": 15,
+      "BLOCK_FORTUNE": 25
+    },
+    "PUFFERFISH_HAT": {
+      "STRENGTH": 10,
+      "HEALTH": 20
+    },
+    "DIAMOND_SADAN_HEAD": {
+      "DEFENSE": 70,
+      "STRENGTH": 35,
+      "HEALTH": 190
+    },
+    "SUPER_CLEAVER": {
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 20,
+      "DAMAGE": 105
+    },
+    "ANNIHILATION_CLOAK": {
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 20,
+      "MAGIC_FIND": 2,
+      "HEALTH": 80,
+      "FORAGING_WISDOM": 2
+    },
+    "GOLD_TIPPED_ARROW": {
+      "DAMAGE": 10
+    },
+    "DOJO_GREEN_BELT": {
+      "DEFENSE": 10,
+      "HEALTH": 20
+    },
+    "DWARVEN_METAL": {
+      "DWARVEN_METAL_FORTUNE": 15
+    },
+    "SPEED_TALISMAN": {
+      "WALK_SPEED": 1
+    },
+    "RED_CLAW_TALISMAN": {
+      "CRITICAL_DAMAGE": 1
+    },
+    "DIAMOND_BOOTS": {
+      "DEFENSE": 15
+    },
+    "PUMPKIN_LEGGINGS": {
+      "DEFENSE": 20,
+      "FARMING_FORTUNE": 15
+    },
+    "CHALLENGER_NECKLACE": {
+      "DEFENSE": 10,
+      "STRENGTH": 5,
+      "HEALTH": 20
+    },
+    "SNOW_SUIT_BOOTS": {
+      "DEFENSE": 25,
+      "HEALTH": 65
+    },
+    "MYTHOS_BRACELET": {
+      "DEFENSE": 15,
+      "STRENGTH": 15,
+      "HEALTH": 25
+    },
+    "CAMPFIRE_TALISMAN_27": {
+      "HEALTH_REGENERATION": 4
+    },
+    "DECENT_BOW": {
+      "DAMAGE": 45
+    },
+    "CAMPFIRE_TALISMAN_25": {
+      "HEALTH_REGENERATION": 3
+    },
+    "GLOSSY_MINERAL_TALISMAN": {
+      "MINING_FORTUNE": 6
+    },
+    "CAMPFIRE_TALISMAN_29": {
+      "HEALTH_REGENERATION": 5
+    },
+    "JACOBUS_REGISTER": {
+      "PET_LUCK": 1,
+      "HEALTH": 10
+    },
+    "END_CHESTPLATE": {
+      "DEFENSE": 60,
+      "HEALTH": 30
+    },
+    "SPOOKY_CHESTPLATE": {
+      "DEFENSE": 50
+    },
+    "CRYSTAL_HELMET": {
+      "INTELLIGENCE": 65,
+      "DEFENSE": 20
+    },
+    "CAMPFIRE_TALISMAN_23": {
+      "HEALTH_REGENERATION": 2
+    },
+    "GREAT_SPOOK_BELT": {
+      "FEAR": 5
+    },
+    "CAMPFIRE_TALISMAN_21": {
+      "HEALTH_REGENERATION": 1
+    },
+    "EMERALD_BLADE": {
+      "DAMAGE": 130
+    },
+    "FARMER_BOOTS": {
+      "DEFENSE": 20,
+      "WALK_SPEED": 10,
+      "HEALTH": 40
+    },
+    "CROPIE_CHESTPLATE": {
+      "DEFENSE": 30,
+      "WALK_SPEED": 4,
+      "FARMING_FORTUNE": 25,
+      "HEALTH": 165
+    },
+    "PRECURSOR_EYE": {
+      "INTELLIGENCE": 222,
+      "DEFENSE": 222,
+      "HEALTH": 222
+    },
+    "BURNING_CRIMSON_CHESTPLATE": {
+      "INTELLIGENCE": 8,
+      "DEFENSE": 103,
+      "CRITICAL_DAMAGE": 32,
+      "STRENGTH": 48,
+      "HEALTH": 365
+    },
+    "PRIMORDIAL_BOOTS": {
+      "INTELLIGENCE": 75,
+      "DEFENSE": 90,
+      "WALK_SPEED": 15,
+      "CRITICAL_DAMAGE": 10,
+      "HEALTH": 75
+    },
+    "WEREWOLF_CHESTPLATE": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 240,
+      "FEROCITY": 10
+    },
+    "FLORID_ZOMBIE_SWORD": {
+      "INTELLIGENCE": 100,
+      "STRENGTH": 80,
+      "DAMAGE": 150
+    },
+    "JUNGLE_AMULET": {
+      "GEMSTONE_FORTUNE": 10
+    },
+    "STARRED_BONZO_MASK": {
+      "INTELLIGENCE": 150,
+      "DEFENSE": 100,
+      "HEALTH": 125
+    },
+    "SNOW_BELT": {
+      "INTELLIGENCE": 5,
+      "WALK_SPEED": 2,
+      "HEALTH": 5
+    },
+    "BURNING_FERVOR_HELMET": {
+      "INTELLIGENCE": 24,
+      "DEFENSE": 159,
+      "HEALTH": 286,
+      "TRUE_DEFENSE": 8
+    },
+    "STARRED_YETI_SWORD": {
+      "INTELLIGENCE": 50,
+      "WEAPON_ABILITY_DAMAGE": 17000,
+      "STRENGTH": 185,
+      "DAMAGE": 160
+    },
+    "PRISMARINE_NECKLACE": {
+      "TROPHY_FISH_CHANCE": 1,
+      "FISHING_SPEED": 2
+    },
+    "EMPEROR_ROBES": {
+      "DEFENSE": 500
+    },
+    "FEMURGROWTH_LEGGINGS": {
+      "RIFT_WALK_SPEED": -4,
+      "RIFT_MANA_REGEN": 5,
+      "RIFT_TIME": 65
+    },
+    "PESTHUNTERS_GLOVES": {
+      "BONUS_PEST_CHANCE": 5
+    },
+    "WYLD_HELMET": {
+      "RIFT_TIME": 15,
+      "RIFT_INTELLIGENCE": 10
+    },
+    "JUJU_SHORTBOW": {
+      "CRITICAL_CHANCE": 10,
+      "CRITICAL_DAMAGE": 110,
+      "STRENGTH": 40,
+      "DAMAGE": 310
+    },
+    "CREEPER_HAT": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 5,
+      "CRITICAL_CHANCE": 5,
+      "CRITICAL_DAMAGE": 5,
+      "STRENGTH": 5,
+      "HEALTH": 5
+    },
+    "DIVAN_PENDANT": {
+      "MINING_FORTUNE": 25,
+      "COLD_RESISTANCE": 10,
+      "MINING_SPEED": 100
+    },
+    "DIAMOND_SCARF_HEAD": {
+      "DEFENSE": 30,
+      "STRENGTH": 15,
+      "HEALTH": 70
+    },
+    "YOUNG_DRAGON_CHESTPLATE": {
+      "DEFENSE": 160,
+      "WALK_SPEED": 20,
+      "HEALTH": 120
+    },
+    "PROTECTOR_DRAGON_CHESTPLATE": {
+      "DEFENSE": 185,
+      "HEALTH": 120
+    },
+    "ELEANOR_CAP": {
+      "RIFT_TIME": 20,
+      "HEALTH": 50
+    },
+    "LIVID_DAGGER": {
+      "ATTACK_SPEED": 50,
+      "CRITICAL_CHANCE": 100,
+      "CRITICAL_DAMAGE": 50,
+      "STRENGTH": 60,
+      "DAMAGE": 210
+    },
+    "PESTHUNTERS_CLOAK": {
+      "BONUS_PEST_CHANCE": 5
+    },
+    "GENERALS_HOPE_OF_THE_RESISTANCE": {
+      "WEAPON_ABILITY_DAMAGE": 1000
+    },
+    "BLAZE_BELT": {
+      "DEFENSE": 7,
+      "STRENGTH": 7
+    },
+    "HEAT_CHESTPLATE": {
+      "MINING_FORTUNE": 10,
+      "DEFENSE": 50,
+      "HEAT_RESISTANCE": 20,
+      "STRENGTH": 15,
+      "HEALTH": 20,
+      "MINING_SPEED": 15
+    },
+    "FLAMEBREAKER_LEGGINGS": {
+      "MINING_FORTUNE": 5,
+      "MINING_SPEED": 15
+    },
+    "DASHING_BOOTS": {
+      "DEFENSE": 1,
+      "WALK_SPEED": 30
+    },
+    "ARMOR_OF_THE_RESISTANCE_LEGGINGS": {
+      "DEFENSE": 12,
+      "HEALTH": 12
+    },
+    "INFERNAL_CRIMSON_CHESTPLATE": {
+      "INTELLIGENCE": 13,
+      "DEFENSE": 164,
+      "CRITICAL_DAMAGE": 50,
+      "STRENGTH": 76,
+      "HEALTH": 580
+    },
+    "CANOPY_HELMET": {
+      "DEFENSE": 25,
+      "SWEEP": 6,
+      "HEALTH": 60
+    },
+    "HEALING_RING": {
+      "VITALITY": 4
+    },
+    "TITAN_LEGGINGS": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 175,
+      "STRENGTH": 15,
+      "HEALTH": 200
+    },
+    "PIG_AXE": {
+      "DAMAGE": 20
+    },
+    "GROWTH_LEGGINGS": {
+      "DEFENSE": 40,
+      "HEALTH": 80
+    },
+    "IRON_BOOTS": {
+      "DEFENSE": 10
+    },
+    "POTATO_CROWN": {
+      "WALK_SPEED": 1
+    },
+    "BURSTSTOPPER_TALISMAN": {
+      "STRENGTH": 1,
+      "TRUE_DEFENSE": 2
+    },
+    "HOT_AURORA_LEGGINGS": {
+      "INTELLIGENCE": 221,
+      "DEFENSE": 69,
+      "HEALTH": 258
+    },
+    "DIAMOND_HUNTER_CHESTPLATE": {
+      "HEALTH": 175
+    },
+    "FARM_ARMOR_LEGGINGS": {
+      "DEFENSE": 15,
+      "FARMING_FORTUNE": 10
+    },
+    "FIERY_AURORA_BOOTS": {
+      "INTELLIGENCE": 350,
+      "DEFENSE": 80,
+      "HEALTH": 260
+    },
+    "DIVAN_DRILL": {
+      "MINING_FORTUNE": 150,
+      "BREAKING_POWER": 10,
+      "MINING_SPEED": 1800,
+      "DAMAGE": 75
+    },
+    "CANOPY_LEGGINGS": {
+      "DEFENSE": 30,
+      "SWEEP": 6,
+      "HEALTH": 110
+    },
+    "SHADOW_WARP_SCROLL": {
+      "WEAPON_ABILITY_DAMAGE": 10000
+    },
+    "SALMON_LEGGINGS": {
+      "DEFENSE": 45,
+      "HEALTH": 115
+    },
+    "INFERNAL_HOLLOW_BOOTS": {
+      "INTELLIGENCE": 214,
+      "DEFENSE": 110,
+      "WALK_SPEED": 13,
+      "HEALTH": 366,
+      "MENDING": 12
+    },
+    "WINTER_ROD": {
+      "FISHING_SPEED": 75,
+      "STRENGTH": 50,
+      "DAMAGE": 50
+    },
+    "SALMON_LEGGINGS_NEW": {
+      "DEFENSE": 45,
+      "HEALTH": 115
+    },
+    "HEAT_BOOTS": {
+      "MINING_FORTUNE": 10,
+      "DEFENSE": 50,
+      "HEAT_RESISTANCE": 20,
+      "STRENGTH": 15,
+      "HEALTH": 20,
+      "MINING_SPEED": 15
+    },
+    "FERVOR_LEGGINGS": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 115,
+      "HEALTH": 210,
+      "TRUE_DEFENSE": 5
+    },
+    "SNIPER_HELMET": {
+      "DEFENSE": 10,
+      "HEALTH": 100
+    },
+    "MIDAS_SWORD": {
+      "DAMAGE": 170
+    },
+    "SNORKELING_CHESTPLATE": {
+      "DEFENSE": 100,
+      "HEALTH": 100,
+      "PRESSURE_RESISTANCE": 10
+    },
+    "STARLIGHT_BOOTS": {
+      "INTELLIGENCE": 30,
+      "DEFENSE": 15,
+      "HEALTH": 15
+    },
+    "CHEAP_TUXEDO_CHESTPLATE": {
+      "INTELLIGENCE": 50,
+      "CRITICAL_DAMAGE": 50
+    },
+    "IRON_CHESTPLATE": {
+      "DEFENSE": 30
+    },
+    "YETI_ROD": {
+      "FISHING_SPEED": 75,
+      "STRENGTH": 130,
+      "DAMAGE": 150
+    },
+    "GOLDEN_BELT": {
+      "RIFT_WALK_SPEED": 4,
+      "RIFT_TIME": 100,
+      "RIFT_INTELLIGENCE": 10
+    },
+    "FULL_TREE_AXE": {
+      "SWEEP": 500
+    },
+    "SURVIVOR_CUBE": {
+      "VITALITY": 3
+    },
+    "DEMONLORD_GAUNTLET": {
+      "DEFENSE": 20,
+      "CRITICAL_DAMAGE": 25,
+      "HEALTH": 40,
+      "TRUE_DEFENSE": 20
+    },
+    "FINAL_DESTINATION_BOOTS": {
+      "INTELLIGENCE": 100,
+      "DEFENSE": 100,
+      "HEALTH": 100
+    },
+    "HELMET_OF_THE_PACK": {
+      "DEFENSE": 65,
+      "HEALTH": 70
+    },
+    "EMBER_LEGGINGS": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 55,
+      "HEALTH": 60
+    },
+    "WISE_DRAGON_BOOTS": {
+      "INTELLIGENCE": 75,
+      "DEFENSE": 90,
+      "HEALTH": 60
+    },
+    "SPEED_ARTIFACT": {
+      "WALK_SPEED": 5
+    },
+    "GREAT_SPOOK_SWORD": {
+      "DAMAGE": 0
+    },
+    "NECROMANCER_LORD_CHESTPLATE": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 250,
+      "HEALTH": 300
+    },
+    "BACKWATER_CLOAK": {
+      "FISHING_SPEED": 2,
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "BACKWATER_BOOTS": {
+      "DEFENSE": 10,
+      "HEALTH": 20,
+      "SEA_CREATURE_CHANCE": 2
+    },
+    "FRACTURED_MITHRIL_PICKAXE": {
+      "MINING_FORTUNE": 2,
+      "BREAKING_POWER": 5,
+      "MINING_SPEED": 225,
+      "DAMAGE": 30
+    },
+    "THERMODYNAMIC_CHESTPLATE": {
+      "DEFENSE": 240,
+      "WALK_SPEED": 25,
+      "ATTACK_SPEED": 5
+    },
+    "MELON_HELMET": {
+      "DEFENSE": 25,
+      "WALK_SPEED": 2,
+      "BONUS_PEST_CHANCE": 10,
+      "FARMING_FORTUNE": 15,
+      "HEALTH": 100
+    },
+    "MITHRIL_DRILL_1": {
+      "MINING_FORTUNE": 15,
+      "BREAKING_POWER": 5,
+      "MINING_SPEED": 450,
+      "DAMAGE": 65
+    },
+    "BONZO_STAFF": {
+      "INTELLIGENCE": 250,
+      "WEAPON_ABILITY_DAMAGE": 1000,
+      "DAMAGE": 160
+    },
+    "BAT_PERSON_CHESTPLATE": {
+      "DEFENSE": 30
+    },
+    "DRACONIC_RING": {
+      "HEALTH": 2
+    },
+    "MERCENARY_LEGGINGS": {
+      "DEFENSE": 60,
+      "STRENGTH": 10,
+      "HEALTH": 60
+    },
+    "SEAL_RING": {
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "END_SWORD": {
+      "DAMAGE": 35
+    },
+    "ENRAGER": {
+      "STRENGTH": 150,
+      "DAMAGE": 270
+    },
+    "MITHRIL_DRILL_2": {
+      "MINING_FORTUNE": 20,
+      "BREAKING_POWER": 6,
+      "MINING_SPEED": 600,
+      "DAMAGE": 65
+    },
+    "FAIRY_BOOTS": {
+      "INTELLIGENCE": -1,
+      "DEFENSE": 1,
+      "WALK_SPEED": 10,
+      "HEALTH": 1
+    },
+    "VEILSHROOM_BRACELET": {
+      "SWEEP": 5,
+      "FORAGING_FORTUNE": 25
+    },
+    "WYLD_BOOTS": {
+      "RIFT_TIME": 15
+    },
+    "ZOMBIE_SWORD": {
+      "INTELLIGENCE": 50,
+      "STRENGTH": 50,
+      "DAMAGE": 100
+    },
+    "REAPER_LEGGINGS": {
+      "INTELLIGENCE": 250,
+      "DEFENSE": 50,
+      "STRENGTH": 25,
+      "HEALTH": 120
+    },
+    "HOLLOW_WAND": {
+      "INTELLIGENCE": 120,
+      "WEAPON_ABILITY_DAMAGE": 15000,
+      "STRENGTH": 20,
+      "DAMAGE": 150
+    },
+    "STAFF_OF_THE_VOLCANO": {
+      "INTELLIGENCE": 150,
+      "WEAPON_ABILITY_DAMAGE": 24000,
+      "DAMAGE": 60
+    },
+    "RUSTY_TITANIUM_PICKAXE": {
+      "BREAKING_POWER": 5,
+      "MINING_SPEED": 100,
+      "DAMAGE": 55
+    },
+    "FERVOR_CHESTPLATE": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 140,
+      "HEALTH": 265,
+      "TRUE_DEFENSE": 5
+    },
+    "GOLD_BOOTS": {
+      "DEFENSE": 5
+    },
+    "TITANIUM_RING": {
+      "MINING_SPEED": 30
+    },
+    "AGARICUS_CAP_CAP": {
+      "RIFT_TIME": 50,
+      "RIFT_INTELLIGENCE": 15
+    },
+    "BRONZE_HUNTER_LEGGINGS": {
+      "HEALTH": 75
+    },
+    "GOLD_LEGGINGS": {
+      "DEFENSE": 15
+    },
+    "SQUID_BOOTS": {
+      "HEALTH": 100,
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "GLACITE_HELMET": {
+      "MINING_FORTUNE": 5,
+      "DEFENSE": 70,
+      "WALK_SPEED": 10,
+      "MINING_SPEED": 10,
+      "TRUE_DEFENSE": 5
+    },
+    "STAR_LEGGINGS": {
+      "INTELLIGENCE": 1500,
+      "DEFENSE": 4000,
+      "HEALTH": 15000
+    },
+    "HOT_TERROR_CHESTPLATE": {
+      "INTELLIGENCE": 6,
+      "DEFENSE": 82,
+      "WALK_SPEED": 15,
+      "CRITICAL_DAMAGE": 63,
+      "HEALTH": 290
+    },
+    "CHICKEN_HEAD": {
+      "HEALTH": 20
+    },
+    "GLACIAL_SCYTHE": {
+      "INTELLIGENCE": 30,
+      "WEAPON_ABILITY_DAMAGE": 1500,
+      "DAMAGE": 120
+    },
+    "BLUETOOTH_RING": {
+      "INTELLIGENCE": -1,
+      "WALK_SPEED": -2,
+      "RIFT_TIME": 30
+    },
+    "DIAMOND_LIVID_HEAD": {
+      "DEFENSE": 60,
+      "STRENGTH": 30,
+      "HEALTH": 160
+    },
+    "POLISHED_TOPAZ_ROD": {
+      "FISHING_SPEED": 50,
+      "STRENGTH": 100,
+      "SEA_CREATURE_CHANCE": 2,
+      "DAMAGE": 100
+    },
+    "MITHRIL_COAT": {
+      "DEFENSE": 125,
+      "WALK_SPEED": 15
+    },
+    "LEAFLET_CHESTPLATE": {
+      "FORAGING_FORTUNE": 3,
+      "HEALTH": 80
+    },
+    "CROPIE_LEGGINGS": {
+      "DEFENSE": 30,
+      "WALK_SPEED": 4,
+      "FARMING_FORTUNE": 25,
+      "HEALTH": 165
+    },
+    "MAGMA_LORD_LEGGINGS": {
+      "DEFENSE": 200,
+      "CRITICAL_DAMAGE": 35,
+      "STRENGTH": 10,
+      "HEALTH": 250
+    },
+    "WOOD_SPADE": {
+      "DAMAGE": 15
+    },
+    "ROOKIE_AXE": {
+      "DAMAGE": 20
+    },
+    "HELIANTHUS_HELMET": {
+      "DEFENSE": 50,
+      "WALK_SPEED": 6,
+      "BONUS_PEST_CHANCE": 20,
+      "FARMING_FORTUNE": 35,
+      "HEALTH": 140
+    },
+    "SNOW_NECKLACE": {
+      "INTELLIGENCE": 5,
+      "WALK_SPEED": 2,
+      "HEALTH": 5
+    },
+    "JUNGLE_AXE": {
+      "SWEEP": 4
+    },
+    "HOPE_OF_THE_RESISTANCE": {
+      "WEAPON_ABILITY_DAMAGE": 500
+    },
+    "HOLLOW_HELMET": {
+      "INTELLIGENCE": 130,
+      "DEFENSE": 55,
+      "WALK_SPEED": 5,
+      "HEALTH": 175,
+      "MENDING": 5
+    },
+    "BURNING_FERVOR_BOOTS": {
+      "INTELLIGENCE": 8,
+      "DEFENSE": 135,
+      "HEALTH": 254,
+      "TRUE_DEFENSE": 8
+    },
+    "CACTUS_BOOTS": {
+      "DEFENSE": 10,
+      "HEALTH": 5
+    },
+    "BLAZE_LEGGINGS": {
+      "DEFENSE": 130,
+      "WALK_SPEED": 2,
+      "STRENGTH": 30
+    },
+    "TANK_MINER_CHESTPLATE": {
+      "DEFENSE": 15,
+      "MINING_SPEED": 10
+    },
+    "HOT_AURORA_CHESTPLATE": {
+      "INTELLIGENCE": 221,
+      "DEFENSE": 82,
+      "HEALTH": 290
+    },
+    "SHADOW_ASSASSIN_LEGGINGS": {
+      "DEFENSE": 95,
+      "WALK_SPEED": 7,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 25,
+      "HEALTH": 210
+    },
+    "ANTI_BITE_SCARF_2": {
+      "RIFT_HEALTH": 1,
+      "RIFT_TIME": 110,
+      "RIFT_INTELLIGENCE": 22
+    },
+    "STUDENT_STUDIES": {
+      "TROPHY_FISH_CHANCE": 2
+    },
+    "DARK_CLAYMORE": {
+      "CRITICAL_DAMAGE": 100,
+      "STRENGTH": 100,
+      "DAMAGE": 500,
+      "SWING_RANGE": 2
+    },
+    "ARACHNE_GLOVES": {
+      "DEFENSE": 5,
+      "HEALTH": 10
+    },
+    "TORRHUS_ARTIFACT": {
+      "HELIX_FORTUNE": 15
+    },
+    "SILVER_LACED_KARAMBIT": {
+      "RIFT_WALK_SPEED": 10,
+      "RIFT_DAMAGE": 5
+    },
+    "SQUID_HAT": {
+      "WALK_SPEED": 1
+    },
+    "KELLY_TSHIRT": {
+      "DEFENSE": 30,
+      "FORAGING_FORTUNE": 6,
+      "HEALTH": 100
+    },
+    "SPONGE_LEGGINGS": {
+      "DEFENSE": 125,
+      "SEA_CREATURE_CHANCE": 2
+    },
+    "HELIANTHUS_BOOTS": {
+      "DEFENSE": 50,
+      "WALK_SPEED": 6,
+      "BONUS_PEST_CHANCE": 20,
+      "FARMING_FORTUNE": 35,
+      "HEALTH": 140
+    },
+    "TITANIUM_ARTIFACT": {
+      "MINING_SPEED": 45
+    },
+    "STARRED_SHADOW_ASSASSIN_BOOTS": {
+      "DEFENSE": 55,
+      "WALK_SPEED": 8,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 30,
+      "HEALTH": 135
+    },
+    "ANGLER_NECKLACE": {
+      "FISHING_SPEED": 1
+    },
+    "INFERNAL_AURORA_HELMET": {
+      "INTELLIGENCE": 693,
+      "DEFENSE": 126,
+      "ABILITY_DAMAGE_PERCENT": 40,
+      "HEALTH": 403
+    },
+    "BLOOD_DONOR_TALISMAN": {
+      "HEALTH_REGENERATION": 1,
+      "RIFT_TIME": 5
+    },
+    "DIAMOND_THORN_HEAD": {
+      "DEFENSE": 50,
+      "STRENGTH": 25,
+      "HEALTH": 130
+    },
+    "GOBLIN_HELMET": {
+      "INTELLIGENCE": -1,
+      "MINING_FORTUNE": 4,
+      "HEALTH": 70,
+      "MINING_SPEED": 10
+    },
+    "RABBIT_CHESTPLATE": {
+      "DEFENSE": 40,
+      "WALK_SPEED": 5
+    },
+    "TACTICIAN_MURDER_WEAPON": {
+      "RIFT_DAMAGE": 4
+    },
+    "AMETHYST_GAUNTLET": {
+      "MINING_FORTUNE": 10,
+      "MINING_SPEED": 30
+    },
+    "POTATO_TALISMAN": {
+      "WALK_SPEED": 1
+    },
+    "SEISMIC_WAVE_STICK": {
+      "DAMAGE": 10
+    },
+    "TARANTULA_LEGGINGS": {
+      "INTELLIGENCE": 80,
+      "DEFENSE": 90,
+      "HEALTH": 105
+    },
+    "ADAPTIVE_BELT": {
+      "DEFENSE": 5,
+      "STRENGTH": 5,
+      "HEALTH": 10
+    },
+    "ANGLER_CLOAK": {
+      "FISHING_SPEED": 1
+    },
+    "OLD_DRAGON_LEGGINGS": {
+      "DEFENSE": 140,
+      "HEALTH": 130
+    },
+    "ANGLER_LEGGINGS": {
+      "DEFENSE": 30,
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "ANGLER_BOOTS": {
+      "DEFENSE": 15,
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "SQUIRE_HELMET": {
+      "DEFENSE": 25,
+      "STRENGTH": 5,
+      "HEALTH": 25
+    },
+    "TITANIUM_DRILL_3": {
+      "MINING_FORTUNE": 70,
+      "BREAKING_POWER": 9,
+      "MINING_SPEED": 1200,
+      "DAMAGE": 75
+    },
+    "TITANIUM_DRILL_2": {
+      "MINING_FORTUNE": 40,
+      "BREAKING_POWER": 8,
+      "MINING_SPEED": 900,
+      "DAMAGE": 75
+    },
+    "TITANIUM_DRILL_4": {
+      "MINING_FORTUNE": 120,
+      "BREAKING_POWER": 9,
+      "MINING_SPEED": 1600,
+      "DAMAGE": 75
+    },
+    "MAGMA_BOW": {
+      "STRENGTH": 100,
+      "DAMAGE": 100
+    },
+    "TITANIUM_DRILL_1": {
+      "MINING_FORTUNE": 25,
+      "BREAKING_POWER": 7,
+      "MINING_SPEED": 700,
+      "DAMAGE": 75
+    },
+    "ABYSSAL_CHESTPLATE": {
+      "DEFENSE": 200,
+      "RESPIRATION": 5,
+      "HEALTH": 200,
+      "SEA_CREATURE_CHANCE": 2,
+      "PRESSURE_RESISTANCE": 20
+    },
+    "DIAMOND_BONZO_HEAD": {
+      "DEFENSE": 20,
+      "STRENGTH": 10,
+      "HEALTH": 50
+    },
+    "DIAMOND_AXE": {
+      "DAMAGE": 30
+    },
+    "STARRED_SHADOW_ASSASSIN_CLOAK": {
+      "WALK_SPEED": 5,
+      "STRENGTH": 25
+    },
+    "SUPERIOR_DRAGON_LEGGINGS": {
+      "INTELLIGENCE": 25,
+      "DEFENSE": 170,
+      "WALK_SPEED": 3,
+      "CRITICAL_CHANCE": 2,
+      "CRITICAL_DAMAGE": 10,
+      "STRENGTH": 10,
+      "HEALTH": 130
+    },
+    "END_HELMET": {
+      "DEFENSE": 35,
+      "HEALTH": 20
+    },
+    "GLOSSY_MINERAL_CHESTPLATE": {
+      "DEFENSE": 150,
+      "WALK_SPEED": 25,
+      "BLOCK_FORTUNE": 50
+    },
+    "JADE_BELT": {
+      "MINING_FORTUNE": 10,
+      "MINING_SPEED": 30
+    },
+    "VANGUARD_BOOTS": {
+      "COLD_RESISTANCE": 1
+    },
+    "HASTE_ARTIFACT": {
+      "MINING_SPEED": 25
+    },
+    "INFERNAL_TERROR_HELMET": {
+      "INTELLIGENCE": 38,
+      "DEFENSE": 126,
+      "WALK_SPEED": 30,
+      "CRITICAL_DAMAGE": 126,
+      "HEALTH": 403
+    },
+    "FROG_MASK": {
+      "WALK_SPEED": 7,
+      "FORAGING_FORTUNE": 7,
+      "HEALTH": 7
+    },
+    "DIVAN_LEGGINGS": {
+      "MINING_FORTUNE": 30,
+      "DEFENSE": 170,
+      "HEAT_RESISTANCE": 10,
+      "HEALTH": 130,
+      "MINING_SPEED": 80
+    },
+    "TITAN_CHESTPLATE": {
+      "INTELLIGENCE": 75,
+      "DEFENSE": 200,
+      "STRENGTH": 20,
+      "HEALTH": 300
+    },
+    "CRIMSON_HELMET": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 50,
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 30,
+      "HEALTH": 160
+    },
+    "ROSETTA_LEGGINGS": {
+      "DEFENSE": 30
+    },
+    "STARRED_LAST_BREATH": {
+      "CRITICAL_DAMAGE": 50,
+      "STRENGTH": 190,
+      "DAMAGE": 210
+    },
+    "SHADOW_GOGGLES": {
+      "INTELLIGENCE": 200,
+      "ABILITY_DAMAGE_PERCENT": 35
+    },
+    "BALLOON_SNAKE": {
+      "INTELLIGENCE": 10,
+      "HEALTH": 10
+    },
+    "LOTUS_NECKLACE": {
+      "FARMING_FORTUNE": 5,
+      "HEALTH": 10
+    },
+    "FIERY_AURORA_HELMET": {
+      "INTELLIGENCE": 550,
+      "DEFENSE": 100,
+      "ABILITY_DAMAGE_PERCENT": 32,
+      "HEALTH": 320
+    },
+    "ARMOR_OF_YOG_BOOTS": {
+      "MINING_FORTUNE": 20,
+      "DEFENSE": 15,
+      "HEAT_RESISTANCE": 10,
+      "HEALTH": 50,
+      "MINING_SPEED": 25
+    },
+    "HOT_FERVOR_HELMET": {
+      "INTELLIGENCE": 19,
+      "DEFENSE": 126,
+      "HEALTH": 227,
+      "TRUE_DEFENSE": 6
+    },
+    "STARRED_ADAPTIVE_HELMET": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 60,
+      "STRENGTH": 15,
+      "HEALTH": 120
+    },
+    "RABBIT_AXE": {
+      "DAMAGE": 20
+    },
+    "MINER_OUTFIT_HELMET": {
+      "DEFENSE": 15,
+      "MINING_SPEED": 15
+    },
+    "MYTHOS_BOOTS": {
+      "DEFENSE": 60,
+      "STRENGTH": 10,
+      "HEALTH": 80
+    },
+    "MITHRIL_BELT": {
+      "MINING_FORTUNE": 5,
+      "MINING_SPEED": 20
+    },
+    "MYTHOS_CLOAK": {
+      "DEFENSE": 15,
+      "STRENGTH": 15,
+      "HEALTH": 25
+    },
+    "TITAN_HELMET": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 100,
+      "STRENGTH": 10,
+      "HEALTH": 150
+    },
+    "RAMPART_LEGGINGS": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 55,
+      "HEALTH": 150
+    },
+    "DIAMOND_CHESTPLATE": {
+      "DEFENSE": 40
+    },
+    "FROGGLES_DIAMOND": {
+      "FISHING_SPEED": 4
+    },
+    "DRACONIC_TALISMAN": {
+      "HEALTH": 1
+    },
+    "THROWING_AXE": {
+      "STRENGTH": 50,
+      "DAMAGE": 120
+    },
+    "WITHER_CHESTPLATE": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 250,
+      "HEALTH": 300
+    },
+    "STARRED_SPIDER_QUEENS_STINGER": {
+      "DAMAGE": 600
+    },
+    "SPIDER_QUEENS_STINGER": {
+      "DAMAGE": 360
+    },
+    "MENDER_HELMET": {
+      "HEALTH": 80
+    },
+    "BLAZE_BOOTS": {
+      "DEFENSE": 80,
+      "WALK_SPEED": 2,
+      "STRENGTH": 30
+    },
+    "GREAT_SPOOK_BOOTS": {
+      "FEAR": 5
+    },
+    "GREAT_SPOOK_CLOAK": {
+      "FEAR": 5
+    },
+    "DIVER_BOOTS": {
+      "DEFENSE": 40,
+      "RESPIRATION": 3,
+      "HEALTH": 125,
+      "SEA_CREATURE_CHANCE": 2,
+      "PRESSURE_RESISTANCE": 15
+    },
+    "SOUL_CAMPFIRE_TALISMAN_28": {
+      "MENDING": 9
+    },
+    "REKINDLED_EMBER_HELMET": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 50,
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 30,
+      "HEALTH": 175
+    },
+    "SOUL_CAMPFIRE_TALISMAN_29": {
+      "MENDING": 10
+    },
+    "ARMADILLO_MASK": {
+      "HEALTH": 1
+    },
+    "SOUL_CAMPFIRE_TALISMAN_24": {
+      "MENDING": 5
+    },
+    "ARMOR_OF_THE_RESISTANCE_HELMET": {
+      "DEFENSE": 10,
+      "HEALTH": 10
+    },
+    "SOUL_CAMPFIRE_TALISMAN_25": {
+      "MENDING": 6
+    },
+    "DRAGON_SHORTBOW": {
+      "CRITICAL_CHANCE": 15,
+      "CRITICAL_DAMAGE": 50,
+      "STRENGTH": 40,
+      "DAMAGE": 120
+    },
+    "SOUL_CAMPFIRE_TALISMAN_26": {
+      "MENDING": 7
+    },
+    "TEST_VAMPIRE_CHESTPLATE": {
+      "RIFT_DAMAGE": 60,
+      "RIFT_MANA_REGEN": 25,
+      "RIFT_HEALTH": 2,
+      "RIFT_INTELLIGENCE": 50
+    },
+    "SOUL_CAMPFIRE_TALISMAN_27": {
+      "MENDING": 8
+    },
+    "TERROR_LEGGINGS": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 55,
+      "WALK_SPEED": 12,
+      "CRITICAL_DAMAGE": 50,
+      "HEALTH": 205
+    },
+    "MINERAL_BOOTS": {
+      "DEFENSE": 70,
+      "WALK_SPEED": 10,
+      "BLOCK_FORTUNE": 25
+    },
+    "GLOSSY_MINERAL_BOOTS": {
+      "DEFENSE": 90,
+      "WALK_SPEED": 20,
+      "BLOCK_FORTUNE": 50
+    },
+    "RABBIT_BOOTS": {
+      "DEFENSE": 15,
+      "WALK_SPEED": 5
+    },
+    "NOT_DEADGEHOG_MASK": {
+      "RIFT_TIME": 30,
+      "RIFT_INTELLIGENCE": 15
+    },
+    "SOUL_CAMPFIRE_TALISMAN_21": {
+      "MENDING": 2
+    },
+    "SOUL_CAMPFIRE_TALISMAN_22": {
+      "MENDING": 3
+    },
+    "FINWAVE_BELT": {
+      "FISHING_SPEED": 10,
+      "HEALTH_REGENERATION": 1,
+      "HEALTH": 18
+    },
+    "SOUL_CAMPFIRE_TALISMAN_23": {
+      "MENDING": 4
+    },
+    "ODGERS_BRONZE_TOOTH": {
+      "TROPHY_FISH_CHANCE": 1
+    },
+    "SNOW_SUIT_HELMET": {
+      "DEFENSE": 30,
+      "HEALTH": 70
+    },
+    "WOOD_AXE": {
+      "DAMAGE": 10
+    },
+    "EXPLOSIVE_BOW": {
+      "STRENGTH": 20,
+      "DAMAGE": 100
+    },
+    "HOLLOW_BOOTS": {
+      "INTELLIGENCE": 85,
+      "DEFENSE": 45,
+      "WALK_SPEED": 5,
+      "HEALTH": 150,
+      "MENDING": 5
+    },
+    "STARLIGHT_CHESTPLATE": {
+      "INTELLIGENCE": 90,
+      "DEFENSE": 40,
+      "HEALTH": 40
+    },
+    "TANK_WITHER_HELMET": {
+      "INTELLIGENCE": 30,
+      "DEFENSE": 180,
+      "HEALTH": 210
+    },
+    "WYLD_LEGGINGS": {
+      "RIFT_TIME": 15
+    },
+    "STARRED_GLACIAL_SCYTHE": {
+      "INTELLIGENCE": 40,
+      "WEAPON_ABILITY_DAMAGE": 1700,
+      "DAMAGE": 130
+    },
+    "FIERY_HOLLOW_HELMET": {
+      "INTELLIGENCE": 260,
+      "DEFENSE": 107,
+      "WALK_SPEED": 10,
+      "HEALTH": 342,
+      "MENDING": 10
+    },
+    "BACKWATER_GLOVES": {
+      "FISHING_SPEED": 2,
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "TAURUS_HELMET": {
+      "DEFENSE": 150,
+      "CRITICAL_DAMAGE": 20,
+      "HEALTH": 175,
+      "SEA_CREATURE_CHANCE": 3
+    },
+    "FROGGLES_GOLD": {
+      "FISHING_SPEED": 3
+    },
+    "ASPECT_OF_THE_END": {
+      "STRENGTH": 100,
+      "DAMAGE": 100
+    },
+    "LEAFLET_HELMET": {
+      "FORAGING_FORTUNE": 3,
+      "HEALTH": 70
+    },
+    "ASPECT_OF_THE_JERRY": {
+      "DAMAGE": 1
+    },
+    "BURSTSTOPPER_ARTIFACT": {
+      "STRENGTH": 2,
+      "TRUE_DEFENSE": 3
+    },
+    "RETRO_ENCABULATING_VISOR": {
+      "RIFT_INTELLIGENCE": -50
+    },
+    "AMBER_NECKLACE": {
+      "MINING_FORTUNE": 10,
+      "MINING_SPEED": 30
+    },
+    "SAFETY_BADGE": {
+      "INTELLIGENCE": 1,
+      "DEFENSE": 3
+    },
+    "HASTE_RING": {
+      "MINING_SPEED": 10
+    },
+    "SILVER_HUNTER_BOOTS": {
+      "HEALTH": 50
+    },
+    "ANGLER_BRACELET": {
+      "FISHING_SPEED": 1
+    },
+    "FROZEN_SCYTHE": {
+      "WEAPON_ABILITY_DAMAGE": 1000,
+      "DAMAGE": 80
+    },
+    "SELF_RECURSIVE_PICKAXE": {
+      "RIFT_DAMAGE": 5
+    },
+    "SKELETON_HELMET": {
+      "DEFENSE": 75
+    },
+    "HUNTER_RING": {
+      "COMBAT_WISDOM": 5
+    },
+    "BONE_REAVER": {
+      "STRENGTH": 90,
+      "DAMAGE": 235
+    },
+    "REAPER_SCYTHE": {
+      "WALK_SPEED": 10,
+      "DAMAGE": 333
+    },
+    "PRISMARINE_BLADE": {
+      "STRENGTH": 25,
+      "DAMAGE": 50
+    },
+    "ARACHNE_NECKLACE": {
+      "DEFENSE": 5,
+      "HEALTH": 10
+    },
+    "UNSTABLE_DRAGON_LEGGINGS": {
+      "DEFENSE": 140,
+      "CRITICAL_CHANCE": 5,
+      "CRITICAL_DAMAGE": 15,
+      "HEALTH": 100
+    },
+    "ORANGE_CHESTPLATE": {
+      "RIFT_MANA_REGEN": 10,
+      "RIFT_TIME": 45,
+      "RIFT_INTELLIGENCE": 5
+    },
+    "BLAZE_TALISMAN": {
+      "TRUE_DEFENSE": 3
+    },
+    "BURNING_HOLLOW_CHESTPLATE": {
+      "INTELLIGENCE": 135,
+      "DEFENSE": 109,
+      "WALK_SPEED": 8,
+      "HEALTH": 391,
+      "MENDING": 8
+    },
+    "EXCEEDINGLY_COMFY_SNEAKERS": {
+      "RIFT_WALK_SPEED": 5,
+      "RIFT_TIME": 45
+    },
+    "FIERY_FERVOR_LEGGINGS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 230,
+      "HEALTH": 420,
+      "TRUE_DEFENSE": 10
+    },
+    "GOLD_PROFESSOR_HEAD": {
+      "DEFENSE": 20,
+      "STRENGTH": 10,
+      "HEALTH": 40
+    },
+    "TACTICIAN_SWORD": {
+      "CRITICAL_CHANCE": 20,
+      "DAMAGE": 50
+    },
+    "CACTUS_CHESTPLATE": {
+      "DEFENSE": 25,
+      "HEALTH": 15
+    },
+    "STEEL_CHESTPLATE": {
+      "DEFENSE": 330
+    },
+    "CASHMERE_JACKET": {
+      "DEFENSE": 10,
+      "HEALTH": 25
+    },
+    "MOLTEN_BRACELET": {
+      "DEFENSE": 20,
+      "STRENGTH": 20,
+      "HEALTH": 30
+    },
+    "BASIC_PIG_AXE": {
+      "DAMAGE": 10
+    },
+    "STAR_BOOTS": {
+      "INTELLIGENCE": 1000,
+      "DEFENSE": 2500,
+      "HEALTH": 7500
+    },
+    "FERMENTO_ARTIFACT": {
+      "WHEAT_FORTUNE": 30,
+      "PUMPKIN_FORTUNE": 30,
+      "CARROT_FORTUNE": 30,
+      "MELON_FORTUNE": 30,
+      "CACTUS_FORTUNE": 30,
+      "POTATO_FORTUNE": 30,
+      "SUGAR_CANE_FORTUNE": 30,
+      "MUSHROOM_FORTUNE": 30,
+      "COCOA_BEANS_FORTUNE": 30,
+      "NETHER_STALK_FORTUNE": 30
+    },
+    "DIAMOND_NECRON_HEAD": {
+      "DEFENSE": 80,
+      "STRENGTH": 40,
+      "HEALTH": 220
+    },
+    "ARGOFAY_TRINKET": {
+      "RIFT_INTELLIGENCE": 2
+    },
+    "GOLD_SWORD": {
+      "DAMAGE": 20
+    },
+    "FINAL_DESTINATION_LEGGINGS": {
+      "INTELLIGENCE": 100,
+      "DEFENSE": 100,
+      "HEALTH": 160
+    },
+    "EMERALD_ARMOR_CHESTPLATE": {
+      "DEFENSE": 100
+    },
+    "AXE_PREVIEW": {
+      "SWEEP": 5
+    },
+    "GLOSSY_MINERAL_HELMET": {
+      "DEFENSE": 90,
+      "WALK_SPEED": 20,
+      "BLOCK_FORTUNE": 50
+    },
+    "STARRED_MIDAS_STAFF": {
+      "INTELLIGENCE": 50,
+      "WEAPON_ABILITY_DAMAGE": 6000,
+      "STRENGTH": 150,
+      "DAMAGE": 130
+    },
+    "SPIDER_SWORD": {
+      "DAMAGE": 30
+    },
+    "POOCH_SWORD": {
+      "WALK_SPEED": 10,
+      "ATTACK_SPEED": 5,
+      "STRENGTH": 80,
+      "DAMAGE": 160
+    },
+    "GOLEM_ARMOR_HELMET": {
+      "DEFENSE": 45,
+      "HEALTH": 45
+    },
+    "FLAME_BREAKER_CHESTPLATE": {
+      "MINING_FORTUNE": 15,
+      "DEFENSE": 70,
+      "HEAT_RESISTANCE": 5,
+      "HEALTH": 70,
+      "MINING_SPEED": 25
+    },
+    "LAPIS_ARMOR_LEGGINGS": {
+      "MINING_FORTUNE": 2,
+      "DEFENSE": 35,
+      "MINING_SPEED": 20
+    },
+    "ANUBIS": {
+      "HEALTH": 3001
+    },
+    "STING": {
+      "CRITICAL_DAMAGE": 40,
+      "STRENGTH": 75,
+      "DAMAGE": 150
+    },
+    "RABBIT_HAT": {
+      "INTELLIGENCE": 5,
+      "WALK_SPEED": 5
+    },
+    "BURNED_PANTS": {
+      "RIFT_TIME": -4
+    },
+    "DARK_GOGGLES": {
+      "INTELLIGENCE": 150,
+      "ABILITY_DAMAGE_PERCENT": 25
+    },
+    "NETHERITE_HELMET": {
+      "MINING_FORTUNE": 10,
+      "DEFENSE": 40,
+      "HEALTH": 40,
+      "MINING_SPEED": 25
+    },
+    "TERMINATOR": {
+      "ATTACK_SPEED": 40,
+      "CRITICAL_DAMAGE": 250,
+      "STRENGTH": 50,
+      "DAMAGE": 310
+    },
+    "MINER_OUTFIT_BOOTS": {
+      "DEFENSE": 15,
+      "MINING_SPEED": 15
+    },
+    "ELLES_LAVA_ROD": {
+      "FISHING_SPEED": 8,
+      "STRENGTH": 50,
+      "DAMAGE": 50
+    },
+    "LOTUS_BELT": {
+      "FARMING_FORTUNE": 5,
+      "HEALTH": 10
+    },
+    "FARMER_ROD": {
+      "FISHING_SPEED": 60,
+      "STRENGTH": 20,
+      "DAMAGE": 50
+    },
+    "ENDER_GAUNTLET": {
+      "DEFENSE": 10,
+      "HEALTH": 15
+    },
+    "FIERY_TERROR_HELMET": {
+      "INTELLIGENCE": 30,
+      "DEFENSE": 100,
+      "WALK_SPEED": 24,
+      "CRITICAL_DAMAGE": 100,
+      "HEALTH": 320
+    },
+    "DRACONIC_ARTIFACT": {
+      "HEALTH": 3
+    },
+    "BASIC_COW_AXE": {
+      "DAMAGE": 10
+    },
+    "HORSEMAN_SCYTHE": {
+      "DAMAGE": 100
+    },
+    "END_STONE_SWORD": {
+      "STRENGTH": 80,
+      "DAMAGE": 120
+    },
+    "FRIED_FROZEN_CHICKEN": {
+      "HEAT_RESISTANCE": 1,
+      "WALK_SPEED": 1,
+      "COLD_RESISTANCE": 1
+    },
+    "PIG_MASK": {
+      "WALK_SPEED": 1
+    },
+    "ROSETTA_HELMET": {
+      "DEFENSE": 20
+    },
+    "VORPAL_KATANA": {
+      "INTELLIGENCE": 200,
+      "CRITICAL_DAMAGE": 30,
+      "STRENGTH": 80,
+      "DAMAGE": 190
+    },
+    "MELON_BOOTS": {
+      "DEFENSE": 25,
+      "WALK_SPEED": 2,
+      "BONUS_PEST_CHANCE": 10,
+      "FARMING_FORTUNE": 15,
+      "HEALTH": 100
+    },
+    "PERFECT_CHESTPLATE_8": {
+      "DEFENSE": 300
+    },
+    "PERFECT_CHESTPLATE_9": {
+      "DEFENSE": 320
+    },
+    "SLIME_BOW": {
+      "CRITICAL_DAMAGE": 50,
+      "DAMAGE": 100
+    },
+    "BURNING_AURORA_CHESTPLATE": {
+      "INTELLIGENCE": 278,
+      "DEFENSE": 103,
+      "HEALTH": 365
+    },
+    "ORNATE_ZOMBIE_SWORD": {
+      "INTELLIGENCE": 50,
+      "STRENGTH": 60,
+      "DAMAGE": 110
+    },
+    "MENDER_FEDORA": {
+      "HEALTH": 220
+    },
+    "ZOMBIE_BOOTS": {
+      "DEFENSE": 25,
+      "HEALTH": 120
+    },
+    "SALMON_HAT": {
+      "WALK_SPEED": 2,
+      "STRENGTH": 15
+    },
+    "MOONGLADE_TALISMAN": {
+      "FIG_FORTUNE": 5,
+      "MANGROVE_FORTUNE": 5
+    },
+    "SHIMMERING_LIGHT_TROUSERS": {
+      "INTELLIGENCE": 100,
+      "DEFENSE": 100,
+      "HEALTH": 120
+    },
+    "ROD_OF_THE_SEA": {
+      "FISHING_SPEED": 80,
+      "STRENGTH": 150,
+      "SEA_CREATURE_CHANCE": 8,
+      "DAMAGE": 150
+    },
+    "RABBIT_HELMET": {
+      "DEFENSE": 15,
+      "WALK_SPEED": 5
+    },
+    "ELECTRIC_WAND_ITEM": {
+      "DAMAGE": 10
+    },
+    "LAPIS_ARMOR_HELMET": {
+      "MINING_FORTUNE": 2,
+      "DEFENSE": 25,
+      "MINING_SPEED": 20
+    },
+    "THERMODYNAMIC_LEGGINGS": {
+      "DEFENSE": 200,
+      "WALK_SPEED": 25,
+      "ATTACK_SPEED": 5
+    },
+    "AURORA_HELMET": {
+      "INTELLIGENCE": 275,
+      "DEFENSE": 50,
+      "ABILITY_DAMAGE_PERCENT": 16,
+      "HEALTH": 160
+    },
+    "NEX_TITANUM": {
+      "DAMAGE": 25
+    },
+    "ODGERS_GOLD_TOOTH": {
+      "TROPHY_FISH_CHANCE": 3
+    },
+    "FANCY_TUXEDO_LEGGINGS": {
+      "INTELLIGENCE": 75,
+      "CRITICAL_DAMAGE": 35
+    },
+    "WEREWOLF_BOOTS": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 125,
+      "FEROCITY": 10
+    },
+    "MOLE_HAT": {
+      "DEFENSE": 10,
+      "FORAGING_FORTUNE": 6,
+      "HEALTH": 35
+    },
+    "CRYSTAL_CHESTPLATE": {
+      "INTELLIGENCE": 120,
+      "DEFENSE": 35
+    },
+    "ABYSSAL_BOOTS": {
+      "DEFENSE": 110,
+      "RESPIRATION": 5,
+      "HEALTH": 120,
+      "SEA_CREATURE_CHANCE": 2,
+      "PRESSURE_RESISTANCE": 20
+    },
+    "MOONGLADE_RING": {
+      "FIG_FORTUNE": 10,
+      "MANGROVE_FORTUNE": 10
+    },
+    "FARM_ARMOR_BOOTS": {
+      "DEFENSE": 15,
+      "FARMING_FORTUNE": 10
+    },
+    "PESTHUNTER_BADGE": {
+      "BONUS_PEST_CHANCE": 20
+    },
+    "SHADOW_ASSASSIN_CHESTPLATE": {
+      "DEFENSE": 110,
+      "WALK_SPEED": 7,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 25,
+      "HEALTH": 240
+    },
+    "EFFICIENT_AXE": {
+      "DAMAGE": 25
+    },
+    "HOT_FERVOR_LEGGINGS": {
+      "INTELLIGENCE": 6,
+      "DEFENSE": 145,
+      "HEALTH": 265,
+      "TRUE_DEFENSE": 6
+    },
+    "HOT_CRIMSON_BOOTS": {
+      "INTELLIGENCE": 6,
+      "DEFENSE": 50,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 38,
+      "HEALTH": 164
+    },
+    "HYPERION": {
+      "INTELLIGENCE": 350,
+      "FEROCITY": 30,
+      "STRENGTH": 150,
+      "DAMAGE": 260
+    },
+    "FIERY_TERROR_CHESTPLATE": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 130,
+      "WALK_SPEED": 24,
+      "CRITICAL_DAMAGE": 100,
+      "HEALTH": 460
+    },
+    "MAGMA_LORD_CHESTPLATE": {
+      "DEFENSE": 225,
+      "CRITICAL_DAMAGE": 35,
+      "STRENGTH": 10,
+      "HEALTH": 275
+    },
+    "FLOWER_OF_TRUTH": {
+      "STRENGTH": 300,
+      "DAMAGE": 160
+    },
+    "MANGROVE_GRIPPERS": {
+      "SWEEP": 1,
+      "FORAGING_FORTUNE": 5
+    },
+    "UNSTABLE_DRAGON_BOOTS": {
+      "DEFENSE": 90,
+      "CRITICAL_CHANCE": 5,
+      "CRITICAL_DAMAGE": 15,
+      "HEALTH": 60
+    },
+    "THUNDER_HELMET": {
+      "DEFENSE": 175,
+      "STRENGTH": 25,
+      "HEALTH": 200,
+      "SEA_CREATURE_CHANCE": 4
+    },
+    "CHALLENGER_CLOAK": {
+      "DEFENSE": 10,
+      "STRENGTH": 5,
+      "HEALTH": 20
+    },
+    "MAGMA_LORD_HELMET": {
+      "DEFENSE": 175,
+      "CRITICAL_DAMAGE": 35,
+      "STRENGTH": 10,
+      "HEALTH": 225
+    },
+    "BRONZE_HUNTER_CHESTPLATE": {
+      "HEALTH": 100
+    },
+    "SALMON_HELMET": {
+      "DEFENSE": 30,
+      "HEALTH": 100
+    },
+    "HEALING_TALISMAN": {
+      "VITALITY": 2
+    },
+    "ZOMBIE_CHESTPLATE": {
+      "DEFENSE": 40,
+      "HEALTH": 200
+    },
+    "FROGGLES": {
+      "FISHING_SPEED": 1
+    },
+    "PERFECT_CHESTPLATE_4": {
+      "DEFENSE": 220
+    },
+    "PERFECT_CHESTPLATE_5": {
+      "DEFENSE": 240
+    },
+    "PERFECT_CHESTPLATE_6": {
+      "DEFENSE": 260
+    },
+    "IRON_PICKAXE": {
+      "BREAKING_POWER": 3,
+      "MINING_SPEED": 160,
+      "DAMAGE": 25
+    },
+    "PERFECT_CHESTPLATE_7": {
+      "DEFENSE": 280
+    },
+    "HARDENED_DIAMOND_BOOTS": {
+      "DEFENSE": 55
+    },
+    "PERFECT_CHESTPLATE_1": {
+      "DEFENSE": 160
+    },
+    "SCORPION_BOW": {
+      "CRITICAL_CHANCE": 10,
+      "STRENGTH": 25,
+      "DAMAGE": 50
+    },
+    "PERFECT_CHESTPLATE_2": {
+      "DEFENSE": 180
+    },
+    "GLACITE_LEGGINGS": {
+      "MINING_FORTUNE": 5,
+      "DEFENSE": 125,
+      "WALK_SPEED": 15,
+      "MINING_SPEED": 10,
+      "TRUE_DEFENSE": 10
+    },
+    "PERFECT_CHESTPLATE_3": {
+      "DEFENSE": 200
+    },
+    "ARMOR_OF_MAGMA_BOOTS": {
+      "DEFENSE": 15,
+      "HEALTH": 45
+    },
+    "BOUNCY_ARROW": {
+      "DAMAGE": 5
+    },
+    "ARACHNE_BOOTS": {
+      "DEFENSE": 30,
+      "HEALTH": 45
+    },
+    "CHALLENGER_LEGGINGS": {
+      "DEFENSE": 35,
+      "STRENGTH": 20,
+      "HEALTH": 70
+    },
+    "CACTUS_HELMET": {
+      "DEFENSE": 10,
+      "HEALTH": 5
+    },
+    "IRON_SWORD": {
+      "DAMAGE": 30
+    },
+    "ARACHNE_CLOAK": {
+      "DEFENSE": 5,
+      "HEALTH": 10
+    },
+    "ANCIENT_CLOAK": {
+      "MINING_FORTUNE": 10,
+      "HEALTH": 15
+    },
+    "SAVANA_BOW": {
+      "DAMAGE": 50
+    },
+    "PRESSURE_RING": {
+      "PRESSURE_RESISTANCE": 20
+    },
+    "CHALLENGER_BOOTS": {
+      "DEFENSE": 30,
+      "STRENGTH": 5,
+      "HEALTH": 40
+    },
+    "MAGMA_CUBE_HEAD": {
+      "DEFENSE": 25,
+      "HEALTH": 25
+    },
+    "MAGMA_NECKLACE": {
+      "HEALTH": 15
+    },
+    "JUNGLE_PICKAXE": {
+      "BREAKING_POWER": 5,
+      "MINING_SPEED": 330,
+      "DAMAGE": 50
+    },
+    "BLOOD_DONOR_ARTIFACT": {
+      "RIFT_MANA_REGEN": 10,
+      "HEALTH_REGENERATION": 3,
+      "RIFT_TIME": 15
+    },
+    "PROMISING_AXE": {
+      "DAMAGE": 25
+    },
+    "SPEED_WITHER_CHESTPLATE": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 120,
+      "WALK_SPEED": 30,
+      "CRITICAL_DAMAGE": 45,
+      "HEALTH": 260
+    },
+    "BASIC_SHEEP_AXE": {
+      "DAMAGE": 10
+    },
+    "ROSETTA_CHESTPLATE": {
+      "DEFENSE": 40
+    },
+    "STRONG_DRAGON_BOOTS": {
+      "DEFENSE": 90,
+      "STRENGTH": 25,
+      "HEALTH": 60
+    },
+    "BERSERKER_CHESTPLATE": {
+      "CRITICAL_DAMAGE": 60,
+      "STRENGTH": 60
+    },
+    "LEAFLET_LEGGINGS": {
+      "FORAGING_FORTUNE": 3,
+      "HEALTH": 20
+    },
+    "INFERNAL_HOLLOW_LEGGINGS": {
+      "INTELLIGENCE": 214,
+      "DEFENSE": 146,
+      "WALK_SPEED": 13,
+      "HEALTH": 549,
+      "MENDING": 12
+    },
+    "GENERALS_ARMOR_OF_THE_RESISTANCE_HELMET": {
+      "DEFENSE": 10,
+      "HEALTH": 10
+    },
+    "INFERNAL_AURORA_LEGGINGS": {
+      "INTELLIGENCE": 441,
+      "DEFENSE": 139,
+      "HEALTH": 517
+    },
+    "RUNIC_STAFF": {
+      "INTELLIGENCE": 250,
+      "WEAPON_ABILITY_DAMAGE": 10000,
+      "DAMAGE": 20
+    },
+    "MUSHROOM_CHESTPLATE": {
+      "DEFENSE": 10,
+      "HEALTH": 10
+    },
+    "FLAMING_CHESTPLATE": {
+      "DEFENSE": 200,
+      "STRENGTH": 25,
+      "HEALTH": 225,
+      "SEA_CREATURE_CHANCE": 3
+    },
+    "TIKI_MASK": {
+      "DEFENSE": 100,
+      "HEALTH": 300,
+      "SEA_CREATURE_CHANCE": 2
+    },
+    "MELODY_HAIR": {
+      "INTELLIGENCE": 6
+    },
+    "BAT_ARTIFACT": {
+      "INTELLIGENCE": 3,
+      "WALK_SPEED": 3,
+      "HEALTH": 5
+    },
+    "STAR_SWORD_9000": {
+      "DAMAGE": 99999999,
+      "SWING_RANGE": 99999999
+    },
+    "SQUASH_RING": {
+      "WHEAT_FORTUNE": 20,
+      "PUMPKIN_FORTUNE": 20,
+      "CARROT_FORTUNE": 20,
+      "MELON_FORTUNE": 20,
+      "POTATO_FORTUNE": 20,
+      "COCOA_BEANS_FORTUNE": 20
+    },
+    "PARROT_MASK": {
+      "HEALTH": 1
+    },
+    "LAVA_SHELL_NECKLACE": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 30,
+      "HEALTH": 100
+    },
+    "STONE_PICKAXE": {
+      "BREAKING_POWER": 2,
+      "MINING_SPEED": 110,
+      "DAMAGE": 20
+    },
+    "MUSHROOM_HELMET": {
+      "HEALTH": 20
+    },
+    "HOLLOW_CHESTPLATE": {
+      "INTELLIGENCE": 85,
+      "DEFENSE": 70,
+      "WALK_SPEED": 5,
+      "HEALTH": 250,
+      "MENDING": 5
+    },
+    "GUARDIAN_CHESTPLATE": {
+      "DEFENSE": 50,
+      "HEALTH": 20
+    },
+    "VENATOR_GENESIS": {
+      "DAMAGE": 5
+    },
+    "MAWDUST_DAGGER": {
+      "CRITICAL_DAMAGE": 15,
+      "STRENGTH": 45,
+      "DAMAGE": 90
+    },
+    "HOT_TERROR_BOOTS": {
+      "INTELLIGENCE": 6,
+      "DEFENSE": 50,
+      "WALK_SPEED": 15,
+      "CRITICAL_DAMAGE": 63,
+      "HEALTH": 164
+    },
+    "WOOD_PICKAXE": {
+      "BREAKING_POWER": 1,
+      "MINING_SPEED": 70,
+      "DAMAGE": 15
+    },
+    "BLADE_OF_THE_VOLCANO": {
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 70,
+      "DAMAGE": 220
+    },
+    "VANGUARD_HELMET": {
+      "COLD_RESISTANCE": 1
+    },
+    "DIVER_CHESTPLATE": {
+      "DEFENSE": 100,
+      "RESPIRATION": 3,
+      "HEALTH": 200,
+      "SEA_CREATURE_CHANCE": 2,
+      "PRESSURE_RESISTANCE": 15
+    },
+    "ZOMBIE_LEGGINGS": {
+      "DEFENSE": 30,
+      "HEALTH": 160
+    },
+    "PRISMARINE_ROD": {
+      "FISHING_SPEED": 15,
+      "STRENGTH": 10,
+      "DAMAGE": 15
+    },
+    "SCOVILLE_BELT": {
+      "DEFENSE": 30,
+      "STRENGTH": 15
+    },
+    "NUTCRACKER_BOOTS": {
+      "DEFENSE": 30,
+      "HEALTH": 75
+    },
+    "POWER_WITHER_LEGGINGS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 125,
+      "CRITICAL_DAMAGE": 30,
+      "STRENGTH": 40,
+      "HEALTH": 230
+    },
+    "MITHRIL_NECKLACE": {
+      "MINING_FORTUNE": 5,
+      "MINING_SPEED": 20
+    },
+    "ELLES_PICKAXE": {
+      "BREAKING_POWER": 5,
+      "MINING_SPEED": 250,
+      "DAMAGE": 10
+    },
+    "ROOKIE_PICKAXE": {
+      "BREAKING_POWER": 2,
+      "MINING_SPEED": 150,
+      "ORE_FORTUNE": 5,
+      "DAMAGE": 15
+    },
+    "ELEGANT_TUXEDO_LEGGINGS": {
+      "INTELLIGENCE": 100,
+      "CRITICAL_DAMAGE": 50
+    },
+    "DIVER_LEGGINGS": {
+      "DEFENSE": 80,
+      "RESPIRATION": 3,
+      "HEALTH": 175,
+      "SEA_CREATURE_CHANCE": 2,
+      "PRESSURE_RESISTANCE": 15
+    },
+    "FINWAVE_CLOAK": {
+      "FISHING_SPEED": 10,
+      "HEALTH_REGENERATION": 1,
+      "HEALTH": 15
+    },
+    "RING_OF_ETERNAL_LOVE": {
+      "RIFT_TIME": 80
+    },
+    "SILVERTWIST_KARAMBIT": {
+      "RIFT_WALK_SPEED": 15,
+      "RIFT_DAMAGE": 6
+    },
+    "UNSTABLE_DRAGON_HELMET": {
+      "INTELLIGENCE": 25,
+      "DEFENSE": 110,
+      "CRITICAL_CHANCE": 5,
+      "CRITICAL_DAMAGE": 15,
+      "HEALTH": 70
+    },
+    "SKYMART_HYPER_VACUUM": {
+      "FARMING_FORTUNE": 15,
+      "DAMAGE": 200
+    },
+    "BURNING_AURORA_HELMET": {
+      "INTELLIGENCE": 437,
+      "DEFENSE": 79,
+      "ABILITY_DAMAGE_PERCENT": 25,
+      "HEALTH": 254
+    },
+    "PIGMAN_SWORD": {
+      "INTELLIGENCE": 300,
+      "CRITICAL_CHANCE": 5,
+      "WEAPON_ABILITY_DAMAGE": 30000,
+      "CRITICAL_DAMAGE": 30,
+      "STRENGTH": 100,
+      "DAMAGE": 200
+    },
+    "GHAST_LEGGINGS": {
+      "HEALTH": 150
+    },
+    "SHADOW_ASSASSIN_CLOAK": {
+      "WALK_SPEED": 3,
+      "STRENGTH": 20
+    },
+    "FARM_SUIT_LEGGINGS": {
+      "DEFENSE": 10,
+      "FARMING_FORTUNE": 5
+    },
+    "PROTECTOR_DRAGON_HELMET": {
+      "DEFENSE": 135,
+      "HEALTH": 70
+    },
+    "SPEEDSTER_ROD": {
+      "FISHING_SPEED": 45,
+      "STRENGTH": 15,
+      "DAMAGE": 30
+    },
+    "STARRED_FELTHORN_REAPER": {
+      "CRITICAL_DAMAGE": 125,
+      "STRENGTH": 10,
+      "DAMAGE": 285
+    },
+    "MOLTEN_CLOAK": {
+      "DEFENSE": 20,
+      "STRENGTH": 20,
+      "HEALTH": 30
+    },
+    "LAPIS_PICKAXE": {
+      "BREAKING_POWER": 4,
+      "MINING_SPEED": 200,
+      "DAMAGE": 20
+    },
+    "FERVOR_BOOTS": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 85,
+      "HEALTH": 160,
+      "TRUE_DEFENSE": 5
+    },
+    "PUMPKIN_LAUNCHER": {
+      "WEAPON_ABILITY_DAMAGE": 3000
+    },
+    "SQUASH_LEGGINGS": {
+      "DEFENSE": 35,
+      "WALK_SPEED": 5,
+      "BONUS_PEST_CHANCE": 15,
+      "FARMING_FORTUNE": 30,
+      "HEALTH": 180
+    },
+    "METAL_CHESTPLATE": {
+      "DEFENSE": 230
+    },
+    "DETRANSFIGURED_MASK": {
+      "RIFT_TIME": 80,
+      "RIFT_INTELLIGENCE": 20
+    },
+    "CHRONO_PICKAXE": {
+      "RIFT_DAMAGE": 5
+    },
+    "CHAINMAIL_CHESTPLATE": {
+      "DEFENSE": 30
+    },
+    "NUTCRACKER_CHESTPLATE": {
+      "DEFENSE": 45,
+      "HEALTH": 115
+    },
+    "FIRE_FREEZE_STAFF": {
+      "STRENGTH": 20,
+      "DAMAGE": 50
+    },
+    "CRYSTAL_BOOTS": {
+      "INTELLIGENCE": 60,
+      "DEFENSE": 15
+    },
+    "SHADOW_ASSASSIN_BOOTS": {
+      "DEFENSE": 55,
+      "WALK_SPEED": 7,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 25,
+      "HEALTH": 125
+    },
+    "LOTUS_CLOAK": {
+      "FARMING_FORTUNE": 5,
+      "HEALTH": 10
+    },
+    "CANOPY_CHESTPLATE": {
+      "DEFENSE": 40,
+      "SWEEP": 6,
+      "HEALTH": 120
+    },
+    "FIG_HELMET": {
+      "DEFENSE": 30,
+      "SWEEP": 10,
+      "FORAGING_FORTUNE": 30,
+      "HEALTH": 80
+    },
+    "DIAMOND_HUNTER_BOOTS": {
+      "HEALTH": 100
+    },
+    "HOLLOW_LEGGINGS": {
+      "INTELLIGENCE": 85,
+      "DEFENSE": 60,
+      "WALK_SPEED": 5,
+      "HEALTH": 225,
+      "MENDING": 5
+    },
+    "SLIME_HAT": {
+      "HEALTH": 50
+    },
+    "SERIOUSLY_DAMAGED_AXE": {
+      "SWEEP": 10,
+      "FORAGING_FORTUNE": 5,
+      "DAMAGE": 10
+    },
+    "STARLIGHT_HELMET": {
+      "INTELLIGENCE": 45,
+      "DEFENSE": 25,
+      "HEALTH": 25
+    },
+    "FARM_SUIT_CHESTPLATE": {
+      "DEFENSE": 10,
+      "FARMING_FORTUNE": 5
+    },
+    "FINWAVE_GLOVES": {
+      "FISHING_SPEED": 10,
+      "HEALTH_REGENERATION": 1,
+      "HEALTH": 12
+    },
+    "FIRE_VEIL_WAND": {
+      "INTELLIGENCE": 200,
+      "WEAPON_ABILITY_DAMAGE": 15000,
+      "DAMAGE": 50
+    },
+    "ADAPTIVE_CHESTPLATE": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 85,
+      "STRENGTH": 15,
+      "HEALTH": 170
+    },
+    "FISH_AFFINITY_TALISMAN": {
+      "FISHING_SPEED": 10
+    },
+    "PUMPKIN_CHESTPLATE": {
+      "DEFENSE": 20,
+      "FARMING_FORTUNE": 15
+    },
+    "FERVOR_HELMET": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 100,
+      "HEALTH": 180,
+      "TRUE_DEFENSE": 5
+    },
+    "THUNDER_LEGGINGS": {
+      "DEFENSE": 200,
+      "STRENGTH": 25,
+      "HEALTH": 225,
+      "SEA_CREATURE_CHANCE": 4
+    },
+    "LUSH_TALISMAN": {
+      "HEALTH": 1
+    },
+    "VOODOO_DOLL_WILTED": {
+      "WEAPON_ABILITY_DAMAGE": 2222
+    },
+    "SHARP_SHARK_TOOTH_NECKLACE": {
+      "STRENGTH": 8
+    },
+    "PARTY_HAT_CRAB": {
+      "MAGIC_FIND": 1
+    },
+    "SAPPHIRE_CLOAK": {
+      "MINING_FORTUNE": 10,
+      "MINING_SPEED": 30
+    },
+    "BASIC_RABBIT_AXE": {
+      "DAMAGE": 10
+    },
+    "FIERY_AURORA_LEGGINGS": {
+      "INTELLIGENCE": 350,
+      "DEFENSE": 110,
+      "HEALTH": 410
+    },
+    "SPIRIT_SWORD": {
+      "STRENGTH": 50,
+      "DAMAGE": 210
+    },
+    "STARRED_BONE_NECKLACE": {
+      "DEFENSE": 45,
+      "CRITICAL_CHANCE": 5
+    },
+    "INFERNAL_TERROR_CHESTPLATE": {
+      "INTELLIGENCE": 13,
+      "DEFENSE": 164,
+      "WALK_SPEED": 30,
+      "CRITICAL_DAMAGE": 126,
+      "HEALTH": 580
+    },
+    "CURSUS_FERAE": {
+      "DAMAGE": 15
+    },
+    "DECENT_AXE": {
+      "SWEEP": 24,
+      "FORAGING_FORTUNE": 5,
+      "DAMAGE": 20
+    },
+    "MUSHROOM_LEGGINGS": {
+      "DEFENSE": 5,
+      "HEALTH": 10
+    },
+    "CHALLENGER_HELMET": {
+      "DEFENSE": 25,
+      "STRENGTH": 10,
+      "HEALTH": 50
+    },
+    "BACKWATER_LEGGINGS": {
+      "DEFENSE": 20,
+      "HEALTH": 40,
+      "SEA_CREATURE_CHANCE": 2
+    },
+    "GOLD_AXE": {
+      "DAMAGE": 20
+    },
+    "STONE_BLADE": {
+      "DAMAGE": 170
+    },
+    "SNOW_SUIT_LEGGINGS": {
+      "DEFENSE": 30,
+      "HEALTH": 75
+    },
+    "CHALLENGER_BRACELET": {
+      "DEFENSE": 10,
+      "STRENGTH": 5,
+      "HEALTH": 20
+    },
+    "SULPHUR_BOW": {
+      "STRENGTH": 100,
+      "DAMAGE": 200
+    },
+    "MEDIUM_FISHING_NET": {
+      "PULL": 25
+    },
+    "ZOMBIE_COMMANDER_WHIP": {
+      "STRENGTH": 5,
+      "DAMAGE": 65
+    },
+    "SILVER_HUNTER_HELMET": {
+      "HEALTH": 75
+    },
+    "MUSHROOM_BOOTS": {
+      "HEALTH": 15
+    },
+    "HYPER_CLEAVER": {
+      "CRITICAL_DAMAGE": 100,
+      "STRENGTH": 100,
+      "DAMAGE": 175
+    },
+    "FARMING_TALISMAN": {
+      "FARMING_FORTUNE": 3
+    },
+    "MELON_LEGGINGS": {
+      "DEFENSE": 25,
+      "WALK_SPEED": 3,
+      "BONUS_PEST_CHANCE": 10,
+      "FARMING_FORTUNE": 20,
+      "HEALTH": 150
+    },
+    "SNOW_CLOAK": {
+      "INTELLIGENCE": 5,
+      "WALK_SPEED": 2,
+      "HEALTH": 5
+    },
+    "WISE_WITHER_LEGGINGS": {
+      "INTELLIGENCE": 250,
+      "DEFENSE": 105,
+      "HEALTH": 230
+    },
+    "ATOMSPLIT_KATANA": {
+      "INTELLIGENCE": 300,
+      "CRITICAL_DAMAGE": 50,
+      "STRENGTH": 100,
+      "DAMAGE": 305
+    },
+    "ADVANCED_GARDENING_AXE": {
+      "FARMING_FORTUNE": 15
+    },
+    "PERFECT_CHESTPLATE_10": {
+      "DEFENSE": 340
+    },
+    "LEATHER_HELMET": {
+      "DEFENSE": 5
+    },
+    "PERFECT_CHESTPLATE_12": {
+      "DEFENSE": 380
+    },
+    "PERFECT_CHESTPLATE_11": {
+      "DEFENSE": 360
+    },
+    "INFERNAL_HOLLOW_HELMET": {
+      "INTELLIGENCE": 328,
+      "DEFENSE": 134,
+      "WALK_SPEED": 13,
+      "HEALTH": 427,
+      "MENDING": 12
+    },
+    "BURNING_AURORA_BOOTS": {
+      "INTELLIGENCE": 278,
+      "DEFENSE": 64,
+      "HEALTH": 206
+    },
+    "PERFECT_CHESTPLATE_13": {
+      "DEFENSE": 400
+    },
+    "SPEED_RACER": {
+      "WALK_SPEED": 1000
+    },
+    "RAMPART_CHESTPLATE": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 60,
+      "HEALTH": 175
+    },
+    "BASIC_GARDENING_HOE": {
+      "FARMING_FORTUNE": 10
+    },
+    "RAGNAROCK_AXE": {
+      "STRENGTH": 100,
+      "DAMAGE": 200
+    },
+    "HELIX_ARMOR_HELMET": {
+      "DEFENSE": 35,
+      "SWEEP": 20,
+      "FORAGING_FORTUNE": 45,
+      "HEALTH": 100
+    },
+    "ASPECT_OF_THE_DRAGON": {
+      "WEAPON_ABILITY_DAMAGE": 12000,
+      "STRENGTH": 100,
+      "DAMAGE": 225
+    },
+    "STARRED_STONE_BLADE": {
+      "DAMAGE": 190
+    },
+    "SOUL_WHIP": {
+      "STRENGTH": 175,
+      "DAMAGE": 145
+    },
+    "WIZARD_FACE": {
+      "RIFT_HEALTH": 1,
+      "RIFT_TIME": 130,
+      "RIFT_INTELLIGENCE": 26
+    },
+    "CROPIE_BOOTS": {
+      "DEFENSE": 30,
+      "WALK_SPEED": 4,
+      "FARMING_FORTUNE": 20,
+      "HEALTH": 110
+    },
+    "SILVA_DOMINUS": {
+      "DAMAGE": 10
+    },
+    "ARMOR_OF_MAGMA_HELMET": {
+      "DEFENSE": 15,
+      "HEALTH": 50
+    },
+    "SWORD_OF_BAD_HEALTH": {
+      "CRITICAL_DAMAGE": 50,
+      "STRENGTH": 50,
+      "DAMAGE": 200
+    },
+    "MAGMA_ARROW": {
+      "CRITICAL_CHANCE": 10,
+      "DAMAGE": 40
+    },
+    "CHALLENGE_ROD": {
+      "FISHING_SPEED": 35,
+      "STRENGTH": 75,
+      "SEA_CREATURE_CHANCE": 2,
+      "DAMAGE": 75
+    },
+    "HUNTER_TALISMAN": {
+      "COMBAT_WISDOM": 2
+    },
+    "STARRED_SPIRIT_MASK": {
+      "INTELLIGENCE": 25,
+      "DEFENSE": 75,
+      "WALK_SPEED": 25,
+      "HEALTH": 100
+    },
+    "SEA_WALKER_HELMET": {
+      "DEFENSE": 20,
+      "HEALTH": 20
+    },
+    "TRIBAL_SPEAR": {
+      "STRENGTH": 100
+    },
+    "ELEANOR_TUNIC": {
+      "RIFT_TIME": 20,
+      "HEALTH": 100
+    },
+    "HOT_CRIMSON_HELMET": {
+      "INTELLIGENCE": 19,
+      "DEFENSE": 63,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 38,
+      "HEALTH": 202
+    },
+    "TERROR_BOOTS": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 40,
+      "WALK_SPEED": 12,
+      "CRITICAL_DAMAGE": 50,
+      "HEALTH": 130
+    },
+    "POWER_WITHER_HELMET": {
+      "INTELLIGENCE": 30,
+      "DEFENSE": 100,
+      "CRITICAL_DAMAGE": 30,
+      "STRENGTH": 40,
+      "HEALTH": 180
+    },
+    "REVENANT_LEGGINGS": {
+      "DEFENSE": 50,
+      "HEALTH": 120
+    },
+    "SPEED_WITHER_BOOTS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 65,
+      "WALK_SPEED": 30,
+      "CRITICAL_DAMAGE": 45,
+      "HEALTH": 145
+    },
+    "SPOOKY_HELMET": {
+      "DEFENSE": 25
+    },
+    "FLAME_BREAKER_HELMET": {
+      "MINING_FORTUNE": 15,
+      "DEFENSE": 40,
+      "HEAT_RESISTANCE": 5,
+      "HEALTH": 40,
+      "MINING_SPEED": 25
+    },
+    "FERMENTO_HELMET": {
+      "DEFENSE": 40,
+      "WALK_SPEED": 5,
+      "FARMING_FORTUNE": 30,
+      "HEALTH": 130
+    },
+    "GROWTH_BOOTS": {
+      "DEFENSE": 25,
+      "HEALTH": 50
+    },
+    "FINAL_DESTINATION_CHESTPLATE": {
+      "INTELLIGENCE": 100,
+      "DEFENSE": 100,
+      "HEALTH": 200
+    },
+    "FIERY_AURORA_CHESTPLATE": {
+      "INTELLIGENCE": 350,
+      "DEFENSE": 130,
+      "HEALTH": 460
+    },
+    "INFERNAL_FERVOR_CHESTPLATE": {
+      "INTELLIGENCE": 13,
+      "DEFENSE": 353,
+      "HEALTH": 668,
+      "TRUE_DEFENSE": 12
+    },
+    "BOUQUET_OF_LIES": {
+      "CRITICAL_DAMAGE": 50,
+      "STRENGTH": 300,
+      "DAMAGE": 220
+    },
+    "TERROR_HELMET": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 50,
+      "WALK_SPEED": 12,
+      "CRITICAL_DAMAGE": 50,
+      "HEALTH": 160
+    },
+    "GILLSPLASH_GLOVES": {
+      "FISHING_SPEED": 14,
+      "HEALTH_REGENERATION": 2,
+      "HEALTH": 20
+    },
+    "TARANTULA_BOOTS": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 70,
+      "WALK_SPEED": 5,
+      "HEALTH": 70
+    },
+    "BURNING_HOLLOW_BOOTS": {
+      "INTELLIGENCE": 135,
+      "DEFENSE": 70,
+      "WALK_SPEED": 8,
+      "HEALTH": 234,
+      "MENDING": 8
+    },
+    "GOLD_HUNTER_CHESTPLATE": {
+      "HEALTH": 150
+    },
+    "AURORA_LEGGINGS": {
+      "INTELLIGENCE": 175,
+      "DEFENSE": 55,
+      "HEALTH": 205
+    },
+    "OLD_DRAGON_BOOTS": {
+      "DEFENSE": 90,
+      "HEALTH": 80
+    },
+    "SQUIRE_BOOTS": {
+      "DEFENSE": 20,
+      "STRENGTH": 5,
+      "HEALTH": 20
+    },
+    "FISH_HAT": {
+      "HEALTH": 5
+    },
+    "VANGUARD_CHESTPLATE": {
+      "COLD_RESISTANCE": 1
+    },
+    "GIANTS_EYE_SWORD": {
+      "WEAPON_ABILITY_DAMAGE": 100000,
+      "DAMAGE": 500,
+      "SWING_RANGE": 1
+    },
+    "JERRY_STAFF": {
+      "INTELLIGENCE": 200,
+      "WEAPON_ABILITY_DAMAGE": 500,
+      "DAMAGE": 80
+    },
+    "FARM_ARMOR_CHESTPLATE": {
+      "DEFENSE": 15,
+      "FARMING_FORTUNE": 10
+    },
+    "PESTHUNTERS_NECKLACE": {
+      "BONUS_PEST_CHANCE": 5
+    },
+    "PRIMORDIAL_CHESTPLATE": {
+      "INTELLIGENCE": 110,
+      "DEFENSE": 115,
+      "CRITICAL_DAMAGE": 10,
+      "HEALTH": 150
+    },
+    "TITANIUM_RELIC": {
+      "MINING_SPEED": 60
+    },
+    "FROGGLES_SILVER": {
+      "FISHING_SPEED": 2
+    },
+    "FLAME_BREAKER_BOOTS": {
+      "MINING_FORTUNE": 15,
+      "DEFENSE": 35,
+      "HEAT_RESISTANCE": 5,
+      "HEALTH": 35,
+      "MINING_SPEED": 25
+    },
+    "ENDERMAN_MASK": {
+      "INTELLIGENCE": -99,
+      "DEFENSE": 1,
+      "STRENGTH": 1,
+      "HEALTH": 1
+    },
+    "STONE_CHESTPLATE": {
+      "DEFENSE": 130
+    },
+    "THUNDERBOLT_NECKLACE": {
+      "DEFENSE": 30,
+      "HEALTH": 40
+    },
+    "GREAT_SPOOK_RING": {
+      "FEAR": 4
+    },
+    "BLAZE_HELMET": {
+      "DEFENSE": 90,
+      "WALK_SPEED": 2,
+      "STRENGTH": 30
+    },
+    "VANQUISHED_GLOWSTONE_GAUNTLET": {
+      "INTELLIGENCE": 15,
+      "MINING_FORTUNE": 7
+    },
+    "RECLUSE_FANG": {
+      "CRITICAL_DAMAGE": 10,
+      "STRENGTH": 30,
+      "DAMAGE": 60
+    },
+    "BAT_RING": {
+      "INTELLIGENCE": 2,
+      "WALK_SPEED": 2,
+      "HEALTH": 3
+    },
+    "HELIX_ARMOR_CHESTPLATE": {
+      "DEFENSE": 55,
+      "SWEEP": 20,
+      "FORAGING_FORTUNE": 45,
+      "HEALTH": 190
+    },
+    "GIANT_FISHING_ROD": {
+      "DOUBLE_HOOK_CHANCE": 10
+    },
+    "STAR_HELMET": {
+      "INTELLIGENCE": 1000,
+      "DEFENSE": 3000,
+      "HEALTH": 10000
+    },
+    "ENDERMAN_HAT": {
+      "STRENGTH": 30
+    },
+    "MERCENARY_HELMET": {
+      "DEFENSE": 40,
+      "STRENGTH": 10,
+      "HEALTH": 40
+    },
+    "STRONG_DRAGON_CHESTPLATE": {
+      "DEFENSE": 160,
+      "STRENGTH": 25,
+      "HEALTH": 120
+    },
+    "CHAINMAIL_HELMET": {
+      "DEFENSE": 12
+    },
+    "HEALING_CIRCLE_ITEM": {
+      "DAMAGE": 10
+    },
+    "SCORPION_FOIL": {
+      "CRITICAL_DAMAGE": 30,
+      "STRENGTH": 60,
+      "DAMAGE": 120
+    },
+    "WISE_WITHER_BOOTS": {
+      "INTELLIGENCE": 250,
+      "DEFENSE": 65,
+      "HEALTH": 145
+    },
+    "ABYSSAL_HELMET": {
+      "DEFENSE": 120,
+      "RESPIRATION": 5,
+      "HEALTH": 130,
+      "SEA_CREATURE_CHANCE": 2,
+      "PRESSURE_RESISTANCE": 20
+    },
+    "MELODY_SHOES": {
+      "DEFENSE": 20,
+      "FORAGING_FORTUNE": 6,
+      "HEALTH": 90
+    },
+    "MYTHOS_CHESTPLATE": {
+      "DEFENSE": 80,
+      "STRENGTH": 50,
+      "HEALTH": 160
+    },
+    "SPEED_RING": {
+      "WALK_SPEED": 3
+    },
+    "BLUERTOOTH_RING": {
+      "INTELLIGENCE": -2,
+      "WALK_SPEED": -3
+    },
+    "VAMPIRE_WITCH_MASK": {
+      "DEFENSE": 222,
+      "WEAPON_ABILITY_DAMAGE": 3000,
+      "HEALTH": 132
+    },
+    "VOIDWALKER_KATANA": {
+      "CRITICAL_DAMAGE": 15,
+      "STRENGTH": 40,
+      "DAMAGE": 105
+    },
+    "HONEYCOMB_NECKLACE": {
+      "SWEEP": 5,
+      "FORAGING_FORTUNE": 25
+    },
+    "ADAPTIVE_HELMET": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 50,
+      "STRENGTH": 15,
+      "HEALTH": 110
+    },
+    "GOLD_CHESTPLATE": {
+      "DEFENSE": 25
+    },
+    "FEL_SWORD": {
+      "STRENGTH": 135,
+      "DAMAGE": 190
+    },
+    "STARRED_SHADOW_ASSASSIN_LEGGINGS": {
+      "DEFENSE": 95,
+      "WALK_SPEED": 8,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 30,
+      "HEALTH": 220
+    },
+    "VANQUISHED_MAGMA_NECKLACE": {
+      "HEALTH": 20
+    },
+    "GHAST_CHESTPLATE": {
+      "HEALTH": 200
+    },
+    "MINIATURIZED_TUBULATOR": {
+      "HEALTH": 1
+    },
+    "GEMSTONE_DRILL_2": {
+      "BREAKING_POWER": 8,
+      "MINING_SPEED": 300,
+      "DAMAGE": 75,
+      "GEMSTONE_FORTUNE": 80,
+      "PRISTINE": 1
+    },
+    "GEMSTONE_DRILL_1": {
+      "BREAKING_POWER": 7,
+      "MINING_SPEED": 150,
+      "DAMAGE": 75,
+      "GEMSTONE_FORTUNE": 60
+    },
+    "GEMSTONE_DRILL_4": {
+      "BREAKING_POWER": 9,
+      "MINING_SPEED": 600,
+      "DAMAGE": 75,
+      "GEMSTONE_FORTUNE": 120,
+      "PRISTINE": 2
+    },
+    "GEMSTONE_DRILL_3": {
+      "BREAKING_POWER": 9,
+      "MINING_SPEED": 450,
+      "DAMAGE": 75,
+      "GEMSTONE_FORTUNE": 100
+    },
+    "LEAPING_SWORD": {
+      "WEAPON_ABILITY_DAMAGE": 350,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 100,
+      "DAMAGE": 150
+    },
+    "BURNING_TERROR_CHESTPLATE": {
+      "INTELLIGENCE": 8,
+      "DEFENSE": 103,
+      "WALK_SPEED": 19,
+      "CRITICAL_DAMAGE": 79,
+      "HEALTH": 365
+    },
+    "UGLY_BOOTS": {
+      "RIFT_WALK_SPEED": 9,
+      "RIFT_TIME": 80
+    },
+    "ARMOR_OF_YOG_HELMET": {
+      "MINING_FORTUNE": 20,
+      "DEFENSE": 15,
+      "HEAT_RESISTANCE": 10,
+      "HEALTH": 50,
+      "MINING_SPEED": 25
+    },
+    "EDIBLE_MACE": {
+      "STRENGTH": 25,
+      "DAMAGE": 125
+    },
+    "CHAMP_ROD": {
+      "FISHING_SPEED": 50,
+      "STRENGTH": 100,
+      "SEA_CREATURE_CHANCE": 4,
+      "DAMAGE": 100
+    },
+    "GOLD_BONZO_HEAD": {
+      "DEFENSE": 10,
+      "STRENGTH": 5,
+      "HEALTH": 20
+    },
+    "ODGERS_DIAMOND_TOOTH": {
+      "TROPHY_FISH_CHANCE": 4,
+      "SEA_CREATURE_CHANCE": 2
+    },
+    "STARRED_ADAPTIVE_BOOTS": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 55,
+      "STRENGTH": 15,
+      "HEALTH": 100
+    },
+    "FAIRY_HELMET": {
+      "INTELLIGENCE": -1,
+      "DEFENSE": 1,
+      "WALK_SPEED": 10,
+      "HEALTH": 1
+    },
+    "MYTHOS_HELMET": {
+      "DEFENSE": 50,
+      "STRENGTH": 20,
+      "HEALTH": 100
+    },
+    "MERCENARY_CHESTPLATE": {
+      "DEFENSE": 70,
+      "STRENGTH": 10,
+      "HEALTH": 70
+    },
+    "MEGA_LUCK": {
+      "MAGIC_FIND": 1000
+    },
+    "BAT_WAND": {
+      "INTELLIGENCE": 300,
+      "WEAPON_ABILITY_DAMAGE": 2000,
+      "DAMAGE": 180
+    },
+    "BURSTFIRE_DAGGER": {
+      "ATTACK_SPEED": 10,
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 55,
+      "DAMAGE": 130
+    },
+    "WEREWOLF_LEGGINGS": {
+      "INTELLIGENCE": 50,
+      "DEFENSE": 200,
+      "FEROCITY": 10
+    },
+    "DISINFESTOR_GLOVES": {
+      "RIFT_TIME": 30
+    },
+    "BERSERKER_HELMET": {
+      "CRITICAL_DAMAGE": 35,
+      "STRENGTH": 35
+    },
+    "WISE_DRAGON_CHESTPLATE": {
+      "INTELLIGENCE": 75,
+      "DEFENSE": 160,
+      "HEALTH": 120
+    },
+    "SALMON_MASK": {
+      "HEALTH": 1
+    },
+    "FLAMEBREAKER_BOOTS": {
+      "MINING_FORTUNE": 5,
+      "MINING_SPEED": 15
+    },
+    "DIAMOND_SWORD": {
+      "DAMAGE": 35
+    },
+    "MYTHOS_BELT": {
+      "DEFENSE": 15,
+      "STRENGTH": 15,
+      "HEALTH": 25
+    },
+    "FROZEN_BLAZE_CHESTPLATE": {
+      "DEFENSE": 180,
+      "WALK_SPEED": 2,
+      "STRENGTH": 40
+    },
+    "VOIDEDGE_KATANA": {
+      "INTELLIGENCE": 50,
+      "CRITICAL_DAMAGE": 25,
+      "STRENGTH": 60,
+      "DAMAGE": 155
+    },
+    "OBSIDIAN_CHESTPLATE": {
+      "DEFENSE": 250
+    },
+    "YOUNG_DRAGON_HELMET": {
+      "DEFENSE": 110,
+      "WALK_SPEED": 20,
+      "HEALTH": 70
+    },
+    "WOLF_PAW": {
+      "WALK_SPEED": 1
+    },
+    "GOLD_SADAN_HEAD": {
+      "DEFENSE": 35,
+      "STRENGTH": 15,
+      "HEALTH": 70
+    },
+    "SKYMART_TURBO_VACUUM": {
+      "FARMING_FORTUNE": 10,
+      "DAMAGE": 150
+    },
+    "GIANT_CLEAVER": {
+      "CRITICAL_DAMAGE": 120,
+      "STRENGTH": 120,
+      "DAMAGE": 235
+    },
+    "BAT_PERSON_BOOTS": {
+      "DEFENSE": 15
+    },
+    "CAT_TALISMAN": {
+      "WALK_SPEED": 1
+    },
+    "CRYPT_WITHERLORD_CHESTPLATE": {
+      "DEFENSE": 120,
+      "WALK_SPEED": 5
+    },
+    "S_LOGO_CHESTPLATE": {
+      "RIFT_MANA_REGEN": 30,
+      "RIFT_HEALTH": 1,
+      "RIFT_TIME": 85,
+      "RIFT_INTELLIGENCE": 32
+    },
+    "HOT_TERROR_HELMET": {
+      "INTELLIGENCE": 19,
+      "DEFENSE": 63,
+      "WALK_SPEED": 15,
+      "CRITICAL_DAMAGE": 63,
+      "HEALTH": 202
+    },
+    "HARMONIOUS_SURGERY_TOOLKIT": {
+      "RIFT_WALK_SPEED": 2,
+      "RIFT_TIME": 10
+    },
+    "SNOW_GLOVES": {
+      "INTELLIGENCE": 5,
+      "WALK_SPEED": 2,
+      "HEALTH": 5
+    },
+    "ABYSSAL_LEGGINGS": {
+      "DEFENSE": 170,
+      "RESPIRATION": 5,
+      "HEALTH": 150,
+      "SEA_CREATURE_CHANCE": 2,
+      "PRESSURE_RESISTANCE": 20
+    },
+    "SCYLLA": {
+      "INTELLIGENCE": 50,
+      "FEROCITY": 30,
+      "CRITICAL_CHANCE": 12,
+      "CRITICAL_DAMAGE": 35,
+      "STRENGTH": 150,
+      "DAMAGE": 270
+    },
+    "SHIMMERING_LIGHT_TUNIC": {
+      "INTELLIGENCE": 120,
+      "DEFENSE": 120,
+      "HEALTH": 130
+    },
+    "THERMODYNAMIC_BOOTS": {
+      "DEFENSE": 125,
+      "WALK_SPEED": 25,
+      "ATTACK_SPEED": 5
+    },
+    "SQUASH_HELMET": {
+      "DEFENSE": 35,
+      "WALK_SPEED": 4,
+      "BONUS_PEST_CHANCE": 15,
+      "FARMING_FORTUNE": 25,
+      "HEALTH": 120
+    },
+    "ARACHNE_CHESTPLATE": {
+      "DEFENSE": 60,
+      "HEALTH": 85
+    },
+    "FARM_SUIT_HELMET": {
+      "DEFENSE": 10,
+      "FARMING_FORTUNE": 5
+    },
+    "INFERNAL_CRIMSON_LEGGINGS": {
+      "INTELLIGENCE": 13,
+      "DEFENSE": 139,
+      "CRITICAL_DAMAGE": 50,
+      "STRENGTH": 76,
+      "HEALTH": 517
+    },
+    "DOJO_YELLOW_BELT": {
+      "DEFENSE": 5,
+      "HEALTH": 15
+    },
+    "FLAME_BREAKER_LEGGINGS": {
+      "MINING_FORTUNE": 15,
+      "DEFENSE": 60,
+      "HEAT_RESISTANCE": 5,
+      "HEALTH": 60,
+      "MINING_SPEED": 25
+    },
+    "REAPER_MASK": {
+      "INTELLIGENCE": 100,
+      "DEFENSE": 100,
+      "VITALITY": 60,
+      "HEALTH": 150,
+      "MENDING": 60
+    },
+    "ICY_ARROW": {
+      "DAMAGE": 24
+    },
+    "GAUNTLET_OF_CONTAGION": {
+      "DEFENSE": 10,
+      "STRENGTH": 15,
+      "HEALTH": 20
+    },
+    "HOT_HOLLOW_HELMET": {
+      "INTELLIGENCE": 164,
+      "DEFENSE": 69,
+      "WALK_SPEED": 6,
+      "HEALTH": 219,
+      "MENDING": 6
+    },
+    "TERROR_CHESTPLATE": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 65,
+      "WALK_SPEED": 12,
+      "CRITICAL_DAMAGE": 50,
+      "HEALTH": 230
+    },
+    "GRIZZLY_PAW": {
+      "WALK_SPEED": 1
+    },
+    "DUNGEON_HAMMER": {
+      "DAMAGE": 75
+    },
+    "PHANTOM_ROD": {
+      "FISHING_SPEED": 100,
+      "STRENGTH": 125,
+      "DAMAGE": 200
+    },
+    "HUNTER_KNIFE": {
+      "WALK_SPEED": 40,
+      "DAMAGE": 50
+    },
+    "GOLD_SCARF_HEAD": {
+      "DEFENSE": 15,
+      "STRENGTH": 10,
+      "HEALTH": 30
+    },
+    "DIAMOND_HUNTER_HELMET": {
+      "HEALTH": 125
+    },
+    "VOID_SWORD": {
+      "DAMAGE": 125
+    },
+    "VOODOO": {
+      "DEFENSE": 1000
+    },
+    "BOOTS_OF_THE_PACK": {
+      "DEFENSE": 45,
+      "HEALTH": 50
+    },
+    "SNORKELING_BOOTS": {
+      "DEFENSE": 55,
+      "HEALTH": 60,
+      "PRESSURE_RESISTANCE": 10
+    },
+    "DESTRUCTION_CLOAK": {
+      "CRITICAL_DAMAGE": 15,
+      "STRENGTH": 15,
+      "MAGIC_FIND": 1,
+      "HEALTH": 60,
+      "FORAGING_WISDOM": 1
+    },
+    "PRESSURE_TALISMAN": {
+      "PRESSURE_RESISTANCE": 10
+    },
+    "SUPERIOR_DRAGON_BOOTS": {
+      "INTELLIGENCE": 25,
+      "DEFENSE": 110,
+      "WALK_SPEED": 3,
+      "CRITICAL_CHANCE": 2,
+      "CRITICAL_DAMAGE": 10,
+      "STRENGTH": 10,
+      "HEALTH": 80
+    },
+    "VOODOO_DOLL": {
+      "WEAPON_ABILITY_DAMAGE": 1500
+    },
+    "ARMORSHRED_ARROW": {
+      "DAMAGE": 5
+    },
+    "PARTY_HAT_SLOTH": {
+      "MAGIC_FIND": 1
+    },
+    "STARTER_LAVA_ROD": {
+      "TROPHY_FISH_CHANCE": 5,
+      "FISHING_SPEED": 10,
+      "STRENGTH": 50,
+      "DAMAGE": 50
+    },
+    "CELESTE_WAND": {
+      "WEAPON_ABILITY_DAMAGE": 250
+    },
+    "SCOURGE_CLOAK": {
+      "CRITICAL_DAMAGE": 20,
+      "HEALTH": 25
+    },
+    "BLOSSOM_NECKLACE": {
+      "FARMING_FORTUNE": 7,
+      "HEALTH": 15
+    },
+    "HELIANTHUS_RELIC": {
+      "FARMING_FORTUNE": 40
+    },
+    "SPEEDSTER_BOOTS": {
+      "DEFENSE": 35,
+      "WALK_SPEED": 15
+    },
+    "CACTUS_LEGGINGS": {
+      "DEFENSE": 20,
+      "HEALTH": 10
+    },
+    "ELEANOR_TROUSERS": {
+      "RIFT_TIME": 20,
+      "HEALTH": 75
+    },
+    "FIERY_HOLLOW_CHESTPLATE": {
+      "INTELLIGENCE": 170,
+      "DEFENSE": 137,
+      "WALK_SPEED": 10,
+      "HEALTH": 488,
+      "MENDING": 10
+    },
+    "SWORD_OF_REVELATIONS": {
+      "STRENGTH": 50,
+      "DAMAGE": 180
+    },
+    "WISE_WITHER_HELMET": {
+      "INTELLIGENCE": 400,
+      "DEFENSE": 80,
+      "HEALTH": 180
+    },
+    "PUFFERFISH_HAT_CELEBRATION": {
+      "STRENGTH": 10,
+      "HEALTH": 20
+    },
+    "BLOSSOM_CLOAK": {
+      "FARMING_FORTUNE": 7,
+      "HEALTH": 15
+    },
+    "SKELETON_HAT": {
+      "INTELLIGENCE": 10,
+      "WALK_SPEED": 2,
+      "WEAPON_ABILITY_DAMAGE": 50
+    },
+    "INFERNAL_AURORA_BOOTS": {
+      "INTELLIGENCE": 441,
+      "DEFENSE": 101,
+      "HEALTH": 328
+    },
+    "ELEGANT_TUXEDO_CHESTPLATE": {
+      "INTELLIGENCE": 300,
+      "CRITICAL_DAMAGE": 100
+    },
+    "VENOMOUS_SWORD": {
+      "DAMAGE": 30
+    },
+    "WISE_WITHER_CHESTPLATE": {
+      "INTELLIGENCE": 250,
+      "DEFENSE": 120,
+      "HEALTH": 260
+    },
+    "SHIMMERING_LIGHT_SLIPPERS": {
+      "INTELLIGENCE": 60,
+      "DEFENSE": 60,
+      "HEALTH": 70
+    },
+    "REAPER_SWORD": {
+      "INTELLIGENCE": 200,
+      "STRENGTH": 100,
+      "DAMAGE": 120
+    },
+    "BIOHAZARD_BOOTS": {
+      "DEFENSE": 5,
+      "HEALTH": 20
+    },
+    "FROZEN_CHICKEN": {
+      "WALK_SPEED": 1
+    },
+    "CRYPT_WITHERLORD_BOOTS": {
+      "DEFENSE": 65,
+      "WALK_SPEED": 5
+    },
+    "STONE_SWORD": {
+      "DAMAGE": 25
+    },
+    "ANGLER_HELMET": {
+      "DEFENSE": 20,
+      "SEA_CREATURE_CHANCE": 1
+    },
+    "CRIMSON_LEGGINGS": {
+      "INTELLIGENCE": 5,
+      "DEFENSE": 55,
+      "CRITICAL_DAMAGE": 20,
+      "STRENGTH": 30,
+      "HEALTH": 205
+    },
+    "SNORKELING_LEGGINGS": {
+      "DEFENSE": 85,
+      "HEALTH": 75,
+      "PRESSURE_RESISTANCE": 10
+    },
+    "STONE_AXE": {
+      "DAMAGE": 15
+    },
+    "GIGANTIC_FISHING_NET": {
+      "PULL": 100
+    },
+    "SHADOW_FURY": {
+      "WALK_SPEED": 30,
+      "CRITICAL_DAMAGE": 30,
+      "STRENGTH": 130,
+      "DAMAGE": 300
+    },
+    "MENDER_CROWN": {
+      "HEALTH": 270
+    },
+    "PUMPKIN_HELMET": {
+      "DEFENSE": 20,
+      "FARMING_FORTUNE": 15
+    },
+    "PELT_BELT": {
+      "FARMING_WISDOM": 1
+    },
+    "RAIDER_AXE": {
+      "STRENGTH": 50,
+      "DAMAGE": 80
+    },
+    "MASTIFF_LEGGINGS": {
+      "CRITICAL_DAMAGE": 15,
+      "HEALTH": 400
+    },
+    "PARTY_HAT_CRAB_ANIMATED": {
+      "MAGIC_FIND": 1
+    },
+    "GREAT_SPOOK_ARTIFACT": {
+      "FEAR": 6
+    },
+    "VAMPIRE_MASK": {
+      "DEFENSE": 111
+    },
+    "STARRED_ADAPTIVE_CHESTPLATE": {
+      "INTELLIGENCE": 15,
+      "DEFENSE": 95,
+      "STRENGTH": 15,
+      "HEALTH": 180
+    },
+    "PESTHUNTER_ARTIFACT": {
+      "BONUS_PEST_CHANCE": 60
+    },
+    "LAPIS_ARMOR_BOOTS": {
+      "MINING_FORTUNE": 2,
+      "DEFENSE": 20,
+      "MINING_SPEED": 20
+    },
+    "BASIC_GARDENING_AXE": {
+      "FARMING_FORTUNE": 10
+    },
+    "HELLSTORM_STAFF": {
+      "INTELLIGENCE": 100,
+      "WEAPON_ABILITY_DAMAGE": 12000,
+      "STRENGTH": 50,
+      "DAMAGE": 120
+    },
+    "BURNING_FERVOR_CHESTPLATE": {
+      "INTELLIGENCE": 8,
+      "DEFENSE": 222,
+      "HEALTH": 421,
+      "TRUE_DEFENSE": 8
+    },
+    "FIERY_FERVOR_BOOTS": {
+      "INTELLIGENCE": 10,
+      "DEFENSE": 170,
+      "HEALTH": 320,
+      "TRUE_DEFENSE": 10
+    },
+    "LEAFLET_BOOTS": {
+      "FORAGING_FORTUNE": 3,
+      "HEALTH": 25
+    },
+    "WAND_OF_STRENGTH": {
+      "STRENGTH": 20,
+      "DAMAGE": 50
+    },
+    "FELTHORN_REAPER": {
+      "CRITICAL_DAMAGE": 115,
+      "DAMAGE": 275,
+      "SWING_RANGE": 1
+    },
+    "ICHTHYIC_CLOAK": {
+      "FISHING_SPEED": 6,
+      "HEALTH": 10
+    },
+    "PERFECT_LEGGINGS_9": {
+      "DEFENSE": 300
+    },
+    "ARMOR_OF_YOG_LEGGINGS": {
+      "MINING_FORTUNE": 20,
+      "DEFENSE": 15,
+      "HEAT_RESISTANCE": 10,
+      "HEALTH": 50,
+      "MINING_SPEED": 25
+    },
+    "PERFECT_LEGGINGS_7": {
+      "DEFENSE": 260
+    },
+    "JERRY_TALISMAN_GREEN": {
+      "INTELLIGENCE": -1
+    },
+    "PERFECT_LEGGINGS_8": {
+      "DEFENSE": 280
+    },
+    "PERFECT_LEGGINGS_5": {
+      "DEFENSE": 220
+    },
+    "PERFECT_LEGGINGS_6": {
+      "DEFENSE": 240
+    },
+    "PERFECT_LEGGINGS_3": {
+      "DEFENSE": 180
+    },
+    "PERFECT_LEGGINGS_4": {
+      "DEFENSE": 200
+    },
+    "DOJO_BLUE_BELT": {
+      "DEFENSE": 15,
+      "HEALTH": 25
+    },
+    "PERFECT_LEGGINGS_1": {
+      "DEFENSE": 140
+    },
+    "PERFECT_LEGGINGS_2": {
+      "DEFENSE": 160
+    },
+    "DRAGONFADE_CLOAK": {
+      "DEFENSE": 5,
+      "STRENGTH": 5,
+      "HEALTH": 30
+    },
+    "BURNING_AURORA_LEGGINGS": {
+      "INTELLIGENCE": 278,
+      "DEFENSE": 87,
+      "HEALTH": 325
+    },
+    "GOLD_PICKAXE": {
+      "BREAKING_POWER": 1,
+      "MINING_SPEED": 250,
+      "DAMAGE": 15
+    },
+    "GIANTS_SWORD": {
+      "WEAPON_ABILITY_DAMAGE": 100000,
+      "DAMAGE": 500,
+      "SWING_RANGE": 1
+    },
+    "TANK_WITHER_BOOTS": {
+      "INTELLIGENCE": 20,
+      "DEFENSE": 165,
+      "HEALTH": 190
+    },
+    "BAT_PERSON_LEGGINGS": {
+      "DEFENSE": 25
+    },
+    "JERRY_TALISMAN_PURPLE": {
+      "INTELLIGENCE": -3
+    },
+    "OLD_DRAGON_CHESTPLATE": {
+      "DEFENSE": 160,
+      "HEALTH": 150
+    },
+    "ANGLER_CHESTPLATE": {
+      "DEFENSE": 40,
+      "SEA_CREATURE_CHANCE": 1
+    }
+  },
+  "tieredStats": {
+    "HEAVY_CHESTPLATE": {
+      "DEFENSE": [
+        112,
+        121,
+        132,
+        143,
+        155,
+        168,
+        183,
+        199,
+        216,
+        235
+      ],
+      "WALK_SPEED": [
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5
+      ]
+    },
+    "SKELETON_GRUNT_HELMET": {
+      "DEFENSE": [
+        33,
+        35,
+        37,
+        40,
+        42,
+        45,
+        48,
+        51,
+        55,
+        59
+      ],
+      "CRITICAL_DAMAGE": [
+        15,
+        16,
+        18,
+        19,
+        21,
+        23,
+        24,
+        27,
+        29,
+        32
+      ],
+      "HEALTH": [
+        14,
+        15,
+        17,
+        19,
+        20,
+        22,
+        23,
+        26,
+        28,
+        30
+      ]
+    },
+    "SUPER_HEAVY_CHESTPLATE": {
+      "DEFENSE": [
+        112,
+        124,
+        139,
+        154,
+        171,
+        190,
+        211,
+        234,
+        261,
+        290
+      ],
+      "WALK_SPEED": [
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10
+      ]
+    },
+    "ZOMBIE_LORD_CHESTPLATE": {
+      "INTELLIGENCE": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18
+      ],
+      "DEFENSE": [
+        39,
+        43,
+        48,
+        53,
+        59,
+        65,
+        73,
+        81,
+        90,
+        100
+      ],
+      "STRENGTH": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18
+      ],
+      "HEALTH": [
+        85,
+        95,
+        105,
+        117,
+        130,
+        144,
+        160,
+        178,
+        198,
+        220
+      ]
+    },
+    "SKELETON_LORD_BOOTS": {
+      "DEFENSE": [
+        28,
+        31,
+        33,
+        36,
+        40,
+        43,
+        47,
+        51,
+        55,
+        60
+      ],
+      "CRITICAL_CHANCE": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "CRITICAL_DAMAGE": [
+        19,
+        22,
+        24,
+        27,
+        30,
+        33,
+        36,
+        41,
+        45,
+        50
+      ],
+      "HEALTH": [
+        14,
+        15,
+        16,
+        18,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29
+      ]
+    },
+    "ZOMBIE_COMMANDER_LEGGINGS": {
+      "INTELLIGENCE": [
+        4,
+        5,
+        5,
+        6,
+        7,
+        7,
+        8,
+        8,
+        10,
+        11
+      ],
+      "DEFENSE": [
+        30,
+        32,
+        36,
+        41,
+        45,
+        50,
+        55,
+        62,
+        70,
+        77
+      ],
+      "STRENGTH": [
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        19,
+        22
+      ],
+      "HEALTH": [
+        51,
+        57,
+        64,
+        71,
+        78,
+        87,
+        97,
+        107,
+        120,
+        134
+      ]
+    },
+    "SKELETON_MASTER_CHESTPLATE": {
+      "DEFENSE": [
+        42,
+        45,
+        49,
+        54,
+        58,
+        63,
+        69,
+        74,
+        81,
+        88
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        22,
+        23,
+        25,
+        27,
+        30,
+        32,
+        35,
+        38,
+        41,
+        45
+      ],
+      "HEALTH": [
+        26,
+        29,
+        31,
+        34,
+        37,
+        40,
+        44,
+        47,
+        51,
+        56
+      ]
+    },
+    "ZOMBIE_LORD_BOOTS": {
+      "INTELLIGENCE": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18
+      ],
+      "DEFENSE": [
+        19,
+        21,
+        24,
+        26,
+        29,
+        33,
+        36,
+        40,
+        45,
+        50
+      ],
+      "STRENGTH": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18
+      ],
+      "HEALTH": [
+        45,
+        49,
+        55,
+        61,
+        68,
+        75,
+        84,
+        93,
+        103,
+        115
+      ]
+    },
+    "ZOMBIE_SOLDIER_BOOTS": {
+      "DEFENSE": [
+        36,
+        40,
+        44,
+        48,
+        53,
+        58,
+        64,
+        70,
+        77,
+        85
+      ],
+      "HEALTH": [
+        17,
+        19,
+        21,
+        23,
+        25,
+        27,
+        30,
+        33,
+        36,
+        40
+      ]
+    },
+    "ZOMBIE_COMMANDER_HELMET": {
+      "INTELLIGENCE": [
+        4,
+        5,
+        5,
+        6,
+        7,
+        7,
+        8,
+        8,
+        10,
+        11
+      ],
+      "DEFENSE": [
+        22,
+        25,
+        28,
+        31,
+        34,
+        38,
+        42,
+        48,
+        52,
+        58
+      ],
+      "STRENGTH": [
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        19,
+        22
+      ],
+      "HEALTH": [
+        39,
+        43,
+        48,
+        54,
+        60,
+        66,
+        74,
+        82,
+        91,
+        102
+      ]
+    },
+    "CONJURING_SWORD": {
+      "INTELLIGENCE": [
+        85,
+        92,
+        100,
+        109,
+        119,
+        129,
+        140,
+        152,
+        166,
+        180
+      ],
+      "STRENGTH": [
+        36,
+        39,
+        42,
+        45,
+        49,
+        52,
+        56,
+        61,
+        65,
+        70
+      ],
+      "DAMAGE": [
+        68,
+        73,
+        78,
+        84,
+        90,
+        97,
+        105,
+        112,
+        121,
+        130
+      ]
+    },
+    "ICE_SPRAY_WAND": {
+      "INTELLIGENCE": [
+        118,
+        128,
+        139,
+        152,
+        165,
+        179,
+        195,
+        212,
+        230,
+        250
+      ],
+      "DAMAGE": [
+        52,
+        56,
+        60,
+        65,
+        70,
+        75,
+        80,
+        86,
+        93,
+        100
+      ]
+    },
+    "SKELETON_LORD_LEGGINGS": {
+      "DEFENSE": [
+        48,
+        52,
+        57,
+        62,
+        67,
+        73,
+        79,
+        86,
+        93,
+        102
+      ],
+      "CRITICAL_CHANCE": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "CRITICAL_DAMAGE": [
+        19,
+        22,
+        24,
+        27,
+        30,
+        33,
+        36,
+        41,
+        45,
+        50
+      ],
+      "HEALTH": [
+        24,
+        26,
+        28,
+        31,
+        34,
+        36,
+        40,
+        43,
+        47,
+        51
+      ]
+    },
+    "ZOMBIE_KNIGHT_BOOTS": {
+      "DEFENSE": [
+        46,
+        50,
+        55,
+        60,
+        65,
+        71,
+        78,
+        84,
+        92,
+        100
+      ],
+      "WALK_SPEED": [
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        8
+      ],
+      "STRENGTH": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        20,
+        22
+      ]
+    },
+    "HEAVY_BOOTS": {
+      "DEFENSE": [
+        57,
+        62,
+        67,
+        73,
+        79,
+        86,
+        94,
+        102,
+        110,
+        120
+      ],
+      "WALK_SPEED": [
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5
+      ]
+    },
+    "STARRED_ICE_SPRAY_WAND": {
+      "INTELLIGENCE": [
+        135,
+        147,
+        160,
+        175,
+        190,
+        206,
+        224,
+        244,
+        265,
+        290
+      ],
+      "DAMAGE": [
+        60,
+        64,
+        69,
+        74,
+        80,
+        86,
+        92,
+        99,
+        107,
+        115
+      ]
+    },
+    "SKELETON_MASTER_LEGGINGS": {
+      "DEFENSE": [
+        38,
+        42,
+        46,
+        50,
+        54,
+        58,
+        63,
+        69,
+        74,
+        82
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        22,
+        23,
+        25,
+        27,
+        30,
+        32,
+        35,
+        38,
+        41,
+        45
+      ],
+      "HEALTH": [
+        24,
+        26,
+        28,
+        31,
+        34,
+        36,
+        40,
+        43,
+        47,
+        51
+      ]
+    },
+    "ROTTEN_CHESTPLATE": {
+      "STRENGTH": [
+        20,
+        22,
+        23,
+        26,
+        28,
+        31,
+        33,
+        36,
+        40,
+        43
+      ],
+      "HEALTH": [
+        125,
+        136,
+        149,
+        162,
+        176,
+        192,
+        209,
+        229,
+        249,
+        271
+      ]
+    },
+    "ZOMBIE_KNIGHT_HELMET": {
+      "DEFENSE": [
+        54,
+        59,
+        64,
+        69,
+        76,
+        83,
+        91,
+        98,
+        107,
+        117
+      ],
+      "WALK_SPEED": [
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        8
+      ],
+      "STRENGTH": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        20,
+        22
+      ]
+    },
+    "ROTTEN_LEGGINGS": {
+      "STRENGTH": [
+        15,
+        16,
+        18,
+        19,
+        21,
+        23,
+        25,
+        27,
+        30,
+        33
+      ],
+      "HEALTH": [
+        110,
+        120,
+        131,
+        142,
+        155,
+        169,
+        184,
+        201,
+        219,
+        239
+      ]
+    },
+    "BOUNCY_HELMET": {
+      "CRITICAL_CHANCE": [
+        5,
+        5,
+        6,
+        6,
+        7,
+        7,
+        8,
+        8,
+        9,
+        10
+      ],
+      "HEALTH": [
+        65,
+        73,
+        81,
+        91,
+        102,
+        114,
+        128,
+        143,
+        161,
+        180
+      ]
+    },
+    "HEAVY_LEGGINGS": {
+      "DEFENSE": [
+        92,
+        100,
+        109,
+        118,
+        129,
+        140,
+        152,
+        165,
+        179,
+        195
+      ],
+      "WALK_SPEED": [
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5
+      ]
+    },
+    "BOUNCY_LEGGINGS": {
+      "CRITICAL_CHANCE": [
+        5,
+        5,
+        6,
+        6,
+        7,
+        7,
+        8,
+        8,
+        9,
+        10
+      ],
+      "HEALTH": [
+        105,
+        117,
+        131,
+        147,
+        165,
+        185,
+        207,
+        232,
+        260,
+        291
+      ]
+    },
+    "SKELETON_SOLDIER_HELMET": {
+      "DEFENSE": [
+        26,
+        28,
+        30,
+        33,
+        36,
+        39,
+        42,
+        45,
+        50,
+        54
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        16,
+        17,
+        19,
+        20,
+        22,
+        24,
+        26,
+        28,
+        31,
+        34
+      ],
+      "HEALTH": [
+        16,
+        17,
+        19,
+        21,
+        22,
+        24,
+        26,
+        29,
+        31,
+        34
+      ]
+    },
+    "SUPER_HEAVY_HELMET": {
+      "DEFENSE": [
+        70,
+        78,
+        86,
+        96,
+        106,
+        118,
+        131,
+        146,
+        162,
+        180
+      ],
+      "WALK_SPEED": [
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10
+      ]
+    },
+    "ZOMBIE_LORD_LEGGINGS": {
+      "INTELLIGENCE": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18
+      ],
+      "DEFENSE": [
+        33,
+        36,
+        40,
+        45,
+        50,
+        56,
+        62,
+        69,
+        77,
+        85
+      ],
+      "STRENGTH": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18
+      ],
+      "HEALTH": [
+        73,
+        82,
+        91,
+        101,
+        112,
+        125,
+        138,
+        153,
+        171,
+        190
+      ]
+    },
+    "SKELETON_GRUNT_LEGGINGS": {
+      "DEFENSE": [
+        44,
+        48,
+        51,
+        55,
+        59,
+        62,
+        67,
+        72,
+        77,
+        84
+      ],
+      "CRITICAL_DAMAGE": [
+        15,
+        16,
+        18,
+        19,
+        21,
+        23,
+        24,
+        27,
+        29,
+        32
+      ],
+      "HEALTH": [
+        22,
+        23,
+        25,
+        28,
+        31,
+        32,
+        36,
+        39,
+        42,
+        46
+      ]
+    },
+    "SKELETON_GRUNT_BOOTS": {
+      "DEFENSE": [
+        20,
+        23,
+        23,
+        26,
+        29,
+        31,
+        34,
+        37,
+        40,
+        43
+      ],
+      "CRITICAL_DAMAGE": [
+        15,
+        16,
+        18,
+        19,
+        21,
+        23,
+        24,
+        27,
+        29,
+        32
+      ],
+      "HEALTH": [
+        23,
+        24,
+        24,
+        26,
+        27,
+        29,
+        31,
+        33,
+        34,
+        36
+      ]
+    },
+    "SKELETON_SOLDIER_BOOTS": {
+      "DEFENSE": [
+        22,
+        25,
+        26,
+        29,
+        32,
+        34,
+        38,
+        41,
+        44,
+        48
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        17,
+        18,
+        20,
+        21,
+        23,
+        25,
+        27,
+        30,
+        32,
+        35
+      ],
+      "HEALTH": [
+        14,
+        15,
+        16,
+        18,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29
+      ]
+    },
+    "SKELETOR_CHESTPLATE": {
+      "DEFENSE": [
+        40,
+        42,
+        45,
+        49,
+        54,
+        58,
+        63,
+        69,
+        74,
+        81
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        20,
+        22,
+        24,
+        26,
+        28,
+        31,
+        33,
+        36,
+        40,
+        43
+      ],
+      "HEALTH": [
+        25,
+        26,
+        29,
+        31,
+        34,
+        37,
+        40,
+        44,
+        47,
+        51
+      ]
+    },
+    "STINGER_BOW": {
+      "DAMAGE": [
+        47,
+        51,
+        56,
+        61,
+        66,
+        72,
+        78,
+        85,
+        92,
+        100
+      ]
+    },
+    "EARTH_SHARD": {
+      "DEFENSE": [
+        73,
+        75,
+        78,
+        80,
+        82,
+        85,
+        87,
+        90,
+        93,
+        96
+      ],
+      "DAMAGE": [
+        105,
+        108,
+        112,
+        115,
+        118,
+        122,
+        126,
+        129,
+        133,
+        137
+      ]
+    },
+    "SKELETOR_BOOTS": {
+      "DEFENSE": [
+        20,
+        22,
+        25,
+        26,
+        29,
+        32,
+        34,
+        38,
+        41,
+        44
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        20,
+        22,
+        23,
+        25,
+        28,
+        30,
+        33,
+        36,
+        39,
+        42
+      ],
+      "HEALTH": [
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        21,
+        23,
+        25,
+        27
+      ]
+    },
+    "HEAVY_HELMET": {
+      "DEFENSE": [
+        62,
+        67,
+        73,
+        79,
+        86,
+        93,
+        101,
+        110,
+        120,
+        130
+      ],
+      "WALK_SPEED": [
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5,
+        -5
+      ]
+    },
+    "SKELETON_LORD_HELMET": {
+      "DEFENSE": [
+        32,
+        35,
+        38,
+        41,
+        45,
+        49,
+        53,
+        57,
+        63,
+        68
+      ],
+      "CRITICAL_CHANCE": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "CRITICAL_DAMAGE": [
+        19,
+        22,
+        24,
+        27,
+        30,
+        33,
+        36,
+        41,
+        45,
+        50
+      ],
+      "HEALTH": [
+        16,
+        17,
+        19,
+        21,
+        22,
+        24,
+        26,
+        29,
+        31,
+        34
+      ]
+    },
+    "BOUNCY_BOOTS": {
+      "CRITICAL_CHANCE": [
+        5,
+        5,
+        6,
+        6,
+        7,
+        7,
+        8,
+        8,
+        9,
+        10
+      ],
+      "HEALTH": [
+        55,
+        62,
+        69,
+        77,
+        86,
+        97,
+        108,
+        122,
+        136,
+        153
+      ]
+    },
+    "ROTTEN_BOOTS": {
+      "STRENGTH": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        20,
+        22
+      ],
+      "HEALTH": [
+        60,
+        65,
+        71,
+        78,
+        85,
+        92,
+        101,
+        109,
+        120,
+        130
+      ]
+    },
+    "CRYPT_WITHERLORD_SWORD": {
+      "INTELLIGENCE": [
+        113,
+        123,
+        134,
+        146,
+        158,
+        172,
+        187,
+        203,
+        221,
+        240
+      ],
+      "STRENGTH": [
+        50,
+        34,
+        36,
+        39,
+        42,
+        45,
+        48,
+        52,
+        56,
+        60
+      ],
+      "DAMAGE": [
+        62,
+        67,
+        72,
+        78,
+        83,
+        90,
+        97,
+        104,
+        112,
+        120
+      ]
+    },
+    "SKELETON_GRUNT_CHESTPLATE": {
+      "DEFENSE": [
+        38,
+        41,
+        44,
+        49,
+        52,
+        57,
+        62,
+        67,
+        73,
+        80
+      ],
+      "CRITICAL_DAMAGE": [
+        15,
+        16,
+        18,
+        19,
+        21,
+        23,
+        24,
+        27,
+        29,
+        32
+      ],
+      "HEALTH": [
+        33,
+        36,
+        38,
+        41,
+        43,
+        46,
+        50,
+        52,
+        56,
+        60
+      ]
+    },
+    "ZOMBIE_SOLDIER_CUTLASS": {
+      "ATTACK_SPEED": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ],
+      "STRENGTH": [
+        26,
+        28,
+        30,
+        32,
+        35,
+        37,
+        40,
+        43,
+        47,
+        50
+      ],
+      "DAMAGE": [
+        52,
+        56,
+        60,
+        65,
+        70,
+        75,
+        80,
+        86,
+        93,
+        100
+      ]
+    },
+    "ZOMBIE_SOLDIER_CHESTPLATE": {
+      "DEFENSE": [
+        81,
+        89,
+        98,
+        108,
+        119,
+        130,
+        143,
+        157,
+        173,
+        190
+      ],
+      "HEALTH": [
+        43,
+        47,
+        52,
+        57,
+        62,
+        69,
+        75,
+        83,
+        91,
+        100
+      ]
+    },
+    "SKELETON_MASTER_HELMET": {
+      "DEFENSE": [
+        26,
+        28,
+        30,
+        33,
+        36,
+        39,
+        42,
+        45,
+        50,
+        54
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        22,
+        23,
+        25,
+        27,
+        30,
+        32,
+        35,
+        38,
+        41,
+        45
+      ],
+      "HEALTH": [
+        16,
+        17,
+        19,
+        21,
+        22,
+        24,
+        26,
+        29,
+        31,
+        34
+      ]
+    },
+    "SKELETON_MASTER_BOOTS": {
+      "DEFENSE": [
+        22,
+        25,
+        26,
+        29,
+        32,
+        34,
+        38,
+        41,
+        44,
+        48
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        22,
+        23,
+        25,
+        27,
+        30,
+        32,
+        35,
+        38,
+        41,
+        45
+      ],
+      "HEALTH": [
+        14,
+        15,
+        16,
+        18,
+        19,
+        21,
+        23,
+        25,
+        27,
+        29
+      ]
+    },
+    "SKELETON_SOLDIER_LEGGINGS": {
+      "DEFENSE": [
+        38,
+        42,
+        46,
+        50,
+        54,
+        58,
+        63,
+        69,
+        74,
+        82
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        17,
+        18,
+        20,
+        21,
+        23,
+        25,
+        27,
+        30,
+        32,
+        35
+      ],
+      "HEALTH": [
+        24,
+        26,
+        28,
+        31,
+        34,
+        36,
+        40,
+        43,
+        47,
+        51
+      ]
+    },
+    "ZOMBIE_KNIGHT_SWORD": {
+      "STRENGTH": [
+        21,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        36,
+        37,
+        40
+      ],
+      "DAMAGE": [
+        82,
+        86,
+        91,
+        95,
+        101,
+        106,
+        111,
+        117,
+        123,
+        130
+      ]
+    },
+    "ZOMBIE_COMMANDER_CHESTPLATE": {
+      "INTELLIGENCE": [
+        4,
+        5,
+        5,
+        6,
+        7,
+        7,
+        8,
+        8,
+        10,
+        11
+      ],
+      "DEFENSE": [
+        35,
+        39,
+        43,
+        48,
+        53,
+        59,
+        65,
+        73,
+        81,
+        90
+      ],
+      "STRENGTH": [
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        19,
+        22
+      ],
+      "HEALTH": [
+        59,
+        67,
+        74,
+        82,
+        91,
+        101,
+        112,
+        124,
+        139,
+        154
+      ]
+    },
+    "SKELETON_SOLDIER_CHESTPLATE": {
+      "DEFENSE": [
+        42,
+        45,
+        49,
+        54,
+        58,
+        63,
+        69,
+        74,
+        81,
+        88
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        17,
+        18,
+        20,
+        21,
+        23,
+        25,
+        27,
+        30,
+        32,
+        35
+      ],
+      "HEALTH": [
+        26,
+        29,
+        31,
+        34,
+        37,
+        40,
+        44,
+        47,
+        51,
+        56
+      ]
+    },
+    "CRYPT_BOW": {
+      "INTELLIGENCE": [
+        157,
+        171,
+        186,
+        202,
+        219,
+        239,
+        259,
+        282,
+        306,
+        333
+      ]
+    },
+    "KALHUIKI_MASK": {
+      "HEALTH": [
+        100,
+        10
+      ]
+    },
+    "SILENT_DEATH": {
+      "CRITICAL_CHANCE": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "CRITICAL_DAMAGE": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        20
+      ],
+      "STRENGTH": [
+        31,
+        34,
+        37,
+        40,
+        44,
+        48,
+        52,
+        56,
+        61,
+        67
+      ],
+      "DAMAGE": [
+        85,
+        92,
+        100,
+        109,
+        119,
+        129,
+        140,
+        152,
+        166,
+        180
+      ]
+    },
+    "ROTTEN_HELMET": {
+      "STRENGTH": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        20,
+        22
+      ],
+      "HEALTH": [
+        70,
+        76,
+        83,
+        90,
+        99,
+        108,
+        118,
+        128,
+        139,
+        152
+      ]
+    },
+    "SUPER_HEAVY_LEGGINGS": {
+      "DEFENSE": [
+        98,
+        109,
+        121,
+        134,
+        149,
+        165,
+        183,
+        203,
+        225,
+        250
+      ],
+      "WALK_SPEED": [
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10
+      ]
+    },
+    "ZOMBIE_COMMANDER_BOOTS": {
+      "INTELLIGENCE": [
+        4,
+        5,
+        5,
+        6,
+        7,
+        7,
+        8,
+        8,
+        10,
+        11
+      ],
+      "DEFENSE": [
+        17,
+        19,
+        22,
+        23,
+        26,
+        30,
+        32,
+        36,
+        41,
+        45
+      ],
+      "STRENGTH": [
+        8,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        19,
+        22
+      ],
+      "HEALTH": [
+        32,
+        34,
+        38,
+        43,
+        48,
+        52,
+        59,
+        65,
+        72,
+        80
+      ]
+    },
+    "BOUNCY_CHESTPLATE": {
+      "CRITICAL_CHANCE": [
+        5,
+        5,
+        6,
+        6,
+        7,
+        7,
+        8,
+        8,
+        9,
+        10
+      ],
+      "HEALTH": [
+        120,
+        134,
+        150,
+        168,
+        188,
+        211,
+        236,
+        265,
+        297,
+        333
+      ]
+    },
+    "CRYPT_DREADLORD_SWORD": {
+      "INTELLIGENCE": [
+        85,
+        92,
+        100,
+        109,
+        119,
+        129,
+        140,
+        152,
+        166,
+        180
+      ],
+      "STRENGTH": [
+        23,
+        25,
+        27,
+        29,
+        31,
+        34,
+        36,
+        39,
+        42,
+        45
+      ],
+      "DAMAGE": [
+        52,
+        56,
+        60,
+        65,
+        70,
+        75,
+        80,
+        86,
+        93,
+        100
+      ]
+    },
+    "SNIPER_BOW": {
+      "CRITICAL_DAMAGE": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "DAMAGE": [
+        94,
+        103,
+        112,
+        121,
+        132,
+        143,
+        156,
+        169,
+        184,
+        200
+      ]
+    },
+    "SKELETOR_LEGGINGS": {
+      "DEFENSE": [
+        36,
+        38,
+        42,
+        46,
+        50,
+        54,
+        58,
+        63,
+        69,
+        74
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        20,
+        22,
+        24,
+        26,
+        28,
+        31,
+        33,
+        36,
+        40,
+        43
+      ],
+      "HEALTH": [
+        22,
+        24,
+        26,
+        28,
+        31,
+        34,
+        36,
+        40,
+        43,
+        47
+      ]
+    },
+    "SKELETON_LORD_BOW": {
+      "CRITICAL_DAMAGE": [
+        36,
+        40,
+        43,
+        47,
+        51,
+        55,
+        60,
+        22,
+        24,
+        26
+      ],
+      "STRENGTH": [
+        18,
+        20,
+        21,
+        23,
+        25,
+        28,
+        30,
+        37,
+        40,
+        44
+      ],
+      "DAMAGE": [
+        109,
+        119,
+        129,
+        140,
+        152,
+        166,
+        180,
+        135,
+        146,
+        159
+      ]
+    },
+    "SUPER_HEAVY_BOOTS": {
+      "DEFENSE": [
+        63,
+        70,
+        77,
+        85,
+        95,
+        105,
+        117,
+        130,
+        144,
+        160
+      ],
+      "WALK_SPEED": [
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10,
+        -10
+      ]
+    },
+    "MACHINE_GUN_BOW": {
+      "CRITICAL_DAMAGE": [
+        12,
+        13,
+        15,
+        16,
+        17,
+        19,
+        20,
+        22,
+        24,
+        26
+      ],
+      "STRENGTH": [
+        20,
+        23,
+        25,
+        27,
+        29,
+        32,
+        34,
+        37,
+        40,
+        44
+      ],
+      "DAMAGE": [
+        75,
+        82,
+        89,
+        96,
+        105,
+        114,
+        124,
+        135,
+        146,
+        159
+      ]
+    },
+    "ZOMBIE_SOLDIER_HELMET": {
+      "DEFENSE": [
+        43,
+        47,
+        52,
+        57,
+        62,
+        69,
+        75,
+        83,
+        91,
+        100
+      ],
+      "HEALTH": [
+        21,
+        24,
+        26,
+        28,
+        31,
+        34,
+        38,
+        41,
+        46,
+        50
+      ]
+    },
+    "ZOMBIE_LORD_HELMET": {
+      "INTELLIGENCE": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18
+      ],
+      "DEFENSE": [
+        25,
+        28,
+        31,
+        34,
+        38,
+        42,
+        47,
+        53,
+        58,
+        65
+      ],
+      "STRENGTH": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18
+      ],
+      "HEALTH": [
+        56,
+        62,
+        69,
+        77,
+        86,
+        95,
+        106,
+        117,
+        130,
+        145
+      ]
+    },
+    "ZOMBIE_SOLDIER_LEGGINGS": {
+      "DEFENSE": [
+        71,
+        78,
+        85,
+        94,
+        103,
+        113,
+        124,
+        137,
+        150,
+        165
+      ],
+      "HEALTH": [
+        34,
+        38,
+        41,
+        45,
+        50,
+        55,
+        60,
+        66,
+        73,
+        80
+      ]
+    },
+    "SKELETON_LORD_CHESTPLATE": {
+      "DEFENSE": [
+        52,
+        56,
+        61,
+        67,
+        72,
+        79,
+        86,
+        93,
+        101,
+        110
+      ],
+      "CRITICAL_CHANCE": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "CRITICAL_DAMAGE": [
+        19,
+        22,
+        24,
+        27,
+        30,
+        33,
+        36,
+        41,
+        45,
+        50
+      ],
+      "HEALTH": [
+        26,
+        29,
+        31,
+        34,
+        37,
+        40,
+        44,
+        47,
+        51,
+        56
+      ]
+    },
+    "ZOMBIE_KNIGHT_CHESTPLATE": {
+      "DEFENSE": [
+        96,
+        105,
+        115,
+        123,
+        135,
+        148,
+        161,
+        176,
+        192,
+        209
+      ],
+      "WALK_SPEED": [
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        8
+      ],
+      "STRENGTH": [
+        20,
+        22,
+        23,
+        26,
+        28,
+        31,
+        33,
+        36,
+        40,
+        43
+      ]
+    },
+    "CRYPT_WITHERLORD_HELMET": {
+      "DEFENSE": [
+        70,
+        80
+      ],
+      "WALK_SPEED": [
+        5,
+        6
+      ]
+    },
+    "ZOMBIE_KNIGHT_LEGGINGS": {
+      "DEFENSE": [
+        85,
+        92,
+        101,
+        109,
+        119,
+        130,
+        142,
+        155,
+        169,
+        184
+      ],
+      "WALK_SPEED": [
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        7,
+        7,
+        7,
+        8
+      ],
+      "STRENGTH": [
+        15,
+        16,
+        18,
+        19,
+        21,
+        23,
+        25,
+        27,
+        30,
+        33
+      ]
+    },
+    "SKELETOR_HELMET": {
+      "DEFENSE": [
+        25,
+        26,
+        28,
+        30,
+        33,
+        36,
+        39,
+        42,
+        45,
+        50
+      ],
+      "CRITICAL_CHANCE": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4
+      ],
+      "CRITICAL_DAMAGE": [
+        20,
+        22,
+        23,
+        25,
+        28,
+        30,
+        33,
+        36,
+        39,
+        42
+      ],
+      "HEALTH": [
+        15,
+        16,
+        17,
+        19,
+        21,
+        22,
+        24,
+        26,
+        29,
+        31
+      ]
+    }
+  }
+}

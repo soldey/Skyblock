@@ -1,0 +1,93 @@
+# The repository lives right inside the Modrinth App profile, so everything is ignored by default
+# and only the folders that make up the modpack are let back in.
+/*
+!/.gitignore
+!/.github/
+!/scripts/
+!/pack.json
+!/README.md
+
+!/config/
+!/datapacks/
+!/mods/
+!/resourcepacks/
+!/skyrecipes/
+!/shaderpacks/
+
+# Git does not keep empty folders.
+!/datapacks/.gitkeep
+!/shaderpacks/.gitkeep
+
+.DS_Store
+
+# --- config -----------------------------------------------------------------------------------
+
+# Own mods that are not part of the pack.
+/config/kuudraiscool/
+/config/safarigrouphelper/
+
+# Password for the Resourceful Config web editor.
+/config/resourceful-config-web.json
+
+# Caches, downloaded repositories, logs and backups the mods recreate on their own.
+/config/firmament-legacy-config-*/
+/config/firmament/profiles/
+/config/firmament/storage/
+/config/notenoughupdates/repo/
+/config/skyblockapi/
+/config/skyblocker/item-repo/
+/config/skyblocker/config_backups/
+/config/skyhanni/backup/
+/config/skyhanni/logs/
+/config/skyhanni/repo/
+/config/skyhanni/*-backup.json
+/config/skytils/updates/
+
+# State of the player's own account: inventories, friends, pets, sacks, museum, found souls,
+# trackers and the like. None of it is a setting, and it must not end up in a public pack.
+/config/NoFrills/ShardData.json
+/config/NoFrills/SkillTracker.json
+/config/NoFrills/*Cache.json
+/config/NoFrills/*Data.json
+/config/NoFrills/*Timer.json
+/config/NoFrills/PricePaid.json
+/config/roughlyenoughitems/hints.json
+/config/skyblockaddons/*Cache.json
+/config/skyblockaddons/persistentValues.json
+/config/skyblocker/backpack-preview/
+/config/skyblocker/equipment/
+/config/skyblocker/garden_plots/
+/config/skyblocker/reward-trackers/
+/config/skyblocker/collected_accessories.json
+/config/skyblocker/dungeon_split_bests.json
+/config/skyblocker/end.json
+/config/skyblocker/found_*.json
+/config/skyblocker/kuudra.json
+/config/skyblocker/museum_item_cache.json
+/config/skyblocker/pet_cache.json
+/config/skyblocker/slayers_data.json
+/config/skyblocker/vacuum_cache.json
+/config/skyhanni/achievements.json
+/config/skyhanni/currentCommit.json
+/config/skyhanni/friends.json
+/config/skyhanni/jacob_contests.json
+/config/skyhanni/pets.json
+/config/skyhanni/sacks.json
+/config/skyhanni/storage.json
+/config/skytils/pricepaid.json
+/config/skytils/trackers/
+
+# --- mods -------------------------------------------------------------------------------------
+
+/mods/Essential Dependencies*
+/mods/KIC-*
+/mods/modernfix-*
+/mods/macos-input-fixes-*
+/mods/safari-group-helper-*
+/mods/zipfs*
+/mods/*.disabled
+/mods/*.tmp
+
+# --- skyrecipes -------------------------------------------------------------------------------
+
+/skyrecipes/cache/

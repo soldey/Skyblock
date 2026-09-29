@@ -1,0 +1,648 @@
+{
+  "bookmarkedItems": [
+    {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_name": {
+          "text": "Fuel Gabagool",
+          "color": "blue",
+          "bold": false,
+          "italic": false,
+          "underlined": false,
+          "strikethrough": false,
+          "obfuscated": false
+        },
+        "minecraft:lore": [
+          {
+            "text": "Feed Wisp pets, tier up into Heavy",
+            "color": "gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "Gabagool or craft Inferno minion",
+            "color": "gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "fuel.",
+            "color": "gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "Right-click to view recipes!",
+            "color": "yellow",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "RARE",
+            "color": "blue",
+            "bold": true,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          }
+        ],
+        "minecraft:profile": {
+          "id": [
+            -1972921963,
+            -1527891249,
+            -1161624579,
+            1891753877
+          ],
+          "name": "SkyBlock",
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1OTc5MTkyNDgzNywKICAicHJvZmlsZUlkIiA6ICIzOTdlMmY5OTAyNmI0NjI1OTcyNTM1OTNjODgyZjRmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4WnlkdWVMeCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMDAwYWFkNjM4OGNhNDdjYjZmNmNmYzg4ZDc4NTY3MWJkNDc4MGE4NTAxMDZlZjQ3ZjJhOGEyYzNmMzViM2IxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d"
+            }
+          ]
+        },
+        "minecraft:custom_data": {
+          "HideFlags": 254,
+          "id": "FUEL_GABAGOOL"
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:attribute_modifiers",
+            "minecraft:unbreakable",
+            "minecraft:can_break",
+            "minecraft:can_place_on",
+            "minecraft:stored_enchantments",
+            "minecraft:dyed_color",
+            "minecraft:trim"
+          ]
+        }
+      }
+    },
+    {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_name": {
+          "text": "Heavy Gabagool",
+          "color": "dark_purple",
+          "bold": false,
+          "italic": false,
+          "underlined": false,
+          "strikethrough": false,
+          "obfuscated": false
+        },
+        "minecraft:lore": [
+          {
+            "text": "Feed Wisp pets, tier up into",
+            "color": "gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "Hypergolic Gabagool or craft",
+            "color": "gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "Inferno minion fuel.",
+            "color": "gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "Right-click to view recipes!",
+            "color": "yellow",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "EPIC",
+            "color": "dark_purple",
+            "bold": true,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          }
+        ],
+        "minecraft:profile": {
+          "id": [
+            1200590630,
+            -688377298,
+            -1633719796,
+            1156995030
+          ],
+          "name": "SkyBlock",
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1OTc5MTg3NzU4NywKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MDRlMGFjODFlNjA4YzU2MDViNTA1ZDRlOWNkNmU3NTM5NzMzMmM5MTJjMWZmOGY3OWFmZTE3MGYzOGI3YTc4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d"
+            }
+          ]
+        },
+        "minecraft:custom_data": {
+          "HideFlags": 254,
+          "id": "HEAVY_GABAGOOL"
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:attribute_modifiers",
+            "minecraft:unbreakable",
+            "minecraft:can_break",
+            "minecraft:can_place_on",
+            "minecraft:stored_enchantments",
+            "minecraft:dyed_color",
+            "minecraft:trim"
+          ]
+        }
+      }
+    },
+    {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_name": {
+          "text": "Hypergolic Gabagool",
+          "color": "gold",
+          "bold": false,
+          "italic": false,
+          "underlined": false,
+          "strikethrough": false,
+          "obfuscated": false
+        },
+        "minecraft:lore": [
+          {
+            "text": "Feed Wisp pets or craft into strong",
+            "color": "gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "Inferno minion fuel.",
+            "color": "gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "Hypergolic-grade fuels create",
+            "color": "red",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "extra unique items!",
+            "color": "red",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "Right-click to view recipes!",
+            "color": "yellow",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "LEGENDARY",
+            "color": "gold",
+            "bold": true,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          }
+        ],
+        "minecraft:profile": {
+          "id": [
+            892910897,
+            1389444122,
+            -1588980506,
+            774229752
+          ],
+          "name": "SkyBlock",
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTY1OTc5MTg1MzI2MCwKICAicHJvZmlsZUlkIiA6ICIwYWMwY2IxMTI1MWE0ZjAwOTJjNjIyNzM2NjczMDNmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbG91Y2wiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQ0NDg5YzI0MzJlZmE4OWU1NjQxMTE3OGU2MGRkZGU0M2E2NTQ5NzRhZDQ1ZDEzOTk2ZDQ4NTk0ZGVlYTM5OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:custom_data": {
+          "HideFlags": 254,
+          "id": "HYPERGOLIC_GABAGOOL"
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:attribute_modifiers",
+            "minecraft:unbreakable",
+            "minecraft:can_break",
+            "minecraft:can_place_on",
+            "minecraft:stored_enchantments",
+            "minecraft:dyed_color",
+            "minecraft:trim"
+          ]
+        }
+      }
+    },
+    {
+      "id": "minecraft:player_head",
+      "components": {
+        "minecraft:custom_name": {
+          "text": "Inferno Minion Fuel",
+          "color": "gold",
+          "bold": false,
+          "italic": false,
+          "underlined": false,
+          "strikethrough": false,
+          "obfuscated": false
+        },
+        "minecraft:lore": [
+          {
+            "text": "Minion Fuel",
+            "color": "dark_gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "Can be used as minion fuel",
+            "color": "gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "exclusively in the Inferno minion for",
+            "color": "gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "24 hours!",
+            "color": "gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "",
+            "extra": [
+              {
+                "text": "Replaces ",
+                "color": "gray",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "strikethrough": false,
+                "obfuscated": false
+              },
+              {
+                "text": "4/5 ",
+                "color": "red",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "strikethrough": false,
+                "obfuscated": false
+              },
+              {
+                "text": "of the regular minion",
+                "color": "gray",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "strikethrough": false,
+                "obfuscated": false
+              }
+            ]
+          },
+          {
+            "text": "",
+            "extra": [
+              {
+                "text": "production with a ",
+                "color": "gray",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "strikethrough": false,
+                "obfuscated": false
+              },
+              {
+                "text": "specialty ",
+                "color": "aqua",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "strikethrough": false,
+                "obfuscated": false
+              },
+              {
+                "text": "item.",
+                "color": "gray",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "strikethrough": false,
+                "obfuscated": false
+              }
+            ]
+          },
+          {
+            "text": "Hypergolic-grade fuels create",
+            "color": "red",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "extra unique items! RARELY!",
+            "color": "red",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "",
+            "extra": [
+              {
+                "text": "Speed multiplier: ",
+                "color": "gray",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "strikethrough": false,
+                "obfuscated": false
+              },
+              {
+                "text": "20x",
+                "color": "green",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "strikethrough": false,
+                "obfuscated": false
+              }
+            ]
+          },
+          {
+            "text": "",
+            "extra": [
+              {
+                "text": "Specialty: ",
+                "color": "gray",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "strikethrough": false,
+                "obfuscated": false
+              },
+              {
+                "text": "Crude Gabagool",
+                "color": "aqua",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "strikethrough": false,
+                "obfuscated": false
+              }
+            ]
+          },
+          {
+            "text": "",
+            "extra": [
+              {
+                "text": "Specialty amount: ",
+                "color": "gray",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "strikethrough": false,
+                "obfuscated": false
+              },
+              {
+                "text": "1",
+                "color": "yellow",
+                "bold": false,
+                "italic": false,
+                "underlined": false,
+                "strikethrough": false,
+                "obfuscated": false
+              }
+            ]
+          },
+          {
+            "text": "LEGENDARY",
+            "color": "gold",
+            "bold": true,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          }
+        ],
+        "minecraft:profile": {
+          "id": [
+            -633184966,
+            1871328407,
+            -1160206329,
+            -1642735813
+          ],
+          "name": "SkyBlock",
+          "properties": [
+            {
+              "name": "textures",
+              "value": "ewogICJ0aW1lc3RhbXAiIDogMTYwNjc5MzE2NDA1OSwKICAicHJvZmlsZUlkIiA6ICI0ZDcwNDg2ZjUwOTI0ZDMzODZiYmZjOWMxMmJhYjRhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaXJGYWJpb3pzY2hlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYwMmExMTY5MzA5ZjA1ZWYyZjA2MWIxZmEwZmUyMjVmMjlkNzNhMjRmOGYwN2NjYzJhNzA1ZGVlYWNhMDY5ZDEiCiAgICB9CiAgfQp9"
+            }
+          ]
+        },
+        "minecraft:custom_data": {
+          "HideFlags": 254,
+          "id": "INFERNO_HYPERGOLIC_CRUDE_GABAGOOL"
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:attribute_modifiers",
+            "minecraft:unbreakable",
+            "minecraft:can_break",
+            "minecraft:can_place_on",
+            "minecraft:stored_enchantments",
+            "minecraft:dyed_color",
+            "minecraft:trim"
+          ]
+        }
+      }
+    },
+    {
+      "id": "minecraft:gold_ingot",
+      "components": {
+        "minecraft:custom_name": {
+          "text": "Enchanted Gold Ingot",
+          "color": "green",
+          "bold": false,
+          "italic": false,
+          "underlined": false,
+          "strikethrough": false,
+          "obfuscated": false
+        },
+        "minecraft:lore": [
+          {
+            "text": "Brewing Ingredient",
+            "color": "dark_gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "Collection Item",
+            "color": "dark_gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "UNCOMMON ORE",
+            "color": "green",
+            "bold": true,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          }
+        ],
+        "minecraft:custom_data": {
+          "ench": [],
+          "HideFlags": 254,
+          "id": "ENCHANTED_GOLD"
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:attribute_modifiers",
+            "minecraft:unbreakable",
+            "minecraft:can_break",
+            "minecraft:can_place_on",
+            "minecraft:stored_enchantments",
+            "minecraft:dyed_color",
+            "minecraft:trim"
+          ]
+        },
+        "minecraft:enchantment_glint_override": true
+      }
+    },
+    {
+      "id": "minecraft:gold_block",
+      "components": {
+        "minecraft:custom_name": {
+          "text": "Enchanted Gold Block",
+          "color": "blue",
+          "bold": false,
+          "italic": false,
+          "underlined": false,
+          "strikethrough": false,
+          "obfuscated": false
+        },
+        "minecraft:lore": [
+          {
+            "text": "Brewing Ingredient",
+            "color": "dark_gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "Collection Item",
+            "color": "dark_gray",
+            "bold": false,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          },
+          {
+            "text": "RARE ORE",
+            "color": "blue",
+            "bold": true,
+            "italic": false,
+            "underlined": false,
+            "strikethrough": false,
+            "obfuscated": false
+          }
+        ],
+        "minecraft:custom_data": {
+          "ench": [],
+          "HideFlags": 254,
+          "id": "ENCHANTED_GOLD_BLOCK"
+        },
+        "minecraft:tooltip_display": {
+          "hidden_components": [
+            "minecraft:attribute_modifiers",
+            "minecraft:unbreakable",
+            "minecraft:can_break",
+            "minecraft:can_place_on",
+            "minecraft:stored_enchantments",
+            "minecraft:dyed_color",
+            "minecraft:trim"
+          ]
+        },
+        "minecraft:enchantment_glint_override": true
+      }
+    }
+  ]
+}

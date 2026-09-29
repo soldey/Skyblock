@@ -1,0 +1,6 @@
+{
+  "name": "Skyblock",
+  "summary": "Hypixel SkyBlock modpack",
+  "minecraft": "26.1.2",
+  "fabric-loader": "0.19.5"
+}

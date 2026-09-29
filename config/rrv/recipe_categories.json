@@ -1,0 +1,48 @@
+{
+  "categories": {
+    "skyrecipes:fusion": {
+      "enabled": true,
+      "priority": 6
+    },
+    "skyrecipes:crafting": {
+      "enabled": true,
+      "priority": 1
+    },
+    "skyrecipes:info": {
+      "enabled": true,
+      "priority": 10
+    },
+    "skyrecipes:essence_upgrade": {
+      "enabled": true,
+      "priority": 5
+    },
+    "skyrecipes:npc_shop": {
+      "enabled": true,
+      "priority": 3
+    },
+    "skyrecipes:drops": {
+      "enabled": true,
+      "priority": 2
+    },
+    "skyrecipes:reforge": {
+      "enabled": true,
+      "priority": 5
+    },
+    "skyrecipes:forge": {
+      "enabled": true,
+      "priority": 1
+    },
+    "skyrecipes:trade": {
+      "enabled": true,
+      "priority": 8
+    },
+    "skyrecipes:kat_upgrade": {
+      "enabled": true,
+      "priority": 4
+    },
+    "skyrecipes:garden_mutation": {
+      "enabled": true,
+      "priority": 5
+    }
+  }
+}

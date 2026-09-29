@@ -1,0 +1,14 @@
+{
+  "version": 4,
+  "subtitlesEnabled": false,
+  "sounds": [
+    {
+      "soundId": "minecraft:entity.generic.explode",
+      "volume": 0.0
+    },
+    {
+      "soundId": "minecraft:entity.zombie_villager.cure",
+      "volume": 0.0
+    }
+  ]
+}

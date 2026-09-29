@@ -1,0 +1,12 @@
+{
+    version : 1,
+    enable : true,
+    sensitivity : 10,
+    auto_reset : true,
+    invert_scrolling : {
+        mouse : {
+            x : false,
+            y : false
+        }
+    }
+}

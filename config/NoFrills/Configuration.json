@@ -1,0 +1,1079 @@
+{
+  "bobberElement": {
+    "shadow": true,
+    "inactive": false,
+    "timer": false,
+    "textColor": -10706753,
+    "background": 1073741824,
+    "scale": 1.0,
+    "slugfishTimer": 0
+  },
+  "seaCreaturesElement": {
+    "shadow": true,
+    "zero": false,
+    "textColor": -10706753,
+    "background": 1073741824,
+    "scale": 1.0
+  },
+  "tpsElement": {
+    "shadow": true,
+    "average": false,
+    "textColor": -10706753,
+    "background": 1073741824,
+    "scale": 1.0
+  },
+  "lagMeterElement": {
+    "shadow": true,
+    "min": 500,
+    "textColor": -10706753,
+    "background": 1073741824,
+    "scale": 1.0
+  },
+  "powerElement": {
+    "shadow": true,
+    "dungeon": true,
+    "textColor": -10706753,
+    "background": 1073741824,
+    "scale": 1.0
+  },
+  "dayElement": {
+    "shadow": true,
+    "textColor": -10706753,
+    "background": 1073741824,
+    "scale": 1.0
+  },
+  "pingElement": {
+    "shadow": true,
+    "average": false,
+    "textColor": -10706753,
+    "background": 1073741824,
+    "scale": 1.0
+  },
+  "autoSprint": {
+    "waterCheck": false,
+    "enabled": true
+  },
+  "updateChecker": {
+    "enabled": true
+  },
+  "slotBinding": {
+    "lines": true,
+    "borders": false,
+    "bindingColor": -16711936,
+    "boundColor": -16711681,
+    "enabled": true,
+    "keybind": 73,
+    "data": {
+      "hotbar4": {
+        "last": 0,
+        "binds": []
+      },
+      "hotbar5": {
+        "last": 0,
+        "binds": []
+      },
+      "hotbar6": {
+        "last": 32,
+        "binds": [
+          32
+        ]
+      },
+      "hotbar8": {
+        "last": 34,
+        "binds": [
+          34
+        ]
+      },
+      "hotbar7": {
+        "last": 33,
+        "binds": [
+          33
+        ]
+      },
+      "hotbar1": {
+        "last": 27,
+        "binds": [
+          27
+        ]
+      },
+      "hotbar3": {
+        "last": 29,
+        "binds": [
+          29
+        ]
+      },
+      "hotbar2": {
+        "last": 28,
+        "binds": [
+          28
+        ]
+      }
+    },
+    "lineWidth": 2.0
+  },
+  "priceTooltips": {
+    "auction": false,
+    "bazaar": false,
+    "npc": false,
+    "mote": false,
+    "burgers": 0,
+    "enabled": false
+  },
+  "wardrobeKeybinds": {
+    "noUnequip": false,
+    "sound": false,
+    "enabled": true,
+    "custom1": 49
+  },
+  "chatWaypoints": {
+    "partyEnabled": false,
+    "partyClearOnArrive": false,
+    "partyDuration": 120,
+    "partyColor": -1437248001,
+    "allEnabled": false,
+    "allClearOnArrive": false,
+    "allDuration": 60,
+    "allColor": -1437204481,
+    "enabled": false
+  },
+  "etherwarpOverlay": {
+    "fillCorrect": 2130771712,
+    "fillWrong": 2147418112,
+    "outlineCorrect": -16711936,
+    "outlineWrong": -65536,
+    "enabled": false,
+    "sound": "minecraft:block.note_block.pling",
+    "volume": 1.0,
+    "pitch": 1.0
+  },
+  "fullbright": {
+    "noEffect": false,
+    "enabled": false,
+    "mode": "Gamma"
+  },
+  "noRender": {
+    "explosions": false,
+    "emptyTooltips": false,
+    "fireOverlay": true,
+    "breakParticles": false,
+    "bossBar": false,
+    "effectDisplay": false,
+    "deadEntities": false,
+    "lightning": false,
+    "mageBeam": false,
+    "treeBits": false,
+    "nametagInvisibility": true,
+    "enabled": true,
+    "fallingBlocks": false,
+    "nausea": false,
+    "vignette": false,
+    "expOrbs": false
+  },
+  "pearlRefill": {
+    "enabled": true,
+    "bind": 330
+  },
+  "recipeLookup": {
+    "enabled": false
+  },
+  "partyCommands": {
+    "prefixes": "! ?",
+    "self": true,
+    "enabled": true,
+    "lists": {
+      "whitelist": [
+        "mrjerson"
+      ]
+    },
+    "warp": "Automatic",
+    "transfer": "Manual",
+    "downtime": "Automatic",
+    "coords": "Automatic",
+    "allinv": "Manual",
+    "queue": "Automatic",
+    "gracePeriod": 10
+  },
+  "partyFinder": {
+    "buttons": false,
+    "enabled": true
+  },
+  "viewmodel": {
+    "noHaste": true,
+    "noEquipAnim": false,
+    "speed": 10,
+    "offsetX": 0.15,
+    "offsetY": -0.1,
+    "offsetZ": -0.35,
+    "scaleX": 0.7,
+    "scaleY": 0.7,
+    "scaleZ": 0.7,
+    "rotX": 0.0,
+    "rotY": 0.0,
+    "rotZ": 0.0,
+    "enabled": true,
+    "noBowSwing": false,
+    "swingX": 1.0,
+    "swingY": 1.0,
+    "swingZ": 1.0,
+    "applyToHand": true,
+    "noSwingReset": true
+  },
+  "tooltipScale": {
+    "scale": 1.0,
+    "enabled": false
+  },
+  "customKeybinds": {
+    "data": {
+      "binds": [
+        {
+          "name": "loadout",
+          "key": 96,
+          "command": "/ld",
+          "enabled": true,
+          "allowInGui": false,
+          "modifier": "Any",
+          "islandFilter": ""
+        },
+        {
+          "name": "pearl from bags",
+          "key": 269,
+          "command": "/nf getPearls",
+          "enabled": true,
+          "allowInGui": false,
+          "modifier": "Any",
+          "islandFilter": ""
+        },
+        {
+          "name": "trades",
+          "key": 45,
+          "command": "/trades",
+          "enabled": true,
+          "allowInGui": false,
+          "modifier": "Any",
+          "islandFilter": ""
+        },
+        {
+          "name": "wardrobe",
+          "key": 76,
+          "command": "/wd",
+          "enabled": true,
+          "allowInGui": false,
+          "modifier": "Any",
+          "islandFilter": ""
+        },
+        {
+          "name": "equipment",
+          "key": 85,
+          "command": "/eq",
+          "enabled": true,
+          "allowInGui": false,
+          "modifier": "Any",
+          "islandFilter": ""
+        },
+        {
+          "name": "tux loadout",
+          "key": 3,
+          "command": "/ld",
+          "enabled": false,
+          "allowInGui": false,
+          "modifier": "Any",
+          "islandFilter": ""
+        }
+      ]
+    },
+    "enabled": true,
+    "allowInGui": false
+  },
+  "noLoadingScreen": {
+    "enabled": false
+  },
+  "middleClickOverride": {
+    "enabled": false
+  },
+  "noFrontPerspective": {
+    "enabled": true
+  },
+  "noAbilityPlace": {
+    "skyblockCheck": false,
+    "modernCheck": true,
+    "enabled": true
+  },
+  "antiSwim": {
+    "skyblockCheck": false,
+    "modernCheck": true,
+    "enabled": true
+  },
+  "efficiencyFix": {
+    "skyblockCheck": false,
+    "modernCheck": false,
+    "enabled": true
+  },
+  "itemCountFix": {
+    "enabled": true
+  },
+  "middleClickFix": {
+    "enabled": true
+  },
+  "noDropSwing": {
+    "skyblockCheck": false,
+    "modernCheck": false,
+    "enabled": true
+  },
+  "noPearlCooldown": {
+    "skyblockCheck": false,
+    "modernCheck": true,
+    "enabled": true
+  },
+  "oldSneak": {
+    "skyblockCheck": true,
+    "modernCheck": true,
+    "enabled": true
+  },
+  "ridingCameraFix": {
+    "enabled": false,
+    "skyblockCheck": false,
+    "modernCheck": false
+  },
+  "snowFix": {
+    "skyblockCheck": false,
+    "modernCheck": true,
+    "enabled": true
+  },
+  "stonkFix": {
+    "skyblockCheck": false,
+    "modernCheck": true,
+    "enabled": true
+  },
+  "animationFix": {
+    "skyblockCheck": false,
+    "modernCheck": true,
+    "enabled": true
+  },
+  "experimentSolver": {
+    "chronomatron": false,
+    "ultrasequencer": false,
+    "superpairs": false,
+    "enabled": false
+  },
+  "calendarDate": {
+    "enabled": false
+  },
+  "spookyChests": {
+    "color": -1426085376,
+    "enabled": false
+  },
+  "capTracker": {
+    "target": 50,
+    "title": false,
+    "sound": false,
+    "send": false,
+    "msg": "/pc SEA CREATURE CAP REACHED",
+    "delay": 30,
+    "enabled": false
+  },
+  "muteDrake": {
+    "enabled": false
+  },
+  "rareGlow": {
+    "color": -22016,
+    "enabled": true
+  },
+  "rareAnnounce": {
+    "title": false,
+    "sound": false,
+    "replace": false,
+    "send": false,
+    "msg": "/pc {spawnmsg}",
+    "enabled": true
+  },
+  "invisibugHighlight": {
+    "color": 2147418112,
+    "enabled": false
+  },
+  "cinderbatHighlight": {
+    "color": -16711936,
+    "enabled": false
+  },
+  "fusionKeybinds": {
+    "enabled": false
+  },
+  "lassoAlert": {
+    "enabled": false
+  },
+  "deviceSolvers": {
+    "sharpshooter": false,
+    "enabled": false
+  },
+  "dungeonHighlight": {
+    "starred": false,
+    "miniboss": false,
+    "witherKey": false,
+    "spiritBow": false,
+    "starredColor": -16711681,
+    "minibossColor": -256,
+    "witherKeyColor": -2147418368,
+    "spiritBowColor": -1431371521,
+    "enabled": false
+  },
+  "dungeonReminders": {
+    "wish": false,
+    "bloodCamp": false,
+    "rag": false,
+    "enabled": false
+  },
+  "leapOverlay": {
+    "send": false,
+    "message": "/pc Leaped to {name}!",
+    "healerColor": -1264372,
+    "mageColor": -15232060,
+    "bersColor": -1621700,
+    "archColor": -11922249,
+    "tankColor": -9007290,
+    "enabled": false,
+    "scale": 3.0
+  },
+  "terminalSolvers": {
+    "melody": false,
+    "melodyMsg": "/pc MELODY",
+    "enabled": false,
+    "panes": false,
+    "inOrder": false,
+    "startsWith": false,
+    "select": false,
+    "colors": false,
+    "instant": false,
+    "firstClickTicks": 10,
+    "clickSound": "minecraft:entity.blaze.hurt",
+    "clickSoundVolume": 2.0,
+    "clickSoundPitch": 2.0,
+    "throttleTicks": 1
+  },
+  "terracottaTimer": {
+    "enabled": false,
+    "color": -256,
+    "scale": 0.4
+  },
+  "witherDragons": {
+    "alert": false,
+    "power": 0.0,
+    "powerEasy": 0.0,
+    "glow": false,
+    "boxes": false,
+    "stack": false,
+    "timer": false,
+    "health": false,
+    "enabled": false,
+    "tracers": false
+  },
+  "drainMessage": {
+    "message": "/pc Used {mana} mana on {players} players!",
+    "hide": false,
+    "enabled": true
+  },
+  "freshTimer": {
+    "send": false,
+    "message": "/pc FRESH!",
+    "enabled": true
+  },
+  "kuudraHealth": {
+    "dps": false,
+    "color": -256,
+    "enabled": true
+  },
+  "kuudraHitbox": {
+    "walls": false,
+    "color": -256,
+    "enabled": true
+  },
+  "kuudraWaypoints": {
+    "supply": false,
+    "drop": true,
+    "build": false,
+    "supplyColor": 2130771712,
+    "dropColor": 2130771712,
+    "buildColor": 2130771712,
+    "enabled": true
+  },
+  "preMessage": {
+    "enabled": true
+  },
+  "bossHighlight": {
+    "fillColor": 1426128895,
+    "outlineColor": -16711681,
+    "ashenFill": 1426063360,
+    "ashenOutline": -16777216,
+    "spiritFill": 1442840575,
+    "spiritOutline": -1,
+    "auricFill": 1442840320,
+    "auricOutline": -256,
+    "crystalFill": 1426128895,
+    "crystalOutline": -16711681,
+    "enabled": false
+  },
+  "infernoDemonlord": {
+    "pillarAlert": false,
+    "attunementFix": false,
+    "noSpam": false,
+    "enabled": false
+  },
+  "killTimer": {
+    "enabled": false
+  },
+  "riftstalkerBloodfiend": {
+    "ice": false,
+    "steak": false,
+    "ichor": false,
+    "ichorColor": -1431371521,
+    "mania": false,
+    "springs": false,
+    "enabled": false
+  },
+  "voidgloomSeraph": {
+    "hits": false,
+    "enabled": false
+  },
+  "abilityAlert": {
+    "enabled": true,
+    "override": 0
+  },
+  "corpseHighlight": {
+    "lapis": -11184641,
+    "mineral": -5592406,
+    "yog": -22016,
+    "vanguard": -1,
+    "enabled": false
+  },
+  "betterSkyMall": {
+    "whitelist": "titanium, goblins",
+    "enabled": true
+  },
+  "safePickobulus": {
+    "enabled": true
+  },
+  "ghostVision": {
+    "fill": 2130757832,
+    "outline": -16725816,
+    "enabled": false
+  },
+  "scathaMining": {
+    "alert": false,
+    "cooldown": false,
+    "enabled": false
+  },
+  "endNodeHighlight": {
+    "color": -16711936,
+    "enabled": false
+  },
+  "spaceFarmer": {
+    "enabled": false
+  },
+  "shroomHighlight": {
+    "color": 2130771712,
+    "enabled": false
+  },
+  "hotbarSwap": {
+    "override": 8,
+    "enabled": false
+  },
+  "starredMobHighlight": {
+    "color": -16711681,
+    "enabled": false
+  },
+  "minibossHighlight": {
+    "color": -256,
+    "enabled": false
+  },
+  "witherKeyHighlight": {
+    "color": -2147418368,
+    "enabled": false,
+    "tracerColor": -16711936
+  },
+  "spiritBowHighlight": {
+    "color": -1431371521,
+    "enabled": false
+  },
+  "sneakLagFix": {
+    "skyblockCheck": false,
+    "modernCheck": true,
+    "enabled": false
+  },
+  "doubleUseFix": {
+    "skyblockCheck": false,
+    "modernCheck": false,
+    "enabled": false
+  },
+  "autoRequeue": {
+    "delay": 250,
+    "terrorCheck": false,
+    "enabled": false,
+    "pauseBind": 71
+  },
+  "instantFog": {
+    "enabled": false
+  },
+  "secretBatHighlight": {
+    "color": -11141291,
+    "enabled": false
+  },
+  "shopCleaner": {
+    "enabled": true
+  },
+  "kuudraChestValue": {
+    "petBonus": 0,
+    "enabled": false,
+    "background": -870309856
+  },
+  "templeSkip": {
+    "color": -8453889,
+    "enabled": false
+  },
+  "shardTrackerElement": {
+    "shadow": true,
+    "hideIfNone": false,
+    "textColor": -10706753,
+    "background": 1073741824,
+    "scale": 1.0
+  },
+  "shardTracker": {
+    "load": false,
+    "data": {},
+    "enabled": false,
+    "doneMsg": false,
+    "filterFuse": false,
+    "filterDirect": false
+  },
+  "commandTooltip": {
+    "enabled": false
+  },
+  "fpsElement": {
+    "shadow": true,
+    "average": false,
+    "textColor": -10706753,
+    "background": 1073741824,
+    "scale": 1.0
+  },
+  "oldSafewalk": {
+    "skyblockCheck": false,
+    "modernCheck": true,
+    "enabled": false
+  },
+  "autoSave": {
+    "enabled": false
+  },
+  "unfocusedTweaks": {
+    "noWorldRender": false,
+    "muteSounds": false,
+    "noVanilla": false,
+    "fpsLimit": 0,
+    "enabled": false
+  },
+  "huntaxeLock": {
+    "enabled": false
+  },
+  "plotBorders": {
+    "infested": false,
+    "infestedColor": -43691,
+    "current": false,
+    "currentColor": -11141291,
+    "all": false,
+    "allColor": -1,
+    "enabled": true
+  },
+  "enchantFix": {
+    "skyblockCheck": false,
+    "modernCheck": false,
+    "enabled": false
+  },
+  "disconnectFix": {
+    "enabled": false
+  },
+  "breakResetFix": {
+    "skyblockCheck": false,
+    "modernCheck": false,
+    "enabled": false
+  },
+  "pageKeybinds": {
+    "enabled": false
+  },
+  "forceNametag": {
+    "enabled": false
+  },
+  "lividSolver": {
+    "color": -16711936,
+    "enabled": false,
+    "tracerColor": -16711936
+  },
+  "princeMessage": {
+    "msg": "/pc Prince Shard activated, +1 score!",
+    "enabled": false
+  },
+  "mimicMessage": {
+    "msg": "/pc Mimic killed, +2 score!",
+    "enabled": false
+  },
+  "spiritBearTimer": {
+    "enabled": false
+  },
+  "pillarAlert": {
+    "enabled": false
+  },
+  "noAttunementSpam": {
+    "enabled": false
+  },
+  "chaliceHighlight": {
+    "color": -1431371521,
+    "enabled": false
+  },
+  "iceAlert": {
+    "enabled": false
+  },
+  "stakeAlert": {
+    "enabled": false
+  },
+  "muteVampire": {
+    "mania": false,
+    "springs": false,
+    "enabled": false
+  },
+  "hitsShieldDisplay": {
+    "color": -43521,
+    "scale": 0.2,
+    "enabled": false
+  },
+  "eggHitsDisplay": {
+    "color": -1,
+    "scale": 0.1,
+    "enabled": false
+  },
+  "beaconTracer": {
+    "color": -16711681,
+    "enabled": false
+  },
+  "muteEnderman": {
+    "enabled": false
+  },
+  "cocoonAlert": {
+    "enabled": false
+  },
+  "armorElement": {
+    "background": 1073741824,
+    "scale": 1.0
+  },
+  "inventoryElement": {
+    "background": 1073741824,
+    "scale": 1.0
+  },
+  "bossHealthElement": {
+    "textColor": -10706753,
+    "background": 1073741824,
+    "scale": 1.0
+  },
+  "tickTimerElement": {
+    "textColor": -10706753,
+    "background": 1073741824
+  },
+  "chatRules": {
+    "enabled": false
+  },
+  "chatTweaks": {
+    "copyMsgLength": 50,
+    "lines": 1000,
+    "enabled": false
+  },
+  "itemProtection": {
+    "protectValueMin": 1000000.0,
+    "enabled": false
+  },
+  "infoTooltips": {
+    "enabled": false
+  },
+  "hitboxFix": {
+    "enabled": false
+  },
+  "oldEyeHeight": {
+    "enabled": false
+  },
+  "noConfirmScreen": {
+    "enabled": false
+  },
+  "noCursorReset": {
+    "clearTicks": 200,
+    "enabled": false
+  },
+  "noSkullPlace": {
+    "enabled": false
+  },
+  "instantSneak": {
+    "enabled": false
+  },
+  "guiKeybinds": {
+    "enabled": false
+  },
+  "hotbarScrollLock": {
+    "enabled": false
+  },
+  "dianaSolver": {
+    "guessTracerColor": -16711936,
+    "guessColor": -1426063361,
+    "treasureColor": -1426085376,
+    "enemyColor": -1426107051,
+    "startColor": -1437204651,
+    "enabled": false
+  },
+  "hoppitySolver": {
+    "color": -1437204651,
+    "tracerColor": -11141291,
+    "enabled": false
+  },
+  "beaconTuningSolver": {
+    "enabled": false
+  },
+  "radarSolver": {
+    "color": -1426106881,
+    "tracerColor": -43521,
+    "enabled": false
+  },
+  "secretChime": {
+    "itemsSound": "minecraft:entity.blaze.hurt",
+    "itemsVolume": 2.0,
+    "itemsPitch": 2.0,
+    "chestSound": "minecraft:entity.blaze.hurt",
+    "chestVolume": 2.0,
+    "chestPitch": 2.0,
+    "essenceSound": "minecraft:entity.blaze.hurt",
+    "essenceVolume": 2.0,
+    "essencePitch": 2.0,
+    "batSound": "minecraft:entity.blaze.hurt",
+    "batVolume": 2.0,
+    "batPitch": 2.0,
+    "leverSound": "minecraft:entity.blaze.hurt",
+    "leverVolume": 2.0,
+    "leverPitch": 2.0,
+    "enabled": false
+  },
+  "melodyMessage": {
+    "msg": "/pc Melody Terminal start!",
+    "progressMsg": "/pc Melody {percent}",
+    "enabled": false
+  },
+  "quickClose": {
+    "enabled": false
+  },
+  "dungeonChestValue": {
+    "background": -870309856,
+    "enabled": false
+  },
+  "tickTimers": {
+    "enabled": false
+  },
+  "relicHighlight": {
+    "enabled": false
+  },
+  "classNametags": {
+    "scale": 0.5,
+    "healerColor": -1264372,
+    "mageColor": -15232060,
+    "bersColor": -1621700,
+    "archColor": -11922249,
+    "tankColor": -9007290,
+    "enabled": false
+  },
+  "cratePriority": {
+    "enabled": false
+  },
+  "spawnAlert": {
+    "enabled": false
+  },
+  "gemstoneDesyncFix": {
+    "enabled": false
+  },
+  "vacuumSolver": {
+    "color": -1426107051,
+    "tracerColor": -43691,
+    "enabled": false
+  },
+  "quiverElement": {
+    "scale": 1.0
+  },
+  "pickaxeAbilityTimerElement": {
+    "scale": 1.0
+  },
+  "queueCooldownTimerElement": {
+    "scale": 1.0
+  },
+  "slayerHealthElement": {
+    "scale": 1.0
+  },
+  "slayerTimerElement": {
+    "scale": 1.0
+  },
+  "dungeonMapElement": {
+    "selfMarkerScale": 7.0,
+    "playerMarkerScale": 1.5,
+    "playerNameScale": 0.8,
+    "scale": 1.0
+  },
+  "dungeonScoreElement": {
+    "scale": 1.0
+  },
+  "spiritMaskTimerElement": {
+    "scale": 1.0
+  },
+  "phoenixPetTimerElement": {
+    "scale": 1.0
+  },
+  "bonzoMaskTimerElement": {
+    "scale": 1.0
+  },
+  "spiritBearTimerElement": {
+    "scale": 1.0
+  },
+  "terracottaGyroTimerElement": {
+    "scale": 1.0
+  },
+  "padTimerElement": {
+    "scale": 1.0
+  },
+  "terminalStartTimerElement": {
+    "scale": 1.0
+  },
+  "goldorTickTimerElement": {
+    "scale": 1.0
+  },
+  "freshToolsTimerElement": {
+    "scale": 1.0
+  },
+  "skillTrackerElement": {
+    "scale": 1.0
+  },
+  "skillTracker": {
+    "enabled": false
+  },
+  "commandShortcuts": {
+    "enabled": false
+  },
+  "eyeHeightFix": {
+    "enabled": false
+  },
+  "noGhostPlace": {
+    "enabled": false
+  },
+  "autoTip": {
+    "enabled": false
+  },
+  "itemScale": {
+    "scale": 1.0,
+    "enabled": false
+  },
+  "noDamageSplash": {
+    "enabled": false
+  },
+  "blockList": {
+    "enabled": false
+  },
+  "anvilHelper": {
+    "enabled": false
+  },
+  "scoreCalculator": {
+    "msg270": "/pc 270 Score!",
+    "title270": "\u0026c\u0026l270",
+    "msg300": "/pc 300 Score!",
+    "title300": "\u0026c\u0026l300",
+    "enabled": false
+  },
+  "platformHighlight": {
+    "enabled": false
+  },
+  "croesusSolver": {
+    "enabled": false,
+    "profitHighThreshold": 5000000.0
+  },
+  "buildPileHighlight": {
+    "enabled": false
+  },
+  "supplyHighlight": {
+    "enabled": false
+  },
+  "dropOffHighlight": {
+    "enabled": false
+  },
+  "shaftAnnounce": {
+    "msg": "/pc !ptme Entered Mineshaft: {id}. Corpses: {corpses}.",
+    "enabled": false
+  },
+  "commissionHighlight": {
+    "enabled": false
+  },
+  "wateringHelper": {
+    "enabled": true
+  },
+  "equipmentHighlight": {
+    "enabled": false
+  },
+  "phantomleafSolver": {
+    "enabled": true
+  },
+  "clockElement": {
+    "scale": 1.0
+  },
+  "fishingBagElement": {
+    "scale": 1.0
+  },
+  "beaconPowerElement": {
+    "scale": 1.0
+  },
+  "loadoutKeybinds": {
+    "enabled": false
+  },
+  "legacyTextures": {
+    "enabled": false
+  },
+  "streamerMode": {
+    "baseName": "nostrils-{}{}{}{}",
+    "enabled": false
+  },
+  "activePetHighlight": {
+    "enabled": false
+  },
+  "dupeClassAlert": {
+    "enabled": true
+  },
+  "slayerMinibossHighlight": {
+    "enabled": false
+  },
+  "slayerMinibossAlert": {
+    "enabled": false
+  },
+  "mouseLock": {
+    "enabled": false
+  },
+  "muteComposter": {
+    "enabled": false
+  },
+  "slotLocking": {
+    "enabled": false
+  },
+  "inventoryButtons": {
+    "gridPrecision": 5,
+    "enabled": false
+  },
+  "soundBlocker": {
+    "enabled": false
+  },
+  "honeycombTimer": {
+    "scale": 0.5,
+    "enabled": false
+  },
+  "bonusScoreMessage": {
+    "msgPrince": "/pc Prince Killed!",
+    "msgBat": "/pc Bat Killed!",
+    "enabled": false
+  },
+  "vesuviusSolver": {
+    "profitHighThreshold": 5000000.0,
+    "enabled": false
+  },
+  "kickCooldownTimerElement": {
+    "scale": 1.0
+  }
+}

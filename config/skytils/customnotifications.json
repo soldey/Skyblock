@@ -1,0 +1,32 @@
+[
+    {
+        "regex": "§dFrom .*§r§7: .*",
+        "text": "§dNew whisper!",
+        "ticks": 20,
+        "enabled": true
+    },
+    {
+        "regex": ".*§eYour §aBuy Order §efor §a([0-9,]*)§7x §9([a-zA-Z0-9 ]*) §ewas filled!§r",
+        "text": "bazaar order filled",
+        "ticks": 20,
+        "enabled": true
+    },
+    {
+        "regex": "§r§a§r§6Pickobulus §r§ais now available!§r",
+        "text": "§r§a§r§6Pickobulus §r§ais now available!§r",
+        "ticks": 20,
+        "enabled": false
+    },
+    {
+        "regex": "§r§a§r§6([a-zA-Z ]*) §r§ais now available!§r",
+        "text": "§r§aAbility available",
+        "ticks": 20,
+        "enabled": false
+    },
+    {
+        "regex": ".* §ebought §f([a-zA-Z0-9 ]*) §efor §6([0-9,]*) coins.*",
+        "text": "§6Auction §eBOUGHT",
+        "ticks": 20,
+        "enabled": true
+    }
+]

@@ -1,0 +1,570 @@
+{
+  "schemaVersion": 3,
+  "_comment": "New editable Pearl Waypoints config. Legacy pearl_waypoints.json is ignored by the reworked system. Use /iq waypoints for real-time editing.",
+  "_format": "areas -\u003e waypoints. Area bounds are [minX, minZ, maxX, maxZ]. Coordinates are [x, y, z].",
+  "areas": [
+    {
+      "name": "x",
+      "bounds": [
+        -150.0,
+        -153.0,
+        -124.0,
+        -133.0
+      ],
+      "waypoints": [
+        {
+          "label": "X - X",
+          "target": [
+            -106.0,
+            79.0,
+            -113.0
+          ],
+          "aimTarget": [
+            -106.0,
+            79.0,
+            -113.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000"
+        },
+        {
+          "label": "X - Square",
+          "target": [
+            -140.5,
+            77.0,
+            -87.0
+          ],
+          "standBlock": [
+            -135.0,
+            77.0,
+            -139.0
+          ],
+          "aimTarget": [
+            -140.5,
+            77.0,
+            -87.0
+          ],
+          "trajectoryType": "DOUBLE_HIGH",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 10.0,
+          "size": 0.2176,
+          "alert": true,
+          "color": "#00000000",
+          "standBlockLabel": "X Block"
+        }
+      ]
+    },
+    {
+      "name": "x cannon",
+      "bounds": [
+        -150.0,
+        -133.0,
+        -124.0,
+        -103.0
+      ],
+      "waypoints": [
+        {
+          "label": "X Cannon - X Cannon",
+          "target": [
+            -110.0,
+            79.0,
+            -106.0
+          ],
+          "standBlock": [
+            -131.0,
+            78.0,
+            -115.0
+          ],
+          "aimTarget": [
+            -110.0,
+            79.0,
+            -106.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000",
+          "standBlockLabel": "X Cannon Block"
+        },
+        {
+          "label": "X Cannon - Sky X Cannon",
+          "target": [
+            -110.0,
+            79.0,
+            -106.0
+          ],
+          "aimTarget": [
+            -110.0,
+            79.0,
+            -106.0
+          ],
+          "trajectoryType": "SKY",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000"
+        },
+        {
+          "label": "",
+          "target": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "standBlock": [
+            -135.0,
+            78.0,
+            -129.0
+          ],
+          "aimTarget": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "size": 0.224,
+          "alert": false,
+          "color": "#00000000",
+          "standBlockLabel": "X Cannon Coal Block"
+        }
+      ]
+    },
+    {
+      "name": "square",
+      "bounds": [
+        -150.0,
+        -94.0,
+        -124.0,
+        -78.0
+      ],
+      "waypoints": [
+        {
+          "label": "Square - X",
+          "target": [
+            -106.0,
+            79.0,
+            -113.0
+          ],
+          "aimTarget": [
+            -106.0,
+            79.0,
+            -113.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "preSupply": 1,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000"
+        },
+        {
+          "label": "Square - X Cannon",
+          "target": [
+            -110.0,
+            79.0,
+            -106.0
+          ],
+          "aimTarget": [
+            -110.0,
+            79.0,
+            -106.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "preSupply": 2,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000"
+        },
+        {
+          "label": "Square - Slash",
+          "target": [
+            -106.0,
+            79.0,
+            -99.0
+          ],
+          "aimTarget": [
+            -106.0,
+            79.0,
+            -99.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "preSupply": 5,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000"
+        },
+        {
+          "label": "Square - Equals",
+          "target": [
+            -98.0,
+            79.0,
+            -99.0
+          ],
+          "aimTarget": [
+            -98.0,
+            79.0,
+            -99.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "preSupply": 4,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000"
+        },
+        {
+          "label": "Square - Triangle",
+          "target": [
+            -94.0,
+            79.0,
+            -106.0
+          ],
+          "standBlock": [
+            -141.0,
+            78.0,
+            -91.0
+          ],
+          "aimTarget": [
+            -94.0,
+            79.0,
+            -106.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "preSupply": 6,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000",
+          "standBlockLabel": "Square Block"
+        },
+        {
+          "label": "Square - Shop",
+          "target": [
+            -98.0,
+            79.0,
+            -113.0
+          ],
+          "aimTarget": [
+            -98.0,
+            79.0,
+            -113.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "preSupply": 7,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000"
+        },
+        {
+          "label": "",
+          "target": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "standBlock": [
+            -142.0,
+            77.0,
+            -87.0
+          ],
+          "aimTarget": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "size": 0.224,
+          "alert": false,
+          "color": "#00000000",
+          "standBlockLabel": "Square Bottom Block"
+        }
+      ]
+    },
+    {
+      "name": "slash",
+      "bounds": [
+        -124.0,
+        -92.0,
+        -105.0,
+        -62.0
+      ],
+      "waypoints": [
+        {
+          "label": "Slash - Slash",
+          "target": [
+            -98.0,
+            79.0,
+            -99.0
+          ],
+          "standBlock": [
+            -114.0,
+            77.0,
+            -69.0
+          ],
+          "aimTarget": [
+            -98.0,
+            79.0,
+            -99.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000",
+          "standBlockLabel": "Slash Block"
+        },
+        {
+          "label": "Slash - X Cannon",
+          "target": [
+            -129.5,
+            79.0,
+            -113.5
+          ],
+          "aimTarget": [
+            -129.5,
+            79.0,
+            -113.5
+          ],
+          "trajectoryType": "DOUBLE_HIGH",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 10.0,
+          "hideForPre": 2,
+          "size": 0.2176,
+          "alert": true,
+          "color": "#00000000"
+        },
+        {
+          "label": "Slash - Square",
+          "target": [
+            -140.5,
+            77.0,
+            -87.0
+          ],
+          "aimTarget": [
+            -140.5,
+            77.0,
+            -87.0
+          ],
+          "trajectoryType": "DOUBLE_HIGH",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 10.0,
+          "hideForPre": 3,
+          "size": 0.2176,
+          "alert": true,
+          "color": "#00000000"
+        }
+      ]
+    },
+    {
+      "name": "equals",
+      "bounds": [
+        -84.0,
+        -105.0,
+        -54.0,
+        -62.0
+      ],
+      "waypoints": [
+        {
+          "label": "Equals - Equals",
+          "target": [
+            -106.0,
+            79.0,
+            -99.0
+          ],
+          "standBlock": [
+            -66.0,
+            76.0,
+            -87.0
+          ],
+          "aimTarget": [
+            -106.0,
+            79.0,
+            -99.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000",
+          "standBlockLabel": "Equals Block"
+        },
+        {
+          "label": "Equals - Shop",
+          "target": [
+            -73.5,
+            79.0,
+            -133.0
+          ],
+          "aimTarget": [
+            -73.5,
+            79.0,
+            -133.0
+          ],
+          "trajectoryType": "DOUBLE_HIGH",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 10.0,
+          "size": 0.2176,
+          "alert": true,
+          "color": "#00000000"
+        }
+      ]
+    },
+    {
+      "name": "triangle",
+      "bounds": [
+        -78.0,
+        -126.0,
+        -54.0,
+        -105.0
+      ],
+      "waypoints": [
+        {
+          "label": "Triangle - Triangle",
+          "target": [
+            -94.0,
+            79.0,
+            -106.0
+          ],
+          "standBlock": [
+            -68.0,
+            77.0,
+            -123.0
+          ],
+          "aimTarget": [
+            -94.0,
+            79.0,
+            -106.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000",
+          "standBlockLabel": "Triangle Block"
+        },
+        {
+          "label": "Triangle - Shop",
+          "target": [
+            -73.5,
+            79.0,
+            -133.0
+          ],
+          "aimTarget": [
+            -73.5,
+            79.0,
+            -133.0
+          ],
+          "trajectoryType": "DOUBLE_HIGH",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 10.0,
+          "size": 0.2176,
+          "alert": true,
+          "color": "#00000000"
+        }
+      ]
+    },
+    {
+      "name": "shop",
+      "bounds": [
+        -96.0,
+        -153.0,
+        -54.0,
+        -126.0
+      ],
+      "waypoints": [
+        {
+          "label": "Shop - Shop",
+          "target": [
+            -98.0,
+            79.0,
+            -113.0
+          ],
+          "standBlock": [
+            -86.0,
+            78.0,
+            -129.0
+          ],
+          "aimTarget": [
+            -98.0,
+            79.0,
+            -113.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000",
+          "standBlockLabel": "Shop Block"
+        },
+        {
+          "label": "Shop - Sky Shop",
+          "target": [
+            -98.0,
+            79.0,
+            -113.0
+          ],
+          "aimTarget": [
+            -98.0,
+            79.0,
+            -113.0
+          ],
+          "trajectoryType": "SKY",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "size": 0.224,
+          "alert": true,
+          "color": "#00000000"
+        },
+        {
+          "label": "",
+          "target": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "standBlock": [
+            -71.0,
+            79.0,
+            -135.0
+          ],
+          "aimTarget": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "trajectoryType": "FLAT",
+          "projectionDistance": 13.0,
+          "landingOffsetTicks": 0.0,
+          "size": 0.224,
+          "alert": false,
+          "color": "#00000000",
+          "standBlockLabel": "Shop Long Block"
+        }
+      ]
+    }
+  ]
+}

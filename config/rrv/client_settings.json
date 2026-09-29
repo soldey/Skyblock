@@ -1,0 +1,76 @@
+{
+  "general": {
+    "show_item_view": "when_searching",
+    "show_side_panel": "enabled",
+    "client_settings_button": false,
+    "side_panel_settings_button": false
+  },
+  "style": {
+    "background": false,
+    "item_wrap_mode": true,
+    "namespace_tooltip": "hide",
+    "right_index": true,
+    "center_search": true,
+    "show_buttons": true,
+    "show_progress_bar": false,
+    "center_recipe_screen": true,
+    "recipe_book_theme": true,
+    "workstation_display": "hide",
+    "item_view_panel_max_width": 6,
+    "side_panel_max_width": 6
+  },
+  "advanced": {
+    "fluid_unit_droplets": false,
+    "show_recipe_id": false,
+    "local_fallback": "disabled",
+    "index_sources": {
+      "resource_packs": true,
+      "creative": true,
+      "registry": true,
+      "unique_recipe_output": false
+    },
+    "search_filters": {
+      "data_component": {
+        "prefix": "$",
+        "color": "gray",
+        "enabled": true
+      },
+      "creative_tab": {
+        "prefix": "%",
+        "color": "blue",
+        "enabled": true
+      },
+      "id": {
+        "prefix": ":",
+        "color": "green",
+        "enabled": true
+      },
+      "namespace": {
+        "prefix": "@",
+        "color": "gold",
+        "enabled": true
+      },
+      "jei:color": {
+        "prefix": "^",
+        "color": "yellow",
+        "enabled": false
+      },
+      "item_tag": {
+        "prefix": "#",
+        "color": "light_purple",
+        "enabled": true
+      }
+    },
+    "search_tooltips": true,
+    "update_on_background_thread": false
+  },
+  "behaviour": {
+    "recipe_book_button": false,
+    "wrap_scrolling": "on_buttons",
+    "side_panel_contents": "bookmarks",
+    "recipe_sharing": false
+  },
+  "development": {
+    "show_exclusion_areas": false
+  }
+}

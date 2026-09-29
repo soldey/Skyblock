@@ -1,0 +1,14 @@
+[
+    {
+        "message": "/nf sendCoords",
+        "keyCode": 92
+    },
+    {
+        "message": "/wardrobe",
+        "keyCode": 96
+    },
+    {
+        "message": "/eq",
+        "keyCode": 85
+    }
+]

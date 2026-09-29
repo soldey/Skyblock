@@ -1,0 +1,3048 @@
+{
+  "config_version_do_not_touch": 2,
+  "enabled": true,
+  "stack_groups": {
+    "c:animal_armors": {
+      "id": "c:animal_armors"
+    },
+    "c:buckets": {
+      "id": "c:buckets"
+    },
+    "c:buds": {
+      "id": "c:buds"
+    },
+    "c:concrete_powders": {
+      "id": "c:concrete_powders"
+    },
+    "c:concretes": {
+      "id": "c:concretes"
+    },
+    "c:dusts": {
+      "id": "c:dusts"
+    },
+    "c:dyes": {
+      "id": "c:dyes"
+    },
+    "c:foods": {
+      "id": "c:foods"
+    },
+    "c:glass_blocks": {
+      "id": "c:glass_blocks"
+    },
+    "c:glass_panes": {
+      "id": "c:glass_panes"
+    },
+    "c:glazed_terracottas": {
+      "id": "c:glazed_terracottas"
+    },
+    "c:music_discs": {
+      "id": "c:music_discs"
+    },
+    "c:nuggets": {
+      "id": "c:nuggets"
+    },
+    "c:ores": {
+      "id": "c:ores"
+    },
+    "c:seeds": {
+      "id": "c:seeds"
+    },
+    "c:shulker_boxes": {
+      "id": "c:shulker_boxes"
+    },
+    "minecraft:axes": {
+      "id": "minecraft:axes"
+    },
+    "minecraft:banners": {
+      "id": "minecraft:banners"
+    },
+    "minecraft:bars": {
+      "id": "minecraft:bars"
+    },
+    "minecraft:beds": {
+      "id": "minecraft:beds"
+    },
+    "minecraft:boats": {
+      "id": "minecraft:boats"
+    },
+    "minecraft:bundles": {
+      "id": "minecraft:bundles"
+    },
+    "minecraft:buttons": {
+      "id": "minecraft:buttons"
+    },
+    "minecraft:candles": {
+      "id": "minecraft:candles"
+    },
+    "minecraft:chains": {
+      "id": "minecraft:chains"
+    },
+    "minecraft:clonable_maps": {
+      "id": "minecraft:clonable_maps"
+    },
+    "minecraft:copper_chests": {
+      "id": "minecraft:copper_chests"
+    },
+    "minecraft:copper_golem_statues": {
+      "id": "minecraft:copper_golem_statues"
+    },
+    "minecraft:coral": {
+      "id": "minecraft:coral"
+    },
+    "minecraft:cushions": {
+      "id": "minecraft:cushions"
+    },
+    "minecraft:decorated_pot_sherds": {
+      "id": "minecraft:decorated_pot_sherds"
+    },
+    "minecraft:doors": {
+      "id": "minecraft:doors"
+    },
+    "minecraft:enchanted_books": {
+      "id": "minecraft:enchanted_books"
+    },
+    "minecraft:fence_gates": {
+      "id": "minecraft:fence_gates"
+    },
+    "minecraft:fences": {
+      "id": "minecraft:fences"
+    },
+    "minecraft:flowers": {
+      "id": "minecraft:flowers"
+    },
+    "minecraft:goat_horns": {
+      "id": "minecraft:goat_horns"
+    },
+    "minecraft:hanging_signs": {
+      "id": "minecraft:hanging_signs"
+    },
+    "minecraft:harnesses": {
+      "id": "minecraft:harnesses"
+    },
+    "minecraft:hoes": {
+      "id": "minecraft:hoes"
+    },
+    "minecraft:infested_blocks": {
+      "id": "minecraft:infested_blocks"
+    },
+    "minecraft:lanterns": {
+      "id": "minecraft:lanterns"
+    },
+    "minecraft:leaves": {
+      "id": "minecraft:leaves"
+    },
+    "minecraft:light": {
+      "id": "minecraft:light"
+    },
+    "minecraft:lightning_rods": {
+      "id": "minecraft:lightning_rods"
+    },
+    "minecraft:lingering_potions": {
+      "id": "minecraft:lingering_potions"
+    },
+    "minecraft:logs": {
+      "id": "minecraft:logs"
+    },
+    "minecraft:loom_patterns": {
+      "id": "minecraft:loom_patterns"
+    },
+    "minecraft:minecarts": {
+      "id": "minecraft:minecarts"
+    },
+    "minecraft:paintings": {
+      "id": "minecraft:paintings"
+    },
+    "minecraft:pickaxes": {
+      "id": "minecraft:pickaxes"
+    },
+    "minecraft:planks": {
+      "id": "minecraft:planks"
+    },
+    "minecraft:potions": {
+      "id": "minecraft:potions"
+    },
+    "minecraft:pressure_plates": {
+      "id": "minecraft:pressure_plates"
+    },
+    "minecraft:rails": {
+      "id": "minecraft:rails"
+    },
+    "minecraft:saplings": {
+      "id": "minecraft:saplings"
+    },
+    "minecraft:shovels": {
+      "id": "minecraft:shovels"
+    },
+    "minecraft:signs": {
+      "id": "minecraft:signs"
+    },
+    "minecraft:slabs": {
+      "id": "minecraft:slabs"
+    },
+    "minecraft:spawn_eggs": {
+      "id": "minecraft:spawn_eggs"
+    },
+    "minecraft:spears": {
+      "id": "minecraft:spears"
+    },
+    "minecraft:splash_potions": {
+      "id": "minecraft:splash_potions"
+    },
+    "minecraft:stairs": {
+      "id": "minecraft:stairs"
+    },
+    "minecraft:suspicious_stews": {
+      "id": "minecraft:suspicious_stews"
+    },
+    "minecraft:swords": {
+      "id": "minecraft:swords"
+    },
+    "minecraft:terracotta": {
+      "id": "minecraft:terracotta"
+    },
+    "minecraft:test_blocks": {
+      "id": "minecraft:test_blocks"
+    },
+    "minecraft:tipped_arrows": {
+      "id": "minecraft:tipped_arrows"
+    },
+    "minecraft:trapdoors": {
+      "id": "minecraft:trapdoors"
+    },
+    "minecraft:trim_templates": {
+      "id": "minecraft:trim_templates"
+    },
+    "minecraft:walls": {
+      "id": "minecraft:walls"
+    },
+    "minecraft:wooden_shelves": {
+      "id": "minecraft:wooden_shelves"
+    },
+    "minecraft:wool": {
+      "id": "minecraft:wool"
+    },
+    "minecraft:wool_carpets": {
+      "id": "minecraft:wool_carpets"
+    },
+    "skyrecipes:family/aatrox_mayor_monster": {
+      "id": "skyrecipes:family/aatrox_mayor_monster"
+    },
+    "skyrecipes:family/abicase_blue_red": {
+      "id": "skyrecipes:family/abicase_blue_red"
+    },
+    "skyrecipes:family/abicase_sumsung_1": {
+      "id": "skyrecipes:family/abicase_sumsung_1"
+    },
+    "skyrecipes:family/abiphone_flip_dragon": {
+      "id": "skyrecipes:family/abiphone_flip_dragon"
+    },
+    "skyrecipes:family/abysmal_lasso": {
+      "id": "skyrecipes:family/abysmal_lasso"
+    },
+    "skyrecipes:family/acacia_generator_1": {
+      "id": "skyrecipes:family/acacia_generator_1"
+    },
+    "skyrecipes:family/accretion_artifact": {
+      "id": "skyrecipes:family/accretion_artifact"
+    },
+    "skyrecipes:family/adaptive_belt": {
+      "id": "skyrecipes:family/adaptive_belt"
+    },
+    "skyrecipes:family/adaptive_boots": {
+      "id": "skyrecipes:family/adaptive_boots"
+    },
+    "skyrecipes:family/adaptive_chestplate": {
+      "id": "skyrecipes:family/adaptive_chestplate"
+    },
+    "skyrecipes:family/adaptive_helmet": {
+      "id": "skyrecipes:family/adaptive_helmet"
+    },
+    "skyrecipes:family/adaptive_leggings": {
+      "id": "skyrecipes:family/adaptive_leggings"
+    },
+    "skyrecipes:family/advanced_gardening_axe": {
+      "id": "skyrecipes:family/advanced_gardening_axe"
+    },
+    "skyrecipes:family/advanced_gardening_hoe": {
+      "id": "skyrecipes:family/advanced_gardening_hoe"
+    },
+    "skyrecipes:family/agaricus_cap": {
+      "id": "skyrecipes:family/agaricus_cap"
+    },
+    "skyrecipes:family/agarimoo_artifact": {
+      "id": "skyrecipes:family/agarimoo_artifact"
+    },
+    "skyrecipes:family/aiming_1": {
+      "id": "skyrecipes:family/aiming_1"
+    },
+    "skyrecipes:family/all_skills_super_boost": {
+      "id": "skyrecipes:family/all_skills_super_boost"
+    },
+    "skyrecipes:family/amalgamated_crimsonite_new": {
+      "id": "skyrecipes:family/amalgamated_crimsonite_new"
+    },
+    "skyrecipes:family/amber_power_scroll": {
+      "id": "skyrecipes:family/amber_power_scroll"
+    },
+    "skyrecipes:family/amethyst_crystal": {
+      "id": "skyrecipes:family/amethyst_crystal"
+    },
+    "skyrecipes:family/ancestral_spade": {
+      "id": "skyrecipes:family/ancestral_spade"
+    },
+    "skyrecipes:family/ancient_claw": {
+      "id": "skyrecipes:family/ancient_claw"
+    },
+    "skyrecipes:family/angler_1": {
+      "id": "skyrecipes:family/angler_1"
+    },
+    "skyrecipes:family/anguish_artifact": {
+      "id": "skyrecipes:family/anguish_artifact"
+    },
+    "skyrecipes:family/anita_artifact": {
+      "id": "skyrecipes:family/anita_artifact"
+    },
+    "skyrecipes:family/anti_sentient_pickaxe": {
+      "id": "skyrecipes:family/anti_sentient_pickaxe"
+    },
+    "skyrecipes:family/arachne_sanctuary_portal": {
+      "id": "skyrecipes:family/arachne_sanctuary_portal"
+    },
+    "skyrecipes:family/arcane_1": {
+      "id": "skyrecipes:family/arcane_1"
+    },
+    "skyrecipes:family/argofay_threebrother_1_rift_npc": {
+      "id": "skyrecipes:family/argofay_threebrother_1_rift_npc"
+    },
+    "skyrecipes:family/argofay_trafficker_1_rift_npc": {
+      "id": "skyrecipes:family/argofay_trafficker_1_rift_npc"
+    },
+    "skyrecipes:family/armadillo_5": {
+      "id": "skyrecipes:family/armadillo_5"
+    },
+    "skyrecipes:family/armor_of_the_resistance_boots": {
+      "id": "skyrecipes:family/armor_of_the_resistance_boots"
+    },
+    "skyrecipes:family/armor_of_the_resistance_chestplate": {
+      "id": "skyrecipes:family/armor_of_the_resistance_chestplate"
+    },
+    "skyrecipes:family/armor_of_the_resistance_helmet": {
+      "id": "skyrecipes:family/armor_of_the_resistance_helmet"
+    },
+    "skyrecipes:family/armor_of_the_resistance_leggings": {
+      "id": "skyrecipes:family/armor_of_the_resistance_leggings"
+    },
+    "skyrecipes:family/artifact_potion_affinity": {
+      "id": "skyrecipes:family/artifact_potion_affinity"
+    },
+    "skyrecipes:family/aspect_of_the_end": {
+      "id": "skyrecipes:family/aspect_of_the_end"
+    },
+    "skyrecipes:family/aspect_of_the_leech_1": {
+      "id": "skyrecipes:family/aspect_of_the_leech_1"
+    },
+    "skyrecipes:family/aurora_boots": {
+      "id": "skyrecipes:family/aurora_boots"
+    },
+    "skyrecipes:family/aurora_chestplate": {
+      "id": "skyrecipes:family/aurora_chestplate"
+    },
+    "skyrecipes:family/aurora_helmet": {
+      "id": "skyrecipes:family/aurora_helmet"
+    },
+    "skyrecipes:family/aurora_leggings": {
+      "id": "skyrecipes:family/aurora_leggings"
+    },
+    "skyrecipes:family/axe_fading_blue_rune_1": {
+      "id": "skyrecipes:family/axe_fading_blue_rune_1"
+    },
+    "skyrecipes:family/axe_fading_green_rune_1": {
+      "id": "skyrecipes:family/axe_fading_green_rune_1"
+    },
+    "skyrecipes:family/axe_fading_white_rune_1": {
+      "id": "skyrecipes:family/axe_fading_white_rune_1"
+    },
+    "skyrecipes:family/baby_yeti_5": {
+      "id": "skyrecipes:family/baby_yeti_5"
+    },
+    "skyrecipes:family/bal_4": {
+      "id": "skyrecipes:family/bal_4"
+    },
+    "skyrecipes:family/balloon_hat_2024_aqua": {
+      "id": "skyrecipes:family/balloon_hat_2024_aqua"
+    },
+    "skyrecipes:family/balloon_hat_2025_aqua": {
+      "id": "skyrecipes:family/balloon_hat_2025_aqua"
+    },
+    "skyrecipes:family/bane_of_arthropods_1": {
+      "id": "skyrecipes:family/bane_of_arthropods_1"
+    },
+    "skyrecipes:family/basic_fishing_net": {
+      "id": "skyrecipes:family/basic_fishing_net"
+    },
+    "skyrecipes:family/bat_5": {
+      "id": "skyrecipes:family/bat_5"
+    },
+    "skyrecipes:family/bat_artifact": {
+      "id": "skyrecipes:family/bat_artifact"
+    },
+    "skyrecipes:family/bat_person_artifact": {
+      "id": "skyrecipes:family/bat_person_artifact"
+    },
+    "skyrecipes:family/bat_wand": {
+      "id": "skyrecipes:family/bat_wand"
+    },
+    "skyrecipes:family/beacon_1": {
+      "id": "skyrecipes:family/beacon_1"
+    },
+    "skyrecipes:family/bear_bed": {
+      "id": "skyrecipes:family/bear_bed"
+    },
+    "skyrecipes:family/beastmaster_crest_legendary": {
+      "id": "skyrecipes:family/beastmaster_crest_legendary"
+    },
+    "skyrecipes:family/bee_5": {
+      "id": "skyrecipes:family/bee_5"
+    },
+    "skyrecipes:family/big_brain_3": {
+      "id": "skyrecipes:family/big_brain_3"
+    },
+    "skyrecipes:family/bingo_5": {
+      "id": "skyrecipes:family/bingo_5"
+    },
+    "skyrecipes:family/bingo_relic": {
+      "id": "skyrecipes:family/bingo_relic"
+    },
+    "skyrecipes:family/bioanalysis_artifact": {
+      "id": "skyrecipes:family/bioanalysis_artifact"
+    },
+    "skyrecipes:family/biohazard_boots": {
+      "id": "skyrecipes:family/biohazard_boots"
+    },
+    "skyrecipes:family/biohazard_helmet": {
+      "id": "skyrecipes:family/biohazard_helmet"
+    },
+    "skyrecipes:family/biohazard_leggings": {
+      "id": "skyrecipes:family/biohazard_leggings"
+    },
+    "skyrecipes:family/biohazard_space_red": {
+      "id": "skyrecipes:family/biohazard_space_red"
+    },
+    "skyrecipes:family/biohazard_suit": {
+      "id": "skyrecipes:family/biohazard_suit"
+    },
+    "skyrecipes:family/birch_generator_1": {
+      "id": "skyrecipes:family/birch_generator_1"
+    },
+    "skyrecipes:family/bite_rune_1": {
+      "id": "skyrecipes:family/bite_rune_1"
+    },
+    "skyrecipes:family/black_cat_5": {
+      "id": "skyrecipes:family/black_cat_5"
+    },
+    "skyrecipes:family/blast_protection_1": {
+      "id": "skyrecipes:family/blast_protection_1"
+    },
+    "skyrecipes:family/blaze_0": {
+      "id": "skyrecipes:family/blaze_0"
+    },
+    "skyrecipes:family/blaze_ashes": {
+      "id": "skyrecipes:family/blaze_ashes"
+    },
+    "skyrecipes:family/blaze_belt": {
+      "id": "skyrecipes:family/blaze_belt"
+    },
+    "skyrecipes:family/blaze_boots": {
+      "id": "skyrecipes:family/blaze_boots"
+    },
+    "skyrecipes:family/blaze_chestplate": {
+      "id": "skyrecipes:family/blaze_chestplate"
+    },
+    "skyrecipes:family/blaze_generator_1": {
+      "id": "skyrecipes:family/blaze_generator_1"
+    },
+    "skyrecipes:family/blaze_helmet": {
+      "id": "skyrecipes:family/blaze_helmet"
+    },
+    "skyrecipes:family/blaze_leggings": {
+      "id": "skyrecipes:family/blaze_leggings"
+    },
+    "skyrecipes:family/blessed_frog_diamond": {
+      "id": "skyrecipes:family/blessed_frog_diamond"
+    },
+    "skyrecipes:family/blessing_1": {
+      "id": "skyrecipes:family/blessing_1"
+    },
+    "skyrecipes:family/blobfish_diamond": {
+      "id": "skyrecipes:family/blobfish_diamond"
+    },
+    "skyrecipes:family/blood_2_rune_1": {
+      "id": "skyrecipes:family/blood_2_rune_1"
+    },
+    "skyrecipes:family/blood_donor_artifact": {
+      "id": "skyrecipes:family/blood_donor_artifact"
+    },
+    "skyrecipes:family/blood_god_sigil": {
+      "id": "skyrecipes:family/blood_god_sigil"
+    },
+    "skyrecipes:family/blue_whale_4": {
+      "id": "skyrecipes:family/blue_whale_4"
+    },
+    "skyrecipes:family/bluertooth_ring": {
+      "id": "skyrecipes:family/bluertooth_ring"
+    },
+    "skyrecipes:family/bone": {
+      "id": "skyrecipes:family/bone"
+    },
+    "skyrecipes:family/bone_boomerang": {
+      "id": "skyrecipes:family/bone_boomerang"
+    },
+    "skyrecipes:family/bone_necklace": {
+      "id": "skyrecipes:family/bone_necklace"
+    },
+    "skyrecipes:family/bonzo_boss": {
+      "id": "skyrecipes:family/bonzo_boss"
+    },
+    "skyrecipes:family/bonzo_mask": {
+      "id": "skyrecipes:family/bonzo_mask"
+    },
+    "skyrecipes:family/bonzo_staff": {
+      "id": "skyrecipes:family/bonzo_staff"
+    },
+    "skyrecipes:family/booster_cookie": {
+      "id": "skyrecipes:family/booster_cookie"
+    },
+    "skyrecipes:family/boss_corleone_boss": {
+      "id": "skyrecipes:family/boss_corleone_boss"
+    },
+    "skyrecipes:family/bucket_of_frogspawn": {
+      "id": "skyrecipes:family/bucket_of_frogspawn"
+    },
+    "skyrecipes:family/bug_blender_5": {
+      "id": "skyrecipes:family/bug_blender_5"
+    },
+    "skyrecipes:family/bullfrog_diamond": {
+      "id": "skyrecipes:family/bullfrog_diamond"
+    },
+    "skyrecipes:family/burststopper_artifact": {
+      "id": "skyrecipes:family/burststopper_artifact"
+    },
+    "skyrecipes:family/cactus_generator_1": {
+      "id": "skyrecipes:family/cactus_generator_1"
+    },
+    "skyrecipes:family/cactus_knife_3": {
+      "id": "skyrecipes:family/cactus_knife_3"
+    },
+    "skyrecipes:family/cake_hat_2026_aqua": {
+      "id": "skyrecipes:family/cake_hat_2026_aqua"
+    },
+    "skyrecipes:family/campfire_talisman_1": {
+      "id": "skyrecipes:family/campfire_talisman_1"
+    },
+    "skyrecipes:family/candy_relic": {
+      "id": "skyrecipes:family/candy_relic"
+    },
+    "skyrecipes:family/canopy_boots": {
+      "id": "skyrecipes:family/canopy_boots"
+    },
+    "skyrecipes:family/canopy_chestplate": {
+      "id": "skyrecipes:family/canopy_chestplate"
+    },
+    "skyrecipes:family/canopy_helmet": {
+      "id": "skyrecipes:family/canopy_helmet"
+    },
+    "skyrecipes:family/canopy_leggings": {
+      "id": "skyrecipes:family/canopy_leggings"
+    },
+    "skyrecipes:family/carrot_generator_1": {
+      "id": "skyrecipes:family/carrot_generator_1"
+    },
+    "skyrecipes:family/carrot_item": {
+      "id": "skyrecipes:family/carrot_item"
+    },
+    "skyrecipes:family/caster_1": {
+      "id": "skyrecipes:family/caster_1"
+    },
+    "skyrecipes:family/cave_frog_diamond": {
+      "id": "skyrecipes:family/cave_frog_diamond"
+    },
+    "skyrecipes:family/cavespider_generator_1": {
+      "id": "skyrecipes:family/cavespider_generator_1"
+    },
+    "skyrecipes:family/cayenne_4": {
+      "id": "skyrecipes:family/cayenne_4"
+    },
+    "skyrecipes:family/century_artifact": {
+      "id": "skyrecipes:family/century_artifact"
+    },
+    "skyrecipes:family/century_memento_green": {
+      "id": "skyrecipes:family/century_memento_green"
+    },
+    "skyrecipes:family/challenger_belt": {
+      "id": "skyrecipes:family/challenger_belt"
+    },
+    "skyrecipes:family/challenger_boots": {
+      "id": "skyrecipes:family/challenger_boots"
+    },
+    "skyrecipes:family/challenger_bracelet": {
+      "id": "skyrecipes:family/challenger_bracelet"
+    },
+    "skyrecipes:family/challenger_chestplate": {
+      "id": "skyrecipes:family/challenger_chestplate"
+    },
+    "skyrecipes:family/challenger_cloak": {
+      "id": "skyrecipes:family/challenger_cloak"
+    },
+    "skyrecipes:family/challenger_helmet": {
+      "id": "skyrecipes:family/challenger_helmet"
+    },
+    "skyrecipes:family/challenger_leggings": {
+      "id": "skyrecipes:family/challenger_leggings"
+    },
+    "skyrecipes:family/challenger_necklace": {
+      "id": "skyrecipes:family/challenger_necklace"
+    },
+    "skyrecipes:family/chance_1": {
+      "id": "skyrecipes:family/chance_1"
+    },
+    "skyrecipes:family/charm_1": {
+      "id": "skyrecipes:family/charm_1"
+    },
+    "skyrecipes:family/cheetah_talisman": {
+      "id": "skyrecipes:family/cheetah_talisman"
+    },
+    "skyrecipes:family/chicken_4": {
+      "id": "skyrecipes:family/chicken_4"
+    },
+    "skyrecipes:family/chicken_axe": {
+      "id": "skyrecipes:family/chicken_axe"
+    },
+    "skyrecipes:family/chicken_generator_1": {
+      "id": "skyrecipes:family/chicken_generator_1"
+    },
+    "skyrecipes:family/chili_pepper": {
+      "id": "skyrecipes:family/chili_pepper"
+    },
+    "skyrecipes:family/chisel": {
+      "id": "skyrecipes:family/chisel"
+    },
+    "skyrecipes:family/clay_ball": {
+      "id": "skyrecipes:family/clay_ball"
+    },
+    "skyrecipes:family/clay_generator_1": {
+      "id": "skyrecipes:family/clay_generator_1"
+    },
+    "skyrecipes:family/cleave_1": {
+      "id": "skyrecipes:family/cleave_1"
+    },
+    "skyrecipes:family/cleaver": {
+      "id": "skyrecipes:family/cleaver"
+    },
+    "skyrecipes:family/clouds_rune_1": {
+      "id": "skyrecipes:family/clouds_rune_1"
+    },
+    "skyrecipes:family/coal": {
+      "id": "skyrecipes:family/coal"
+    },
+    "skyrecipes:family/coal_generator_1": {
+      "id": "skyrecipes:family/coal_generator_1"
+    },
+    "skyrecipes:family/cobblestone": {
+      "id": "skyrecipes:family/cobblestone"
+    },
+    "skyrecipes:family/cobblestone_generator_1": {
+      "id": "skyrecipes:family/cobblestone_generator_1"
+    },
+    "skyrecipes:family/coco_chopper_3": {
+      "id": "skyrecipes:family/coco_chopper_3"
+    },
+    "skyrecipes:family/cocoa_generator_1": {
+      "id": "skyrecipes:family/cocoa_generator_1"
+    },
+    "skyrecipes:family/common_frog_diamond": {
+      "id": "skyrecipes:family/common_frog_diamond"
+    },
+    "skyrecipes:family/compost": {
+      "id": "skyrecipes:family/compost"
+    },
+    "skyrecipes:family/copper_artifact": {
+      "id": "skyrecipes:family/copper_artifact"
+    },
+    "skyrecipes:family/corrupted_fragment": {
+      "id": "skyrecipes:family/corrupted_fragment"
+    },
+    "skyrecipes:family/corruption_1": {
+      "id": "skyrecipes:family/corruption_1"
+    },
+    "skyrecipes:family/country_greenhouse_skin": {
+      "id": "skyrecipes:family/country_greenhouse_skin"
+    },
+    "skyrecipes:family/couture_rune_1": {
+      "id": "skyrecipes:family/couture_rune_1"
+    },
+    "skyrecipes:family/cow_generator_1": {
+      "id": "skyrecipes:family/cow_generator_1"
+    },
+    "skyrecipes:family/creeper_generator_1": {
+      "id": "skyrecipes:family/creeper_generator_1"
+    },
+    "skyrecipes:family/crimson_boots": {
+      "id": "skyrecipes:family/crimson_boots"
+    },
+    "skyrecipes:family/crimson_chestplate": {
+      "id": "skyrecipes:family/crimson_chestplate"
+    },
+    "skyrecipes:family/crimson_helmet": {
+      "id": "skyrecipes:family/crimson_helmet"
+    },
+    "skyrecipes:family/crimson_leggings": {
+      "id": "skyrecipes:family/crimson_leggings"
+    },
+    "skyrecipes:family/critical_1": {
+      "id": "skyrecipes:family/critical_1"
+    },
+    "skyrecipes:family/crow_0": {
+      "id": "skyrecipes:family/crow_0"
+    },
+    "skyrecipes:family/crown_of_greed": {
+      "id": "skyrecipes:family/crown_of_greed"
+    },
+    "skyrecipes:family/crude_gabagool": {
+      "id": "skyrecipes:family/crude_gabagool"
+    },
+    "skyrecipes:family/crux_talisman_7": {
+      "id": "skyrecipes:family/crux_talisman_7"
+    },
+    "skyrecipes:family/cubism_1": {
+      "id": "skyrecipes:family/cubism_1"
+    },
+    "skyrecipes:family/daedalus_axe": {
+      "id": "skyrecipes:family/daedalus_axe"
+    },
+    "skyrecipes:family/dante_talisman": {
+      "id": "skyrecipes:family/dante_talisman"
+    },
+    "skyrecipes:family/dark_goggles": {
+      "id": "skyrecipes:family/dark_goggles"
+    },
+    "skyrecipes:family/dark_oak_generator_1": {
+      "id": "skyrecipes:family/dark_oak_generator_1"
+    },
+    "skyrecipes:family/darkness_within_rune_1": {
+      "id": "skyrecipes:family/darkness_within_rune_1"
+    },
+    "skyrecipes:family/dedication_1": {
+      "id": "skyrecipes:family/dedication_1"
+    },
+    "skyrecipes:family/depth_strider_1": {
+      "id": "skyrecipes:family/depth_strider_1"
+    },
+    "skyrecipes:family/destruction_cloak": {
+      "id": "skyrecipes:family/destruction_cloak"
+    },
+    "skyrecipes:family/diamond": {
+      "id": "skyrecipes:family/diamond"
+    },
+    "skyrecipes:family/diamond_generator_1": {
+      "id": "skyrecipes:family/diamond_generator_1"
+    },
+    "skyrecipes:family/divine_gift_1": {
+      "id": "skyrecipes:family/divine_gift_1"
+    },
+    "skyrecipes:family/dojo_black_belt": {
+      "id": "skyrecipes:family/dojo_black_belt"
+    },
+    "skyrecipes:family/dolphin_4": {
+      "id": "skyrecipes:family/dolphin_4"
+    },
+    "skyrecipes:family/draconic_artifact": {
+      "id": "skyrecipes:family/draconic_artifact"
+    },
+    "skyrecipes:family/dragon_hunter_1": {
+      "id": "skyrecipes:family/dragon_hunter_1"
+    },
+    "skyrecipes:family/dragon_rune_1": {
+      "id": "skyrecipes:family/dragon_rune_1"
+    },
+    "skyrecipes:family/dye_aquamarine": {
+      "id": "skyrecipes:family/dye_aquamarine"
+    },
+    "skyrecipes:family/eerie_4": {
+      "id": "skyrecipes:family/eerie_4"
+    },
+    "skyrecipes:family/efficiency_1": {
+      "id": "skyrecipes:family/efficiency_1"
+    },
+    "skyrecipes:family/egg": {
+      "id": "skyrecipes:family/egg"
+    },
+    "skyrecipes:family/elephant_5": {
+      "id": "skyrecipes:family/elephant_5"
+    },
+    "skyrecipes:family/emerald": {
+      "id": "skyrecipes:family/emerald"
+    },
+    "skyrecipes:family/emerald_artifact": {
+      "id": "skyrecipes:family/emerald_artifact"
+    },
+    "skyrecipes:family/emerald_generator_1": {
+      "id": "skyrecipes:family/emerald_generator_1"
+    },
+    "skyrecipes:family/emperor_artifact": {
+      "id": "skyrecipes:family/emperor_artifact"
+    },
+    "skyrecipes:family/enchant_rune_1": {
+      "id": "skyrecipes:family/enchant_rune_1"
+    },
+    "skyrecipes:family/enchanted_melon": {
+      "id": "skyrecipes:family/enchanted_melon"
+    },
+    "skyrecipes:family/enchanted_pumpkin": {
+      "id": "skyrecipes:family/enchanted_pumpkin"
+    },
+    "skyrecipes:family/enchanted_sugar": {
+      "id": "skyrecipes:family/enchanted_sugar"
+    },
+    "skyrecipes:family/ender_dragon_4": {
+      "id": "skyrecipes:family/ender_dragon_4"
+    },
+    "skyrecipes:family/ender_pearl": {
+      "id": "skyrecipes:family/ender_pearl"
+    },
+    "skyrecipes:family/ender_relic": {
+      "id": "skyrecipes:family/ender_relic"
+    },
+    "skyrecipes:family/ender_slayer_1": {
+      "id": "skyrecipes:family/ender_slayer_1"
+    },
+    "skyrecipes:family/ender_stone": {
+      "id": "skyrecipes:family/ender_stone"
+    },
+    "skyrecipes:family/ender_stone_generator_1": {
+      "id": "skyrecipes:family/ender_stone_generator_1"
+    },
+    "skyrecipes:family/enderman_5": {
+      "id": "skyrecipes:family/enderman_5"
+    },
+    "skyrecipes:family/enderman_generator_1": {
+      "id": "skyrecipes:family/enderman_generator_1"
+    },
+    "skyrecipes:family/endermite_5": {
+      "id": "skyrecipes:family/endermite_5"
+    },
+    "skyrecipes:family/endersnake_rune_1": {
+      "id": "skyrecipes:family/endersnake_rune_1"
+    },
+    "skyrecipes:family/epoch_cake_aqua": {
+      "id": "skyrecipes:family/epoch_cake_aqua"
+    },
+    "skyrecipes:family/essence_wither": {
+      "id": "skyrecipes:family/essence_wither"
+    },
+    "skyrecipes:family/eternal_hoof": {
+      "id": "skyrecipes:family/eternal_hoof"
+    },
+    "skyrecipes:family/execute_1": {
+      "id": "skyrecipes:family/execute_1"
+    },
+    "skyrecipes:family/exp_bottle": {
+      "id": "skyrecipes:family/exp_bottle"
+    },
+    "skyrecipes:family/experience_1": {
+      "id": "skyrecipes:family/experience_1"
+    },
+    "skyrecipes:family/exploding_frog_diamond": {
+      "id": "skyrecipes:family/exploding_frog_diamond"
+    },
+    "skyrecipes:family/extra_large_gemstone_sack": {
+      "id": "skyrecipes:family/extra_large_gemstone_sack"
+    },
+    "skyrecipes:family/faction_rabbit_alley": {
+      "id": "skyrecipes:family/faction_rabbit_alley"
+    },
+    "skyrecipes:family/faction_rabbit_anchor": {
+      "id": "skyrecipes:family/faction_rabbit_anchor"
+    },
+    "skyrecipes:family/faction_rabbit_aster": {
+      "id": "skyrecipes:family/faction_rabbit_aster"
+    },
+    "skyrecipes:family/faction_rabbit_avalanche": {
+      "id": "skyrecipes:family/faction_rabbit_avalanche"
+    },
+    "skyrecipes:family/farm_suit_boots": {
+      "id": "skyrecipes:family/farm_suit_boots"
+    },
+    "skyrecipes:family/farm_suit_chestplate": {
+      "id": "skyrecipes:family/farm_suit_chestplate"
+    },
+    "skyrecipes:family/farm_suit_helmet": {
+      "id": "skyrecipes:family/farm_suit_helmet"
+    },
+    "skyrecipes:family/farm_suit_leggings": {
+      "id": "skyrecipes:family/farm_suit_leggings"
+    },
+    "skyrecipes:family/farmer_boots": {
+      "id": "skyrecipes:family/farmer_boots"
+    },
+    "skyrecipes:family/feast_5": {
+      "id": "skyrecipes:family/feast_5"
+    },
+    "skyrecipes:family/feather": {
+      "id": "skyrecipes:family/feather"
+    },
+    "skyrecipes:family/feather_artifact": {
+      "id": "skyrecipes:family/feather_artifact"
+    },
+    "skyrecipes:family/feather_falling_1": {
+      "id": "skyrecipes:family/feather_falling_1"
+    },
+    "skyrecipes:family/felthorn_reaper": {
+      "id": "skyrecipes:family/felthorn_reaper"
+    },
+    "skyrecipes:family/ferocious_mana_1": {
+      "id": "skyrecipes:family/ferocious_mana_1"
+    },
+    "skyrecipes:family/fervor_boots": {
+      "id": "skyrecipes:family/fervor_boots"
+    },
+    "skyrecipes:family/fervor_chestplate": {
+      "id": "skyrecipes:family/fervor_chestplate"
+    },
+    "skyrecipes:family/fervor_helmet": {
+      "id": "skyrecipes:family/fervor_helmet"
+    },
+    "skyrecipes:family/fervor_leggings": {
+      "id": "skyrecipes:family/fervor_leggings"
+    },
+    "skyrecipes:family/fiery_burst_rune_1": {
+      "id": "skyrecipes:family/fiery_burst_rune_1"
+    },
+    "skyrecipes:family/fig_axe": {
+      "id": "skyrecipes:family/fig_axe"
+    },
+    "skyrecipes:family/fig_log": {
+      "id": "skyrecipes:family/fig_log"
+    },
+    "skyrecipes:family/fire_aspect_1": {
+      "id": "skyrecipes:family/fire_aspect_1"
+    },
+    "skyrecipes:family/fire_protection_1": {
+      "id": "skyrecipes:family/fire_protection_1"
+    },
+    "skyrecipes:family/fire_spiral_rune_1": {
+      "id": "skyrecipes:family/fire_spiral_rune_1"
+    },
+    "skyrecipes:family/firedust_dagger": {
+      "id": "skyrecipes:family/firedust_dagger"
+    },
+    "skyrecipes:family/first_master_star": {
+      "id": "skyrecipes:family/first_master_star"
+    },
+    "skyrecipes:family/first_strike_1": {
+      "id": "skyrecipes:family/first_strike_1"
+    },
+    "skyrecipes:family/fishing_generator_1": {
+      "id": "skyrecipes:family/fishing_generator_1"
+    },
+    "skyrecipes:family/flame_1": {
+      "id": "skyrecipes:family/flame_1"
+    },
+    "skyrecipes:family/flame_breaker_boots": {
+      "id": "skyrecipes:family/flame_breaker_boots"
+    },
+    "skyrecipes:family/flame_breaker_chestplate": {
+      "id": "skyrecipes:family/flame_breaker_chestplate"
+    },
+    "skyrecipes:family/flame_breaker_helmet": {
+      "id": "skyrecipes:family/flame_breaker_helmet"
+    },
+    "skyrecipes:family/flame_breaker_leggings": {
+      "id": "skyrecipes:family/flame_breaker_leggings"
+    },
+    "skyrecipes:family/flint": {
+      "id": "skyrecipes:family/flint"
+    },
+    "skyrecipes:family/flower_generator_1": {
+      "id": "skyrecipes:family/flower_generator_1"
+    },
+    "skyrecipes:family/flower_of_truth": {
+      "id": "skyrecipes:family/flower_of_truth"
+    },
+    "skyrecipes:family/flyfish_diamond": {
+      "id": "skyrecipes:family/flyfish_diamond"
+    },
+    "skyrecipes:family/flying_fish_5": {
+      "id": "skyrecipes:family/flying_fish_5"
+    },
+    "skyrecipes:family/forest_pledge_3": {
+      "id": "skyrecipes:family/forest_pledge_3"
+    },
+    "skyrecipes:family/fortune_1": {
+      "id": "skyrecipes:family/fortune_1"
+    },
+    "skyrecipes:family/fractured_mithril_pickaxe": {
+      "id": "skyrecipes:family/fractured_mithril_pickaxe"
+    },
+    "skyrecipes:family/fractured_montezuma_soul_3": {
+      "id": "skyrecipes:family/fractured_montezuma_soul_3"
+    },
+    "skyrecipes:family/frail_1": {
+      "id": "skyrecipes:family/frail_1"
+    },
+    "skyrecipes:family/freshly_baked_heirloom": {
+      "id": "skyrecipes:family/freshly_baked_heirloom"
+    },
+    "skyrecipes:family/fried_frozen_chicken": {
+      "id": "skyrecipes:family/fried_frozen_chicken"
+    },
+    "skyrecipes:family/frog_5": {
+      "id": "skyrecipes:family/frog_5"
+    },
+    "skyrecipes:family/froggles_diamond": {
+      "id": "skyrecipes:family/froggles_diamond"
+    },
+    "skyrecipes:family/frost_walker_1": {
+      "id": "skyrecipes:family/frost_walker_1"
+    },
+    "skyrecipes:family/frozen_adventurer_miniboss": {
+      "id": "skyrecipes:family/frozen_adventurer_miniboss"
+    },
+    "skyrecipes:family/fungi_cutter_3": {
+      "id": "skyrecipes:family/fungi_cutter_3"
+    },
+    "skyrecipes:family/garden_scythe": {
+      "id": "skyrecipes:family/garden_scythe"
+    },
+    "skyrecipes:family/gem_rune_1": {
+      "id": "skyrecipes:family/gem_rune_1"
+    },
+    "skyrecipes:family/gemstone_drill_4": {
+      "id": "skyrecipes:family/gemstone_drill_4"
+    },
+    "skyrecipes:family/ghast_cloak": {
+      "id": "skyrecipes:family/ghast_cloak"
+    },
+    "skyrecipes:family/ghast_generator_1": {
+      "id": "skyrecipes:family/ghast_generator_1"
+    },
+    "skyrecipes:family/ghast_tear": {
+      "id": "skyrecipes:family/ghast_tear"
+    },
+    "skyrecipes:family/ghoul_4": {
+      "id": "skyrecipes:family/ghoul_4"
+    },
+    "skyrecipes:family/giant_killer_1": {
+      "id": "skyrecipes:family/giant_killer_1"
+    },
+    "skyrecipes:family/giant_pig_ear": {
+      "id": "skyrecipes:family/giant_pig_ear"
+    },
+    "skyrecipes:family/giant_seal_plushie": {
+      "id": "skyrecipes:family/giant_seal_plushie"
+    },
+    "skyrecipes:family/giant_sloth_claw": {
+      "id": "skyrecipes:family/giant_sloth_claw"
+    },
+    "skyrecipes:family/giant_witch_cauldron": {
+      "id": "skyrecipes:family/giant_witch_cauldron"
+    },
+    "skyrecipes:family/gift_gold_backpack": {
+      "id": "skyrecipes:family/gift_gold_backpack"
+    },
+    "skyrecipes:family/gillsplash_belt": {
+      "id": "skyrecipes:family/gillsplash_belt"
+    },
+    "skyrecipes:family/gillsplash_cloak": {
+      "id": "skyrecipes:family/gillsplash_cloak"
+    },
+    "skyrecipes:family/gillsplash_gloves": {
+      "id": "skyrecipes:family/gillsplash_gloves"
+    },
+    "skyrecipes:family/giraffe_4": {
+      "id": "skyrecipes:family/giraffe_4"
+    },
+    "skyrecipes:family/glacial_artifact": {
+      "id": "skyrecipes:family/glacial_artifact"
+    },
+    "skyrecipes:family/glacial_scythe": {
+      "id": "skyrecipes:family/glacial_scythe"
+    },
+    "skyrecipes:family/glacite": {
+      "id": "skyrecipes:family/glacite"
+    },
+    "skyrecipes:family/glacite_golem_0": {
+      "id": "skyrecipes:family/glacite_golem_0"
+    },
+    "skyrecipes:family/glistening_melon_flux": {
+      "id": "skyrecipes:family/glistening_melon_flux"
+    },
+    "skyrecipes:family/glossy_mineral_talisman": {
+      "id": "skyrecipes:family/glossy_mineral_talisman"
+    },
+    "skyrecipes:family/glowstone_dust": {
+      "id": "skyrecipes:family/glowstone_dust"
+    },
+    "skyrecipes:family/glowstone_gauntlet": {
+      "id": "skyrecipes:family/glowstone_gauntlet"
+    },
+    "skyrecipes:family/glowstone_generator_1": {
+      "id": "skyrecipes:family/glowstone_generator_1"
+    },
+    "skyrecipes:family/glyph_conclamatus": {
+      "id": "skyrecipes:family/glyph_conclamatus"
+    },
+    "skyrecipes:family/goblin_omelette": {
+      "id": "skyrecipes:family/goblin_omelette"
+    },
+    "skyrecipes:family/gold_bonzo_head": {
+      "id": "skyrecipes:family/gold_bonzo_head"
+    },
+    "skyrecipes:family/gold_generator_1": {
+      "id": "skyrecipes:family/gold_generator_1"
+    },
+    "skyrecipes:family/gold_gift_talisman": {
+      "id": "skyrecipes:family/gold_gift_talisman"
+    },
+    "skyrecipes:family/gold_ingot": {
+      "id": "skyrecipes:family/gold_ingot"
+    },
+    "skyrecipes:family/gold_livid_head": {
+      "id": "skyrecipes:family/gold_livid_head"
+    },
+    "skyrecipes:family/gold_necron_head": {
+      "id": "skyrecipes:family/gold_necron_head"
+    },
+    "skyrecipes:family/gold_professor_head": {
+      "id": "skyrecipes:family/gold_professor_head"
+    },
+    "skyrecipes:family/gold_sadan_head": {
+      "id": "skyrecipes:family/gold_sadan_head"
+    },
+    "skyrecipes:family/gold_scarf_head": {
+      "id": "skyrecipes:family/gold_scarf_head"
+    },
+    "skyrecipes:family/gold_thorn_head": {
+      "id": "skyrecipes:family/gold_thorn_head"
+    },
+    "skyrecipes:family/golden_fish_diamond": {
+      "id": "skyrecipes:family/golden_fish_diamond"
+    },
+    "skyrecipes:family/golden_rune_1": {
+      "id": "skyrecipes:family/golden_rune_1"
+    },
+    "skyrecipes:family/goldor_the_fish": {
+      "id": "skyrecipes:family/goldor_the_fish"
+    },
+    "skyrecipes:family/golem_4": {
+      "id": "skyrecipes:family/golem_4"
+    },
+    "skyrecipes:family/grandma_wolf_4": {
+      "id": "skyrecipes:family/grandma_wolf_4"
+    },
+    "skyrecipes:family/gratitude_artifact": {
+      "id": "skyrecipes:family/gratitude_artifact"
+    },
+    "skyrecipes:family/gravel_generator_1": {
+      "id": "skyrecipes:family/gravel_generator_1"
+    },
+    "skyrecipes:family/great_spook_artifact": {
+      "id": "skyrecipes:family/great_spook_artifact"
+    },
+    "skyrecipes:family/green_thumb_1": {
+      "id": "skyrecipes:family/green_thumb_1"
+    },
+    "skyrecipes:family/griffin_5": {
+      "id": "skyrecipes:family/griffin_5"
+    },
+    "skyrecipes:family/griffin_upgrade_stone_mythic": {
+      "id": "skyrecipes:family/griffin_upgrade_stone_mythic"
+    },
+    "skyrecipes:family/growth_1": {
+      "id": "skyrecipes:family/growth_1"
+    },
+    "skyrecipes:family/growth_boots": {
+      "id": "skyrecipes:family/growth_boots"
+    },
+    "skyrecipes:family/growth_chestplate": {
+      "id": "skyrecipes:family/growth_chestplate"
+    },
+    "skyrecipes:family/growth_helmet": {
+      "id": "skyrecipes:family/growth_helmet"
+    },
+    "skyrecipes:family/growth_leggings": {
+      "id": "skyrecipes:family/growth_leggings"
+    },
+    "skyrecipes:family/guardian_5": {
+      "id": "skyrecipes:family/guardian_5"
+    },
+    "skyrecipes:family/gusher_diamond": {
+      "id": "skyrecipes:family/gusher_diamond"
+    },
+    "skyrecipes:family/hard_stone": {
+      "id": "skyrecipes:family/hard_stone"
+    },
+    "skyrecipes:family/hard_stone_generator_1": {
+      "id": "skyrecipes:family/hard_stone_generator_1"
+    },
+    "skyrecipes:family/hardened_diamond_boots": {
+      "id": "skyrecipes:family/hardened_diamond_boots"
+    },
+    "skyrecipes:family/hardened_diamond_chestplate": {
+      "id": "skyrecipes:family/hardened_diamond_chestplate"
+    },
+    "skyrecipes:family/hardened_diamond_helmet": {
+      "id": "skyrecipes:family/hardened_diamond_helmet"
+    },
+    "skyrecipes:family/hardened_diamond_leggings": {
+      "id": "skyrecipes:family/hardened_diamond_leggings"
+    },
+    "skyrecipes:family/hardened_mana_1": {
+      "id": "skyrecipes:family/hardened_mana_1"
+    },
+    "skyrecipes:family/harvesting_1": {
+      "id": "skyrecipes:family/harvesting_1"
+    },
+    "skyrecipes:family/haste_artifact": {
+      "id": "skyrecipes:family/haste_artifact"
+    },
+    "skyrecipes:family/healing_melon": {
+      "id": "skyrecipes:family/healing_melon"
+    },
+    "skyrecipes:family/healing_ring": {
+      "id": "skyrecipes:family/healing_ring"
+    },
+    "skyrecipes:family/hearts_rune_1": {
+      "id": "skyrecipes:family/hearts_rune_1"
+    },
+    "skyrecipes:family/helianthus_relic": {
+      "id": "skyrecipes:family/helianthus_relic"
+    },
+    "skyrecipes:family/helix_log": {
+      "id": "skyrecipes:family/helix_log"
+    },
+    "skyrecipes:family/hellfire_rod": {
+      "id": "skyrecipes:family/hellfire_rod"
+    },
+    "skyrecipes:family/hermit_crab_5": {
+      "id": "skyrecipes:family/hermit_crab_5"
+    },
+    "skyrecipes:family/highlands_frog_diamond": {
+      "id": "skyrecipes:family/highlands_frog_diamond"
+    },
+    "skyrecipes:family/hoe_of_greatest_tilling": {
+      "id": "skyrecipes:family/hoe_of_greatest_tilling"
+    },
+    "skyrecipes:family/holiday_chest_ender_backpack": {
+      "id": "skyrecipes:family/holiday_chest_ender_backpack"
+    },
+    "skyrecipes:family/hollow_boots": {
+      "id": "skyrecipes:family/hollow_boots"
+    },
+    "skyrecipes:family/hollow_chestplate": {
+      "id": "skyrecipes:family/hollow_chestplate"
+    },
+    "skyrecipes:family/hollow_helmet": {
+      "id": "skyrecipes:family/hollow_helmet"
+    },
+    "skyrecipes:family/hollow_leggings": {
+      "id": "skyrecipes:family/hollow_leggings"
+    },
+    "skyrecipes:family/honeycomb": {
+      "id": "skyrecipes:family/honeycomb"
+    },
+    "skyrecipes:family/honeycomb_artifact": {
+      "id": "skyrecipes:family/honeycomb_artifact"
+    },
+    "skyrecipes:family/hope_of_the_resistance": {
+      "id": "skyrecipes:family/hope_of_the_resistance"
+    },
+    "skyrecipes:family/horse_4": {
+      "id": "skyrecipes:family/horse_4"
+    },
+    "skyrecipes:family/hot_rune_1": {
+      "id": "skyrecipes:family/hot_rune_1"
+    },
+    "skyrecipes:family/hound_4": {
+      "id": "skyrecipes:family/hound_4"
+    },
+    "skyrecipes:family/hunter_ring": {
+      "id": "skyrecipes:family/hunter_ring"
+    },
+    "skyrecipes:family/hydro_can_1000": {
+      "id": "skyrecipes:family/hydro_can_1000"
+    },
+    "skyrecipes:family/ice": {
+      "id": "skyrecipes:family/ice"
+    },
+    "skyrecipes:family/ice_cold_1": {
+      "id": "skyrecipes:family/ice_cold_1"
+    },
+    "skyrecipes:family/ice_generator_1": {
+      "id": "skyrecipes:family/ice_generator_1"
+    },
+    "skyrecipes:family/ice_hunk": {
+      "id": "skyrecipes:family/ice_hunk"
+    },
+    "skyrecipes:family/ice_rune_1": {
+      "id": "skyrecipes:family/ice_rune_1"
+    },
+    "skyrecipes:family/ice_spray_wand": {
+      "id": "skyrecipes:family/ice_spray_wand"
+    },
+    "skyrecipes:family/impaling_1": {
+      "id": "skyrecipes:family/impaling_1"
+    },
+    "skyrecipes:family/infernal_kuudra_core": {
+      "id": "skyrecipes:family/infernal_kuudra_core"
+    },
+    "skyrecipes:family/inferno_demonlord_1_boss": {
+      "id": "skyrecipes:family/inferno_demonlord_1_boss"
+    },
+    "skyrecipes:family/inferno_generator_1": {
+      "id": "skyrecipes:family/inferno_generator_1"
+    },
+    "skyrecipes:family/inferno_hypergolic_blaze_rod": {
+      "id": "skyrecipes:family/inferno_hypergolic_blaze_rod"
+    },
+    "skyrecipes:family/inferno_hypergolic_crude_gabagool": {
+      "id": "skyrecipes:family/inferno_hypergolic_crude_gabagool"
+    },
+    "skyrecipes:family/inferno_hypergolic_glowstone_dust": {
+      "id": "skyrecipes:family/inferno_hypergolic_glowstone_dust"
+    },
+    "skyrecipes:family/inferno_hypergolic_magma_cream": {
+      "id": "skyrecipes:family/inferno_hypergolic_magma_cream"
+    },
+    "skyrecipes:family/inferno_hypergolic_nether_stalk": {
+      "id": "skyrecipes:family/inferno_hypergolic_nether_stalk"
+    },
+    "skyrecipes:family/infinite_quiver_1": {
+      "id": "skyrecipes:family/infinite_quiver_1"
+    },
+    "skyrecipes:family/ink_sack": {
+      "id": "skyrecipes:family/ink_sack"
+    },
+    "skyrecipes:family/ink_sack-3": {
+      "id": "skyrecipes:family/ink_sack-3"
+    },
+    "skyrecipes:family/ink_sack-4": {
+      "id": "skyrecipes:family/ink_sack-4"
+    },
+    "skyrecipes:family/intimidation_relic": {
+      "id": "skyrecipes:family/intimidation_relic"
+    },
+    "skyrecipes:family/iq_point": {
+      "id": "skyrecipes:family/iq_point"
+    },
+    "skyrecipes:family/iron_generator_1": {
+      "id": "skyrecipes:family/iron_generator_1"
+    },
+    "skyrecipes:family/iron_pickaxe": {
+      "id": "skyrecipes:family/iron_pickaxe"
+    },
+    "skyrecipes:family/item_spirit_bow": {
+      "id": "skyrecipes:family/item_spirit_bow"
+    },
+    "skyrecipes:family/jellyfish_4": {
+      "id": "skyrecipes:family/jellyfish_4"
+    },
+    "skyrecipes:family/jerry_5": {
+      "id": "skyrecipes:family/jerry_5"
+    },
+    "skyrecipes:family/jerry_box_golden": {
+      "id": "skyrecipes:family/jerry_box_golden"
+    },
+    "skyrecipes:family/jerry_talisman_golden": {
+      "id": "skyrecipes:family/jerry_talisman_golden"
+    },
+    "skyrecipes:family/jumbo_backpack": {
+      "id": "skyrecipes:family/jumbo_backpack"
+    },
+    "skyrecipes:family/jungle_axe": {
+      "id": "skyrecipes:family/jungle_axe"
+    },
+    "skyrecipes:family/jungle_generator_1": {
+      "id": "skyrecipes:family/jungle_generator_1"
+    },
+    "skyrecipes:family/junk_artifact": {
+      "id": "skyrecipes:family/junk_artifact"
+    },
+    "skyrecipes:family/karate_fish_diamond": {
+      "id": "skyrecipes:family/karate_fish_diamond"
+    },
+    "skyrecipes:family/karma_1": {
+      "id": "skyrecipes:family/karma_1"
+    },
+    "skyrecipes:family/knockback_1": {
+      "id": "skyrecipes:family/knockback_1"
+    },
+    "skyrecipes:family/kuudra_4": {
+      "id": "skyrecipes:family/kuudra_4"
+    },
+    "skyrecipes:family/kuudra_follower_relic": {
+      "id": "skyrecipes:family/kuudra_follower_relic"
+    },
+    "skyrecipes:family/kuudra_infernal_tier_key": {
+      "id": "skyrecipes:family/kuudra_infernal_tier_key"
+    },
+    "skyrecipes:family/kuudras_heart": {
+      "id": "skyrecipes:family/kuudras_heart"
+    },
+    "skyrecipes:family/lamp_rainbow": {
+      "id": "skyrecipes:family/lamp_rainbow"
+    },
+    "skyrecipes:family/lapidary_1": {
+      "id": "skyrecipes:family/lapidary_1"
+    },
+    "skyrecipes:family/lapis_generator_1": {
+      "id": "skyrecipes:family/lapis_generator_1"
+    },
+    "skyrecipes:family/large_dragon_sack": {
+      "id": "skyrecipes:family/large_dragon_sack"
+    },
+    "skyrecipes:family/large_enchanted_agronomy_sack": {
+      "id": "skyrecipes:family/large_enchanted_agronomy_sack"
+    },
+    "skyrecipes:family/large_enchanted_combat_sack": {
+      "id": "skyrecipes:family/large_enchanted_combat_sack"
+    },
+    "skyrecipes:family/large_enchanted_fishing_sack": {
+      "id": "skyrecipes:family/large_enchanted_fishing_sack"
+    },
+    "skyrecipes:family/large_enchanted_foraging_sack": {
+      "id": "skyrecipes:family/large_enchanted_foraging_sack"
+    },
+    "skyrecipes:family/large_enchanted_husbandry_sack": {
+      "id": "skyrecipes:family/large_enchanted_husbandry_sack"
+    },
+    "skyrecipes:family/large_enchanted_mining_sack": {
+      "id": "skyrecipes:family/large_enchanted_mining_sack"
+    },
+    "skyrecipes:family/large_fish_bowl": {
+      "id": "skyrecipes:family/large_fish_bowl"
+    },
+    "skyrecipes:family/large_lava_fishing_sack": {
+      "id": "skyrecipes:family/large_lava_fishing_sack"
+    },
+    "skyrecipes:family/large_mutations_sack": {
+      "id": "skyrecipes:family/large_mutations_sack"
+    },
+    "skyrecipes:family/large_nether_sack": {
+      "id": "skyrecipes:family/large_nether_sack"
+    },
+    "skyrecipes:family/large_slayer_sack": {
+      "id": "skyrecipes:family/large_slayer_sack"
+    },
+    "skyrecipes:family/last_breath": {
+      "id": "skyrecipes:family/last_breath"
+    },
+    "skyrecipes:family/lava_bucket": {
+      "id": "skyrecipes:family/lava_bucket"
+    },
+    "skyrecipes:family/lava_horse_diamond": {
+      "id": "skyrecipes:family/lava_horse_diamond"
+    },
+    "skyrecipes:family/lava_rune_1": {
+      "id": "skyrecipes:family/lava_rune_1"
+    },
+    "skyrecipes:family/lavatears_rune_1": {
+      "id": "skyrecipes:family/lavatears_rune_1"
+    },
+    "skyrecipes:family/leap_frog_diamond": {
+      "id": "skyrecipes:family/leap_frog_diamond"
+    },
+    "skyrecipes:family/leaping_sword": {
+      "id": "skyrecipes:family/leaping_sword"
+    },
+    "skyrecipes:family/leather": {
+      "id": "skyrecipes:family/leather"
+    },
+    "skyrecipes:family/lethality_1": {
+      "id": "skyrecipes:family/lethality_1"
+    },
+    "skyrecipes:family/life_steal_1": {
+      "id": "skyrecipes:family/life_steal_1"
+    },
+    "skyrecipes:family/lightning_rune_1": {
+      "id": "skyrecipes:family/lightning_rune_1"
+    },
+    "skyrecipes:family/lily_pad_generator_1": {
+      "id": "skyrecipes:family/lily_pad_generator_1"
+    },
+    "skyrecipes:family/lion_4": {
+      "id": "skyrecipes:family/lion_4"
+    },
+    "skyrecipes:family/log": {
+      "id": "skyrecipes:family/log"
+    },
+    "skyrecipes:family/log-1": {
+      "id": "skyrecipes:family/log-1"
+    },
+    "skyrecipes:family/log-2": {
+      "id": "skyrecipes:family/log-2"
+    },
+    "skyrecipes:family/log-3": {
+      "id": "skyrecipes:family/log-3"
+    },
+    "skyrecipes:family/log_2": {
+      "id": "skyrecipes:family/log_2"
+    },
+    "skyrecipes:family/log_2-1": {
+      "id": "skyrecipes:family/log_2-1"
+    },
+    "skyrecipes:family/looting_1": {
+      "id": "skyrecipes:family/looting_1"
+    },
+    "skyrecipes:family/lotus_diamond": {
+      "id": "skyrecipes:family/lotus_diamond"
+    },
+    "skyrecipes:family/luck_1": {
+      "id": "skyrecipes:family/luck_1"
+    },
+    "skyrecipes:family/luck_of_the_sea_1": {
+      "id": "skyrecipes:family/luck_of_the_sea_1"
+    },
+    "skyrecipes:family/lumberjack_artifact": {
+      "id": "skyrecipes:family/lumberjack_artifact"
+    },
+    "skyrecipes:family/lure_1": {
+      "id": "skyrecipes:family/lure_1"
+    },
+    "skyrecipes:family/lush_artifact": {
+      "id": "skyrecipes:family/lush_artifact"
+    },
+    "skyrecipes:family/lush_berberis": {
+      "id": "skyrecipes:family/lush_berberis"
+    },
+    "skyrecipes:family/magic_rune_1": {
+      "id": "skyrecipes:family/magic_rune_1"
+    },
+    "skyrecipes:family/magma_cream": {
+      "id": "skyrecipes:family/magma_cream"
+    },
+    "skyrecipes:family/magma_cube_4": {
+      "id": "skyrecipes:family/magma_cube_4"
+    },
+    "skyrecipes:family/magma_cube_generator_1": {
+      "id": "skyrecipes:family/magma_cube_generator_1"
+    },
+    "skyrecipes:family/magma_fish": {
+      "id": "skyrecipes:family/magma_fish"
+    },
+    "skyrecipes:family/magma_lord_fragment": {
+      "id": "skyrecipes:family/magma_lord_fragment"
+    },
+    "skyrecipes:family/magma_necklace": {
+      "id": "skyrecipes:family/magma_necklace"
+    },
+    "skyrecipes:family/magmarizer_6": {
+      "id": "skyrecipes:family/magmarizer_6"
+    },
+    "skyrecipes:family/magnet_1": {
+      "id": "skyrecipes:family/magnet_1"
+    },
+    "skyrecipes:family/mana_ray_diamond": {
+      "id": "skyrecipes:family/mana_ray_diamond"
+    },
+    "skyrecipes:family/mana_steal_1": {
+      "id": "skyrecipes:family/mana_steal_1"
+    },
+    "skyrecipes:family/mana_vampire_1": {
+      "id": "skyrecipes:family/mana_vampire_1"
+    },
+    "skyrecipes:family/mangrove_grippers": {
+      "id": "skyrecipes:family/mangrove_grippers"
+    },
+    "skyrecipes:family/mangrove_locket": {
+      "id": "skyrecipes:family/mangrove_locket"
+    },
+    "skyrecipes:family/mangrove_log": {
+      "id": "skyrecipes:family/mangrove_log"
+    },
+    "skyrecipes:family/mangrove_vine": {
+      "id": "skyrecipes:family/mangrove_vine"
+    },
+    "skyrecipes:family/master_skull_tier_7": {
+      "id": "skyrecipes:family/master_skull_tier_7"
+    },
+    "skyrecipes:family/mawdust_dagger": {
+      "id": "skyrecipes:family/mawdust_dagger"
+    },
+    "skyrecipes:family/maxor_celestial": {
+      "id": "skyrecipes:family/maxor_celestial"
+    },
+    "skyrecipes:family/megalodon_4": {
+      "id": "skyrecipes:family/megalodon_4"
+    },
+    "skyrecipes:family/melon_dicer_3": {
+      "id": "skyrecipes:family/melon_dicer_3"
+    },
+    "skyrecipes:family/melon_generator_1": {
+      "id": "skyrecipes:family/melon_generator_1"
+    },
+    "skyrecipes:family/mender_helmet": {
+      "id": "skyrecipes:family/mender_helmet"
+    },
+    "skyrecipes:family/midas_staff": {
+      "id": "skyrecipes:family/midas_staff"
+    },
+    "skyrecipes:family/midas_sword": {
+      "id": "skyrecipes:family/midas_sword"
+    },
+    "skyrecipes:family/mite_gel": {
+      "id": "skyrecipes:family/mite_gel"
+    },
+    "skyrecipes:family/mithril_drill_2": {
+      "id": "skyrecipes:family/mithril_drill_2"
+    },
+    "skyrecipes:family/mithril_drill_engine": {
+      "id": "skyrecipes:family/mithril_drill_engine"
+    },
+    "skyrecipes:family/mithril_fuel_tank": {
+      "id": "skyrecipes:family/mithril_fuel_tank"
+    },
+    "skyrecipes:family/mithril_generator_1": {
+      "id": "skyrecipes:family/mithril_generator_1"
+    },
+    "skyrecipes:family/mithril_golem_5": {
+      "id": "skyrecipes:family/mithril_golem_5"
+    },
+    "skyrecipes:family/mithril_ore": {
+      "id": "skyrecipes:family/mithril_ore"
+    },
+    "skyrecipes:family/moldfin_diamond": {
+      "id": "skyrecipes:family/moldfin_diamond"
+    },
+    "skyrecipes:family/monkey_4": {
+      "id": "skyrecipes:family/monkey_4"
+    },
+    "skyrecipes:family/moonflower": {
+      "id": "skyrecipes:family/moonflower"
+    },
+    "skyrecipes:family/moonglade_artifact": {
+      "id": "skyrecipes:family/moonglade_artifact"
+    },
+    "skyrecipes:family/moonlight_crystal": {
+      "id": "skyrecipes:family/moonlight_crystal"
+    },
+    "skyrecipes:family/mooshroom_cow_4": {
+      "id": "skyrecipes:family/mooshroom_cow_4"
+    },
+    "skyrecipes:family/mosquito_4": {
+      "id": "skyrecipes:family/mosquito_4"
+    },
+    "skyrecipes:family/museum_travel_scroll": {
+      "id": "skyrecipes:family/museum_travel_scroll"
+    },
+    "skyrecipes:family/mushroom_generator_1": {
+      "id": "skyrecipes:family/mushroom_generator_1"
+    },
+    "skyrecipes:family/music_rune_1": {
+      "id": "skyrecipes:family/music_rune_1"
+    },
+    "skyrecipes:family/mutton": {
+      "id": "skyrecipes:family/mutton"
+    },
+    "skyrecipes:family/mycel": {
+      "id": "skyrecipes:family/mycel"
+    },
+    "skyrecipes:family/mycelium_generator_1": {
+      "id": "skyrecipes:family/mycelium_generator_1"
+    },
+    "skyrecipes:family/nether_stalk": {
+      "id": "skyrecipes:family/nether_stalk"
+    },
+    "skyrecipes:family/nether_warts_generator_1": {
+      "id": "skyrecipes:family/nether_warts_generator_1"
+    },
+    "skyrecipes:family/netherrack": {
+      "id": "skyrecipes:family/netherrack"
+    },
+    "skyrecipes:family/oak_generator_1": {
+      "id": "skyrecipes:family/oak_generator_1"
+    },
+    "skyrecipes:family/obfuscated_fish_1_diamond": {
+      "id": "skyrecipes:family/obfuscated_fish_1_diamond"
+    },
+    "skyrecipes:family/obfuscated_fish_2_diamond": {
+      "id": "skyrecipes:family/obfuscated_fish_2_diamond"
+    },
+    "skyrecipes:family/obfuscated_fish_3_diamond": {
+      "id": "skyrecipes:family/obfuscated_fish_3_diamond"
+    },
+    "skyrecipes:family/obsidian": {
+      "id": "skyrecipes:family/obsidian"
+    },
+    "skyrecipes:family/obsidian_generator_1": {
+      "id": "skyrecipes:family/obsidian_generator_1"
+    },
+    "skyrecipes:family/ocelot_4": {
+      "id": "skyrecipes:family/ocelot_4"
+    },
+    "skyrecipes:family/odgers_diamond_tooth": {
+      "id": "skyrecipes:family/odgers_diamond_tooth"
+    },
+    "skyrecipes:family/orange_chestplate": {
+      "id": "skyrecipes:family/orange_chestplate"
+    },
+    "skyrecipes:family/orchid_mantis_4": {
+      "id": "skyrecipes:family/orchid_mantis_4"
+    },
+    "skyrecipes:family/organ_donor_artifact": {
+      "id": "skyrecipes:family/organ_donor_artifact"
+    },
+    "skyrecipes:family/overload_1": {
+      "id": "skyrecipes:family/overload_1"
+    },
+    "skyrecipes:family/paleontologist_1": {
+      "id": "skyrecipes:family/paleontologist_1"
+    },
+    "skyrecipes:family/parrot_4": {
+      "id": "skyrecipes:family/parrot_4"
+    },
+    "skyrecipes:family/party_hat_crab_aqua": {
+      "id": "skyrecipes:family/party_hat_crab_aqua"
+    },
+    "skyrecipes:family/party_hat_crab_aqua_animated": {
+      "id": "skyrecipes:family/party_hat_crab_aqua_animated"
+    },
+    "skyrecipes:family/party_hat_sloth_flushed": {
+      "id": "skyrecipes:family/party_hat_sloth_flushed"
+    },
+    "skyrecipes:family/perfect_amber_gem": {
+      "id": "skyrecipes:family/perfect_amber_gem"
+    },
+    "skyrecipes:family/perfect_amethyst_gem": {
+      "id": "skyrecipes:family/perfect_amethyst_gem"
+    },
+    "skyrecipes:family/perfect_aquamarine_gem": {
+      "id": "skyrecipes:family/perfect_aquamarine_gem"
+    },
+    "skyrecipes:family/perfect_boots_1": {
+      "id": "skyrecipes:family/perfect_boots_1"
+    },
+    "skyrecipes:family/perfect_chestplate_1": {
+      "id": "skyrecipes:family/perfect_chestplate_1"
+    },
+    "skyrecipes:family/perfect_citrine_gem": {
+      "id": "skyrecipes:family/perfect_citrine_gem"
+    },
+    "skyrecipes:family/perfect_helmet_1": {
+      "id": "skyrecipes:family/perfect_helmet_1"
+    },
+    "skyrecipes:family/perfect_jade_gem": {
+      "id": "skyrecipes:family/perfect_jade_gem"
+    },
+    "skyrecipes:family/perfect_jasper_gem": {
+      "id": "skyrecipes:family/perfect_jasper_gem"
+    },
+    "skyrecipes:family/perfect_leggings_1": {
+      "id": "skyrecipes:family/perfect_leggings_1"
+    },
+    "skyrecipes:family/perfect_onyx_gem": {
+      "id": "skyrecipes:family/perfect_onyx_gem"
+    },
+    "skyrecipes:family/perfect_opal_gem": {
+      "id": "skyrecipes:family/perfect_opal_gem"
+    },
+    "skyrecipes:family/perfect_peridot_gem": {
+      "id": "skyrecipes:family/perfect_peridot_gem"
+    },
+    "skyrecipes:family/perfect_ruby_gem": {
+      "id": "skyrecipes:family/perfect_ruby_gem"
+    },
+    "skyrecipes:family/perfect_sapphire_gem": {
+      "id": "skyrecipes:family/perfect_sapphire_gem"
+    },
+    "skyrecipes:family/perfect_topaz_gem": {
+      "id": "skyrecipes:family/perfect_topaz_gem"
+    },
+    "skyrecipes:family/personal_compactor_7000": {
+      "id": "skyrecipes:family/personal_compactor_7000"
+    },
+    "skyrecipes:family/personal_deletor_7000": {
+      "id": "skyrecipes:family/personal_deletor_7000"
+    },
+    "skyrecipes:family/pest_repellent_max": {
+      "id": "skyrecipes:family/pest_repellent_max"
+    },
+    "skyrecipes:family/pesterminator_1": {
+      "id": "skyrecipes:family/pesterminator_1"
+    },
+    "skyrecipes:family/pesthunter_relic": {
+      "id": "skyrecipes:family/pesthunter_relic"
+    },
+    "skyrecipes:family/pet_item_combat_skill_boost_epic": {
+      "id": "skyrecipes:family/pet_item_combat_skill_boost_epic"
+    },
+    "skyrecipes:family/pet_item_farming_skill_boost_epic": {
+      "id": "skyrecipes:family/pet_item_farming_skill_boost_epic"
+    },
+    "skyrecipes:family/pet_item_fishing_skill_boost_epic": {
+      "id": "skyrecipes:family/pet_item_fishing_skill_boost_epic"
+    },
+    "skyrecipes:family/pet_item_foraging_skill_boost_epic": {
+      "id": "skyrecipes:family/pet_item_foraging_skill_boost_epic"
+    },
+    "skyrecipes:family/pet_item_mining_skill_boost_rare": {
+      "id": "skyrecipes:family/pet_item_mining_skill_boost_rare"
+    },
+    "skyrecipes:family/pet_skin_ammonite_hermit_graphite": {
+      "id": "skyrecipes:family/pet_skin_ammonite_hermit_graphite"
+    },
+    "skyrecipes:family/pet_skin_ankylosaurus_volcano": {
+      "id": "skyrecipes:family/pet_skin_ankylosaurus_volcano"
+    },
+    "skyrecipes:family/pet_skin_baby_yeti_midnight": {
+      "id": "skyrecipes:family/pet_skin_baby_yeti_midnight"
+    },
+    "skyrecipes:family/pet_skin_black_cat_onyx": {
+      "id": "skyrecipes:family/pet_skin_black_cat_onyx"
+    },
+    "skyrecipes:family/pet_skin_chicken_chick_black": {
+      "id": "skyrecipes:family/pet_skin_chicken_chick_black"
+    },
+    "skyrecipes:family/pet_skin_dolphin_snubnose_green": {
+      "id": "skyrecipes:family/pet_skin_dolphin_snubnose_green"
+    },
+    "skyrecipes:family/pet_skin_dragon_neon_red": {
+      "id": "skyrecipes:family/pet_skin_dragon_neon_red"
+    },
+    "skyrecipes:family/pet_skin_elemental_air_spirit": {
+      "id": "skyrecipes:family/pet_skin_elemental_air_spirit"
+    },
+    "skyrecipes:family/pet_skin_elephant_red": {
+      "id": "skyrecipes:family/pet_skin_elephant_red"
+    },
+    "skyrecipes:family/pet_skin_enderman_blue_moon": {
+      "id": "skyrecipes:family/pet_skin_enderman_blue_moon"
+    },
+    "skyrecipes:family/pet_skin_jerry_green_elf": {
+      "id": "skyrecipes:family/pet_skin_jerry_green_elf"
+    },
+    "skyrecipes:family/pet_skin_mooshroom_cow_highland_white": {
+      "id": "skyrecipes:family/pet_skin_mooshroom_cow_highland_white"
+    },
+    "skyrecipes:family/pet_skin_rabbit_aquamarine": {
+      "id": "skyrecipes:family/pet_skin_rabbit_aquamarine"
+    },
+    "skyrecipes:family/pet_skin_rat_gym_rat": {
+      "id": "skyrecipes:family/pet_skin_rat_gym_rat"
+    },
+    "skyrecipes:family/pet_skin_rock_cool": {
+      "id": "skyrecipes:family/pet_skin_rock_cool"
+    },
+    "skyrecipes:family/pet_skin_rock_sus": {
+      "id": "skyrecipes:family/pet_skin_rock_sus"
+    },
+    "skyrecipes:family/pet_skin_scatha_albino": {
+      "id": "skyrecipes:family/pet_skin_scatha_albino"
+    },
+    "skyrecipes:family/pet_skin_sheep_black": {
+      "id": "skyrecipes:family/pet_skin_sheep_black"
+    },
+    "skyrecipes:family/pet_skin_sheep_chroma_wooly": {
+      "id": "skyrecipes:family/pet_skin_sheep_chroma_wooly"
+    },
+    "skyrecipes:family/pet_skin_sheep_green": {
+      "id": "skyrecipes:family/pet_skin_sheep_green"
+    },
+    "skyrecipes:family/pet_skin_slug_azure_sea_slug": {
+      "id": "skyrecipes:family/pet_skin_slug_azure_sea_slug"
+    },
+    "skyrecipes:family/pet_skin_tarantula_pink": {
+      "id": "skyrecipes:family/pet_skin_tarantula_pink"
+    },
+    "skyrecipes:family/petalfall_1": {
+      "id": "skyrecipes:family/petalfall_1"
+    },
+    "skyrecipes:family/phd_grimoire": {
+      "id": "skyrecipes:family/phd_grimoire"
+    },
+    "skyrecipes:family/phoenix_4": {
+      "id": "skyrecipes:family/phoenix_4"
+    },
+    "skyrecipes:family/pig_4": {
+      "id": "skyrecipes:family/pig_4"
+    },
+    "skyrecipes:family/pig_generator_1": {
+      "id": "skyrecipes:family/pig_generator_1"
+    },
+    "skyrecipes:family/piggy_bank": {
+      "id": "skyrecipes:family/piggy_bank"
+    },
+    "skyrecipes:family/pigman_4": {
+      "id": "skyrecipes:family/pigman_4"
+    },
+    "skyrecipes:family/piscary_1": {
+      "id": "skyrecipes:family/piscary_1"
+    },
+    "skyrecipes:family/poisonous_potato": {
+      "id": "skyrecipes:family/poisonous_potato"
+    },
+    "skyrecipes:family/pork": {
+      "id": "skyrecipes:family/pork"
+    },
+    "skyrecipes:family/potato_generator_1": {
+      "id": "skyrecipes:family/potato_generator_1"
+    },
+    "skyrecipes:family/potato_item": {
+      "id": "skyrecipes:family/potato_item"
+    },
+    "skyrecipes:family/potato_ring": {
+      "id": "skyrecipes:family/potato_ring"
+    },
+    "skyrecipes:family/potion_absorption_1": {
+      "id": "skyrecipes:family/potion_absorption_1"
+    },
+    "skyrecipes:family/potion_adrenaline_1": {
+      "id": "skyrecipes:family/potion_adrenaline_1"
+    },
+    "skyrecipes:family/potion_agility_1": {
+      "id": "skyrecipes:family/potion_agility_1"
+    },
+    "skyrecipes:family/potion_alchemy_xp_boost_1": {
+      "id": "skyrecipes:family/potion_alchemy_xp_boost_1"
+    },
+    "skyrecipes:family/potion_archery_1": {
+      "id": "skyrecipes:family/potion_archery_1"
+    },
+    "skyrecipes:family/potion_blindness_1": {
+      "id": "skyrecipes:family/potion_blindness_1"
+    },
+    "skyrecipes:family/potion_burning_1": {
+      "id": "skyrecipes:family/potion_burning_1"
+    },
+    "skyrecipes:family/potion_cold_resistance_1": {
+      "id": "skyrecipes:family/potion_cold_resistance_1"
+    },
+    "skyrecipes:family/potion_combat_xp_boost_1": {
+      "id": "skyrecipes:family/potion_combat_xp_boost_1"
+    },
+    "skyrecipes:family/potion_critical_1": {
+      "id": "skyrecipes:family/potion_critical_1"
+    },
+    "skyrecipes:family/potion_damage_1": {
+      "id": "skyrecipes:family/potion_damage_1"
+    },
+    "skyrecipes:family/potion_dodge_1": {
+      "id": "skyrecipes:family/potion_dodge_1"
+    },
+    "skyrecipes:family/potion_dungeon_1": {
+      "id": "skyrecipes:family/potion_dungeon_1"
+    },
+    "skyrecipes:family/potion_enchanting_xp_boost_1": {
+      "id": "skyrecipes:family/potion_enchanting_xp_boost_1"
+    },
+    "skyrecipes:family/potion_experience_1": {
+      "id": "skyrecipes:family/potion_experience_1"
+    },
+    "skyrecipes:family/potion_farming_xp_boost_1": {
+      "id": "skyrecipes:family/potion_farming_xp_boost_1"
+    },
+    "skyrecipes:family/potion_fishing_xp_boost_1": {
+      "id": "skyrecipes:family/potion_fishing_xp_boost_1"
+    },
+    "skyrecipes:family/potion_foraging_xp_boost_1": {
+      "id": "skyrecipes:family/potion_foraging_xp_boost_1"
+    },
+    "skyrecipes:family/potion_haste_1": {
+      "id": "skyrecipes:family/potion_haste_1"
+    },
+    "skyrecipes:family/potion_healing_1": {
+      "id": "skyrecipes:family/potion_healing_1"
+    },
+    "skyrecipes:family/potion_jump_boost_1": {
+      "id": "skyrecipes:family/potion_jump_boost_1"
+    },
+    "skyrecipes:family/potion_knockback_1": {
+      "id": "skyrecipes:family/potion_knockback_1"
+    },
+    "skyrecipes:family/potion_magic_find_1": {
+      "id": "skyrecipes:family/potion_magic_find_1"
+    },
+    "skyrecipes:family/potion_mana_1": {
+      "id": "skyrecipes:family/potion_mana_1"
+    },
+    "skyrecipes:family/potion_mining_xp_boost_1": {
+      "id": "skyrecipes:family/potion_mining_xp_boost_1"
+    },
+    "skyrecipes:family/potion_night_vision_1": {
+      "id": "skyrecipes:family/potion_night_vision_1"
+    },
+    "skyrecipes:family/potion_pet_luck_1": {
+      "id": "skyrecipes:family/potion_pet_luck_1"
+    },
+    "skyrecipes:family/potion_poison_1": {
+      "id": "skyrecipes:family/potion_poison_1"
+    },
+    "skyrecipes:family/potion_rabbit_1": {
+      "id": "skyrecipes:family/potion_rabbit_1"
+    },
+    "skyrecipes:family/potion_regeneration_1": {
+      "id": "skyrecipes:family/potion_regeneration_1"
+    },
+    "skyrecipes:family/potion_resistance_1": {
+      "id": "skyrecipes:family/potion_resistance_1"
+    },
+    "skyrecipes:family/potion_slowness_1": {
+      "id": "skyrecipes:family/potion_slowness_1"
+    },
+    "skyrecipes:family/potion_speed_1": {
+      "id": "skyrecipes:family/potion_speed_1"
+    },
+    "skyrecipes:family/potion_spelunker_1": {
+      "id": "skyrecipes:family/potion_spelunker_1"
+    },
+    "skyrecipes:family/potion_spirit_1": {
+      "id": "skyrecipes:family/potion_spirit_1"
+    },
+    "skyrecipes:family/potion_stamina_1": {
+      "id": "skyrecipes:family/potion_stamina_1"
+    },
+    "skyrecipes:family/potion_strength_1": {
+      "id": "skyrecipes:family/potion_strength_1"
+    },
+    "skyrecipes:family/potion_stun_1": {
+      "id": "skyrecipes:family/potion_stun_1"
+    },
+    "skyrecipes:family/potion_true_defense_1": {
+      "id": "skyrecipes:family/potion_true_defense_1"
+    },
+    "skyrecipes:family/potion_venomous_1": {
+      "id": "skyrecipes:family/potion_venomous_1"
+    },
+    "skyrecipes:family/potion_water_breathing_1": {
+      "id": "skyrecipes:family/potion_water_breathing_1"
+    },
+    "skyrecipes:family/potion_weakness_1": {
+      "id": "skyrecipes:family/potion_weakness_1"
+    },
+    "skyrecipes:family/potion_wounded_1": {
+      "id": "skyrecipes:family/potion_wounded_1"
+    },
+    "skyrecipes:family/power_1": {
+      "id": "skyrecipes:family/power_1"
+    },
+    "skyrecipes:family/power_relic": {
+      "id": "skyrecipes:family/power_relic"
+    },
+    "skyrecipes:family/pressure_artifact": {
+      "id": "skyrecipes:family/pressure_artifact"
+    },
+    "skyrecipes:family/prestige_chocolate_realm": {
+      "id": "skyrecipes:family/prestige_chocolate_realm"
+    },
+    "skyrecipes:family/prismarine_crystals": {
+      "id": "skyrecipes:family/prismarine_crystals"
+    },
+    "skyrecipes:family/prismarine_shard": {
+      "id": "skyrecipes:family/prismarine_shard"
+    },
+    "skyrecipes:family/pristine_1": {
+      "id": "skyrecipes:family/pristine_1"
+    },
+    "skyrecipes:family/projectile_protection_1": {
+      "id": "skyrecipes:family/projectile_protection_1"
+    },
+    "skyrecipes:family/prosecute_1": {
+      "id": "skyrecipes:family/prosecute_1"
+    },
+    "skyrecipes:family/prosperity_1": {
+      "id": "skyrecipes:family/prosperity_1"
+    },
+    "skyrecipes:family/protection_1": {
+      "id": "skyrecipes:family/protection_1"
+    },
+    "skyrecipes:family/puddle_jumper_diamond": {
+      "id": "skyrecipes:family/puddle_jumper_diamond"
+    },
+    "skyrecipes:family/pumpkin": {
+      "id": "skyrecipes:family/pumpkin"
+    },
+    "skyrecipes:family/pumpkin_dicer_3": {
+      "id": "skyrecipes:family/pumpkin_dicer_3"
+    },
+    "skyrecipes:family/pumpkin_generator_1": {
+      "id": "skyrecipes:family/pumpkin_generator_1"
+    },
+    "skyrecipes:family/punch_1": {
+      "id": "skyrecipes:family/punch_1"
+    },
+    "skyrecipes:family/purple_egg": {
+      "id": "skyrecipes:family/purple_egg"
+    },
+    "skyrecipes:family/quantum_3": {
+      "id": "skyrecipes:family/quantum_3"
+    },
+    "skyrecipes:family/quartz": {
+      "id": "skyrecipes:family/quartz"
+    },
+    "skyrecipes:family/quartz_generator_1": {
+      "id": "skyrecipes:family/quartz_generator_1"
+    },
+    "skyrecipes:family/quick_bite_1": {
+      "id": "skyrecipes:family/quick_bite_1"
+    },
+    "skyrecipes:family/rabbit": {
+      "id": "skyrecipes:family/rabbit"
+    },
+    "skyrecipes:family/rabbit_5": {
+      "id": "skyrecipes:family/rabbit_5"
+    },
+    "skyrecipes:family/rabbit_foot": {
+      "id": "skyrecipes:family/rabbit_foot"
+    },
+    "skyrecipes:family/rabbit_generator_1": {
+      "id": "skyrecipes:family/rabbit_generator_1"
+    },
+    "skyrecipes:family/rabbit_hide": {
+      "id": "skyrecipes:family/rabbit_hide"
+    },
+    "skyrecipes:family/radiant_power_orb": {
+      "id": "skyrecipes:family/radiant_power_orb"
+    },
+    "skyrecipes:family/rainbow_1": {
+      "id": "skyrecipes:family/rainbow_1"
+    },
+    "skyrecipes:family/rainbow_rune_1": {
+      "id": "skyrecipes:family/rainbow_rune_1"
+    },
+    "skyrecipes:family/rat_5": {
+      "id": "skyrecipes:family/rat_5"
+    },
+    "skyrecipes:family/raw_beef": {
+      "id": "skyrecipes:family/raw_beef"
+    },
+    "skyrecipes:family/raw_chicken": {
+      "id": "skyrecipes:family/raw_chicken"
+    },
+    "skyrecipes:family/raw_fish-1": {
+      "id": "skyrecipes:family/raw_fish-1"
+    },
+    "skyrecipes:family/razor_sharp_shark_tooth_necklace": {
+      "id": "skyrecipes:family/razor_sharp_shark_tooth_necklace"
+    },
+    "skyrecipes:family/reality_hopper_diamond": {
+      "id": "skyrecipes:family/reality_hopper_diamond"
+    },
+    "skyrecipes:family/record_3": {
+      "id": "skyrecipes:family/record_3"
+    },
+    "skyrecipes:family/red_claw_artifact": {
+      "id": "skyrecipes:family/red_claw_artifact"
+    },
+    "skyrecipes:family/red_rose": {
+      "id": "skyrecipes:family/red_rose"
+    },
+    "skyrecipes:family/red_sand_generator_1": {
+      "id": "skyrecipes:family/red_sand_generator_1"
+    },
+    "skyrecipes:family/redstone": {
+      "id": "skyrecipes:family/redstone"
+    },
+    "skyrecipes:family/redstone_generator_1": {
+      "id": "skyrecipes:family/redstone_generator_1"
+    },
+    "skyrecipes:family/redstone_rune_1": {
+      "id": "skyrecipes:family/redstone_rune_1"
+    },
+    "skyrecipes:family/reflection_1": {
+      "id": "skyrecipes:family/reflection_1"
+    },
+    "skyrecipes:family/rejuvenate_1": {
+      "id": "skyrecipes:family/rejuvenate_1"
+    },
+    "skyrecipes:family/relic_of_coins": {
+      "id": "skyrecipes:family/relic_of_coins"
+    },
+    "skyrecipes:family/respiration_1": {
+      "id": "skyrecipes:family/respiration_1"
+    },
+    "skyrecipes:family/respiration_artifact": {
+      "id": "skyrecipes:family/respiration_artifact"
+    },
+    "skyrecipes:family/respite_1": {
+      "id": "skyrecipes:family/respite_1"
+    },
+    "skyrecipes:family/retia_basica": {
+      "id": "skyrecipes:family/retia_basica"
+    },
+    "skyrecipes:family/revenant_boots": {
+      "id": "skyrecipes:family/revenant_boots"
+    },
+    "skyrecipes:family/revenant_chestplate": {
+      "id": "skyrecipes:family/revenant_chestplate"
+    },
+    "skyrecipes:family/revenant_generator_1": {
+      "id": "skyrecipes:family/revenant_generator_1"
+    },
+    "skyrecipes:family/revenant_horror_1_boss": {
+      "id": "skyrecipes:family/revenant_horror_1_boss"
+    },
+    "skyrecipes:family/revenant_leggings": {
+      "id": "skyrecipes:family/revenant_leggings"
+    },
+    "skyrecipes:family/rift_trophy_wyldly_supreme": {
+      "id": "skyrecipes:family/rift_trophy_wyldly_supreme"
+    },
+    "skyrecipes:family/riftstalker_bloodfiend_1_boss": {
+      "id": "skyrecipes:family/riftstalker_bloodfiend_1_boss"
+    },
+    "skyrecipes:family/rock_4": {
+      "id": "skyrecipes:family/rock_4"
+    },
+    "skyrecipes:family/rod_of_the_sea": {
+      "id": "skyrecipes:family/rod_of_the_sea"
+    },
+    "skyrecipes:family/rotten_flesh": {
+      "id": "skyrecipes:family/rotten_flesh"
+    },
+    "skyrecipes:family/royal_jelly": {
+      "id": "skyrecipes:family/royal_jelly"
+    },
+    "skyrecipes:family/ruby_veilshroom": {
+      "id": "skyrecipes:family/ruby_veilshroom"
+    },
+    "skyrecipes:family/runeblade_artifact": {
+      "id": "skyrecipes:family/runeblade_artifact"
+    },
+    "skyrecipes:family/rusty_titanium_pickaxe": {
+      "id": "skyrecipes:family/rusty_titanium_pickaxe"
+    },
+    "skyrecipes:family/salmon_boots_new": {
+      "id": "skyrecipes:family/salmon_boots_new"
+    },
+    "skyrecipes:family/salmon_chestplate_new": {
+      "id": "skyrecipes:family/salmon_chestplate_new"
+    },
+    "skyrecipes:family/salmon_helmet_new": {
+      "id": "skyrecipes:family/salmon_helmet_new"
+    },
+    "skyrecipes:family/salmon_leggings_new": {
+      "id": "skyrecipes:family/salmon_leggings_new"
+    },
+    "skyrecipes:family/sand": {
+      "id": "skyrecipes:family/sand"
+    },
+    "skyrecipes:family/sand-1": {
+      "id": "skyrecipes:family/sand-1"
+    },
+    "skyrecipes:family/sand_generator_1": {
+      "id": "skyrecipes:family/sand_generator_1"
+    },
+    "skyrecipes:family/scarf_grimoire": {
+      "id": "skyrecipes:family/scarf_grimoire"
+    },
+    "skyrecipes:family/scatha_4": {
+      "id": "skyrecipes:family/scatha_4"
+    },
+    "skyrecipes:family/scavenger_1": {
+      "id": "skyrecipes:family/scavenger_1"
+    },
+    "skyrecipes:family/scavenger_artifact": {
+      "id": "skyrecipes:family/scavenger_artifact"
+    },
+    "skyrecipes:family/scorpion_bow": {
+      "id": "skyrecipes:family/scorpion_bow"
+    },
+    "skyrecipes:family/scorpius_special_mayor_monster": {
+      "id": "skyrecipes:family/scorpius_special_mayor_monster"
+    },
+    "skyrecipes:family/scuba_1": {
+      "id": "skyrecipes:family/scuba_1"
+    },
+    "skyrecipes:family/sea_creature_artifact": {
+      "id": "skyrecipes:family/sea_creature_artifact"
+    },
+    "skyrecipes:family/sea_frog_diamond": {
+      "id": "skyrecipes:family/sea_frog_diamond"
+    },
+    "skyrecipes:family/sea_lumies": {
+      "id": "skyrecipes:family/sea_lumies"
+    },
+    "skyrecipes:family/seal_4": {
+      "id": "skyrecipes:family/seal_4"
+    },
+    "skyrecipes:family/seal_of_the_family": {
+      "id": "skyrecipes:family/seal_of_the_family"
+    },
+    "skyrecipes:family/seal_ring": {
+      "id": "skyrecipes:family/seal_ring"
+    },
+    "skyrecipes:family/seeds": {
+      "id": "skyrecipes:family/seeds"
+    },
+    "skyrecipes:family/self_recursive_pickaxe": {
+      "id": "skyrecipes:family/self_recursive_pickaxe"
+    },
+    "skyrecipes:family/seriously_damaged_axe": {
+      "id": "skyrecipes:family/seriously_damaged_axe"
+    },
+    "skyrecipes:family/shadow_assassin_admiral": {
+      "id": "skyrecipes:family/shadow_assassin_admiral"
+    },
+    "skyrecipes:family/shadow_assassin_boots": {
+      "id": "skyrecipes:family/shadow_assassin_boots"
+    },
+    "skyrecipes:family/shadow_assassin_chestplate": {
+      "id": "skyrecipes:family/shadow_assassin_chestplate"
+    },
+    "skyrecipes:family/shadow_assassin_cloak": {
+      "id": "skyrecipes:family/shadow_assassin_cloak"
+    },
+    "skyrecipes:family/shadow_assassin_helmet": {
+      "id": "skyrecipes:family/shadow_assassin_helmet"
+    },
+    "skyrecipes:family/shadow_assassin_leggings": {
+      "id": "skyrecipes:family/shadow_assassin_leggings"
+    },
+    "skyrecipes:family/shadow_fury": {
+      "id": "skyrecipes:family/shadow_fury"
+    },
+    "skyrecipes:family/shaman_sword": {
+      "id": "skyrecipes:family/shaman_sword"
+    },
+    "skyrecipes:family/shark_scale_hoodie_seal": {
+      "id": "skyrecipes:family/shark_scale_hoodie_seal"
+    },
+    "skyrecipes:family/sharpness_1": {
+      "id": "skyrecipes:family/sharpness_1"
+    },
+    "skyrecipes:family/sheep_4": {
+      "id": "skyrecipes:family/sheep_4"
+    },
+    "skyrecipes:family/sheep_generator_1": {
+      "id": "skyrecipes:family/sheep_generator_1"
+    },
+    "skyrecipes:family/silkrider_safety_belt": {
+      "id": "skyrecipes:family/silkrider_safety_belt"
+    },
+    "skyrecipes:family/silver_trophy_fishing_sack": {
+      "id": "skyrecipes:family/silver_trophy_fishing_sack"
+    },
+    "skyrecipes:family/silver_trophy_frog_sack": {
+      "id": "skyrecipes:family/silver_trophy_frog_sack"
+    },
+    "skyrecipes:family/silverfish_4": {
+      "id": "skyrecipes:family/silverfish_4"
+    },
+    "skyrecipes:family/simple_carrot_candy": {
+      "id": "skyrecipes:family/simple_carrot_candy"
+    },
+    "skyrecipes:family/skeleton_4": {
+      "id": "skyrecipes:family/skeleton_4"
+    },
+    "skyrecipes:family/skeleton_fish_diamond": {
+      "id": "skyrecipes:family/skeleton_fish_diamond"
+    },
+    "skyrecipes:family/skeleton_generator_1": {
+      "id": "skyrecipes:family/skeleton_generator_1"
+    },
+    "skyrecipes:family/skyblock_corpse_vanguard": {
+      "id": "skyrecipes:family/skyblock_corpse_vanguard"
+    },
+    "skyrecipes:family/skyblock_fig_tree_gifts": {
+      "id": "skyrecipes:family/skyblock_fig_tree_gifts"
+    },
+    "skyrecipes:family/skymart_vacuum": {
+      "id": "skyrecipes:family/skymart_vacuum"
+    },
+    "skyrecipes:family/slime_ball": {
+      "id": "skyrecipes:family/slime_ball"
+    },
+    "skyrecipes:family/slime_generator_1": {
+      "id": "skyrecipes:family/slime_generator_1"
+    },
+    "skyrecipes:family/slimy_rune_1": {
+      "id": "skyrecipes:family/slimy_rune_1"
+    },
+    "skyrecipes:family/sloth_0": {
+      "id": "skyrecipes:family/sloth_0"
+    },
+    "skyrecipes:family/slug_4": {
+      "id": "skyrecipes:family/slug_4"
+    },
+    "skyrecipes:family/slugfish_diamond": {
+      "id": "skyrecipes:family/slugfish_diamond"
+    },
+    "skyrecipes:family/small_brain_3": {
+      "id": "skyrecipes:family/small_brain_3"
+    },
+    "skyrecipes:family/small_pocket_black_hole": {
+      "id": "skyrecipes:family/small_pocket_black_hole"
+    },
+    "skyrecipes:family/smarty_pants_1": {
+      "id": "skyrecipes:family/smarty_pants_1"
+    },
+    "skyrecipes:family/smite_1": {
+      "id": "skyrecipes:family/smite_1"
+    },
+    "skyrecipes:family/smokey_rune_1": {
+      "id": "skyrecipes:family/smokey_rune_1"
+    },
+    "skyrecipes:family/smoldering_1": {
+      "id": "skyrecipes:family/smoldering_1"
+    },
+    "skyrecipes:family/snail_4": {
+      "id": "skyrecipes:family/snail_4"
+    },
+    "skyrecipes:family/snake_rune_1": {
+      "id": "skyrecipes:family/snake_rune_1"
+    },
+    "skyrecipes:family/snipe_1": {
+      "id": "skyrecipes:family/snipe_1"
+    },
+    "skyrecipes:family/snorkeling_boots": {
+      "id": "skyrecipes:family/snorkeling_boots"
+    },
+    "skyrecipes:family/snorkeling_chestplate": {
+      "id": "skyrecipes:family/snorkeling_chestplate"
+    },
+    "skyrecipes:family/snorkeling_helmet": {
+      "id": "skyrecipes:family/snorkeling_helmet"
+    },
+    "skyrecipes:family/snorkeling_leggings": {
+      "id": "skyrecipes:family/snorkeling_leggings"
+    },
+    "skyrecipes:family/snow_block": {
+      "id": "skyrecipes:family/snow_block"
+    },
+    "skyrecipes:family/snow_cannon": {
+      "id": "skyrecipes:family/snow_cannon"
+    },
+    "skyrecipes:family/snow_generator_1": {
+      "id": "skyrecipes:family/snow_generator_1"
+    },
+    "skyrecipes:family/snow_rune_1": {
+      "id": "skyrecipes:family/snow_rune_1"
+    },
+    "skyrecipes:family/snow_suit_boots": {
+      "id": "skyrecipes:family/snow_suit_boots"
+    },
+    "skyrecipes:family/snow_suit_chestplate": {
+      "id": "skyrecipes:family/snow_suit_chestplate"
+    },
+    "skyrecipes:family/snow_suit_helmet": {
+      "id": "skyrecipes:family/snow_suit_helmet"
+    },
+    "skyrecipes:family/snow_suit_leggings": {
+      "id": "skyrecipes:family/snow_suit_leggings"
+    },
+    "skyrecipes:family/snowman_5": {
+      "id": "skyrecipes:family/snowman_5"
+    },
+    "skyrecipes:family/soul_campfire_talisman_29": {
+      "id": "skyrecipes:family/soul_campfire_talisman_29"
+    },
+    "skyrecipes:family/soul_fish_diamond": {
+      "id": "skyrecipes:family/soul_fish_diamond"
+    },
+    "skyrecipes:family/soul_whip": {
+      "id": "skyrecipes:family/soul_whip"
+    },
+    "skyrecipes:family/soulflow_supercell": {
+      "id": "skyrecipes:family/soulflow_supercell"
+    },
+    "skyrecipes:family/soultwist_rune_1": {
+      "id": "skyrecipes:family/soultwist_rune_1"
+    },
+    "skyrecipes:family/sparkling_rune_1": {
+      "id": "skyrecipes:family/sparkling_rune_1"
+    },
+    "skyrecipes:family/speckled_melon": {
+      "id": "skyrecipes:family/speckled_melon"
+    },
+    "skyrecipes:family/speed_relic": {
+      "id": "skyrecipes:family/speed_relic"
+    },
+    "skyrecipes:family/speedster_boots": {
+      "id": "skyrecipes:family/speedster_boots"
+    },
+    "skyrecipes:family/speedster_chestplate": {
+      "id": "skyrecipes:family/speedster_chestplate"
+    },
+    "skyrecipes:family/speedster_helmet": {
+      "id": "skyrecipes:family/speedster_helmet"
+    },
+    "skyrecipes:family/speedster_leggings": {
+      "id": "skyrecipes:family/speedster_leggings"
+    },
+    "skyrecipes:family/spider_5": {
+      "id": "skyrecipes:family/spider_5"
+    },
+    "skyrecipes:family/spider_artifact": {
+      "id": "skyrecipes:family/spider_artifact"
+    },
+    "skyrecipes:family/spider_boots": {
+      "id": "skyrecipes:family/spider_boots"
+    },
+    "skyrecipes:family/spider_eye": {
+      "id": "skyrecipes:family/spider_eye"
+    },
+    "skyrecipes:family/spider_generator_1": {
+      "id": "skyrecipes:family/spider_generator_1"
+    },
+    "skyrecipes:family/spider_queens_stinger": {
+      "id": "skyrecipes:family/spider_queens_stinger"
+    },
+    "skyrecipes:family/spider_sword": {
+      "id": "skyrecipes:family/spider_sword"
+    },
+    "skyrecipes:family/spiked_atrocity": {
+      "id": "skyrecipes:family/spiked_atrocity"
+    },
+    "skyrecipes:family/spiked_hook_1": {
+      "id": "skyrecipes:family/spiked_hook_1"
+    },
+    "skyrecipes:family/spirit_4": {
+      "id": "skyrecipes:family/spirit_4"
+    },
+    "skyrecipes:family/spirit_mask": {
+      "id": "skyrecipes:family/spirit_mask"
+    },
+    "skyrecipes:family/spirit_rune_1": {
+      "id": "skyrecipes:family/spirit_rune_1"
+    },
+    "skyrecipes:family/spirit_sword": {
+      "id": "skyrecipes:family/spirit_sword"
+    },
+    "skyrecipes:family/sponge": {
+      "id": "skyrecipes:family/sponge"
+    },
+    "skyrecipes:family/sponge_boots": {
+      "id": "skyrecipes:family/sponge_boots"
+    },
+    "skyrecipes:family/sponge_chestplate": {
+      "id": "skyrecipes:family/sponge_chestplate"
+    },
+    "skyrecipes:family/sponge_helmet": {
+      "id": "skyrecipes:family/sponge_helmet"
+    },
+    "skyrecipes:family/sponge_leggings": {
+      "id": "skyrecipes:family/sponge_leggings"
+    },
+    "skyrecipes:family/spooky_boots": {
+      "id": "skyrecipes:family/spooky_boots"
+    },
+    "skyrecipes:family/spooky_chestplate": {
+      "id": "skyrecipes:family/spooky_chestplate"
+    },
+    "skyrecipes:family/spooky_helmet": {
+      "id": "skyrecipes:family/spooky_helmet"
+    },
+    "skyrecipes:family/spooky_leggings": {
+      "id": "skyrecipes:family/spooky_leggings"
+    },
+    "skyrecipes:family/sprayonator": {
+      "id": "skyrecipes:family/sprayonator"
+    },
+    "skyrecipes:family/spruce_generator_1": {
+      "id": "skyrecipes:family/spruce_generator_1"
+    },
+    "skyrecipes:family/squid_4": {
+      "id": "skyrecipes:family/squid_4"
+    },
+    "skyrecipes:family/steak_stake": {
+      "id": "skyrecipes:family/steak_stake"
+    },
+    "skyrecipes:family/stealth_1": {
+      "id": "skyrecipes:family/stealth_1"
+    },
+    "skyrecipes:family/steaming_hot_flounder_diamond": {
+      "id": "skyrecipes:family/steaming_hot_flounder_diamond"
+    },
+    "skyrecipes:family/stone_blade": {
+      "id": "skyrecipes:family/stone_blade"
+    },
+    "skyrecipes:family/stone_chestplate": {
+      "id": "skyrecipes:family/stone_chestplate"
+    },
+    "skyrecipes:family/string": {
+      "id": "skyrecipes:family/string"
+    },
+    "skyrecipes:family/strong_mana_1": {
+      "id": "skyrecipes:family/strong_mana_1"
+    },
+    "skyrecipes:family/subzero_wisp_4": {
+      "id": "skyrecipes:family/subzero_wisp_4"
+    },
+    "skyrecipes:family/sugar_cane_generator_1": {
+      "id": "skyrecipes:family/sugar_cane_generator_1"
+    },
+    "skyrecipes:family/sugar_rush_1": {
+      "id": "skyrecipes:family/sugar_rush_1"
+    },
+    "skyrecipes:family/sulphur": {
+      "id": "skyrecipes:family/sulphur"
+    },
+    "skyrecipes:family/sulphur_ore": {
+      "id": "skyrecipes:family/sulphur_ore"
+    },
+    "skyrecipes:family/sulphur_skitter_diamond": {
+      "id": "skyrecipes:family/sulphur_skitter_diamond"
+    },
+    "skyrecipes:family/sunder_1": {
+      "id": "skyrecipes:family/sunder_1"
+    },
+    "skyrecipes:family/sunflower_generator_1": {
+      "id": "skyrecipes:family/sunflower_generator_1"
+    },
+    "skyrecipes:family/sunshine_crystal": {
+      "id": "skyrecipes:family/sunshine_crystal"
+    },
+    "skyrecipes:family/super_compactor_3000": {
+      "id": "skyrecipes:family/super_compactor_3000"
+    },
+    "skyrecipes:family/superior_baby": {
+      "id": "skyrecipes:family/superior_baby"
+    },
+    "skyrecipes:family/superior_ender_dragon_boss": {
+      "id": "skyrecipes:family/superior_ender_dragon_boss"
+    },
+    "skyrecipes:family/superior_shimmer": {
+      "id": "skyrecipes:family/superior_shimmer"
+    },
+    "skyrecipes:family/sven_packmaster_1_boss": {
+      "id": "skyrecipes:family/sven_packmaster_1_boss"
+    },
+    "skyrecipes:family/synthesizer_v1": {
+      "id": "skyrecipes:family/synthesizer_v1"
+    },
+    "skyrecipes:family/syphon_1": {
+      "id": "skyrecipes:family/syphon_1"
+    },
+    "skyrecipes:family/tabasco_2": {
+      "id": "skyrecipes:family/tabasco_2"
+    },
+    "skyrecipes:family/talisman_enrichment_critical_chance": {
+      "id": "skyrecipes:family/talisman_enrichment_critical_chance"
+    },
+    "skyrecipes:family/tank_miner_boots": {
+      "id": "skyrecipes:family/tank_miner_boots"
+    },
+    "skyrecipes:family/tank_miner_chestplate": {
+      "id": "skyrecipes:family/tank_miner_chestplate"
+    },
+    "skyrecipes:family/tank_miner_helmet": {
+      "id": "skyrecipes:family/tank_miner_helmet"
+    },
+    "skyrecipes:family/tank_miner_leggings": {
+      "id": "skyrecipes:family/tank_miner_leggings"
+    },
+    "skyrecipes:family/tarantula_5": {
+      "id": "skyrecipes:family/tarantula_5"
+    },
+    "skyrecipes:family/tarantula_broodfather_1_boss": {
+      "id": "skyrecipes:family/tarantula_broodfather_1_boss"
+    },
+    "skyrecipes:family/tarantula_chestplate": {
+      "id": "skyrecipes:family/tarantula_chestplate"
+    },
+    "skyrecipes:family/tarantula_generator_1": {
+      "id": "skyrecipes:family/tarantula_generator_1"
+    },
+    "skyrecipes:family/tarantula_helmet": {
+      "id": "skyrecipes:family/tarantula_helmet"
+    },
+    "skyrecipes:family/tarantula_leggings": {
+      "id": "skyrecipes:family/tarantula_leggings"
+    },
+    "skyrecipes:family/tarantula_ring": {
+      "id": "skyrecipes:family/tarantula_ring"
+    },
+    "skyrecipes:family/tender_wood": {
+      "id": "skyrecipes:family/tender_wood"
+    },
+    "skyrecipes:family/terror_boots": {
+      "id": "skyrecipes:family/terror_boots"
+    },
+    "skyrecipes:family/terror_chestplate": {
+      "id": "skyrecipes:family/terror_chestplate"
+    },
+    "skyrecipes:family/terror_helmet": {
+      "id": "skyrecipes:family/terror_helmet"
+    },
+    "skyrecipes:family/terror_leggings": {
+      "id": "skyrecipes:family/terror_leggings"
+    },
+    "skyrecipes:family/theoretical_hoe_cane_3": {
+      "id": "skyrecipes:family/theoretical_hoe_cane_3"
+    },
+    "skyrecipes:family/theoretical_hoe_carrot_3": {
+      "id": "skyrecipes:family/theoretical_hoe_carrot_3"
+    },
+    "skyrecipes:family/theoretical_hoe_potato_3": {
+      "id": "skyrecipes:family/theoretical_hoe_potato_3"
+    },
+    "skyrecipes:family/theoretical_hoe_sunflower_3": {
+      "id": "skyrecipes:family/theoretical_hoe_sunflower_3"
+    },
+    "skyrecipes:family/theoretical_hoe_warts_3": {
+      "id": "skyrecipes:family/theoretical_hoe_warts_3"
+    },
+    "skyrecipes:family/theoretical_hoe_wheat_3": {
+      "id": "skyrecipes:family/theoretical_hoe_wheat_3"
+    },
+    "skyrecipes:family/theoretical_hoe_wild_rose_3": {
+      "id": "skyrecipes:family/theoretical_hoe_wild_rose_3"
+    },
+    "skyrecipes:family/thorns_1": {
+      "id": "skyrecipes:family/thorns_1"
+    },
+    "skyrecipes:family/thorns_boots": {
+      "id": "skyrecipes:family/thorns_boots"
+    },
+    "skyrecipes:family/thunder_shards": {
+      "id": "skyrecipes:family/thunder_shards"
+    },
+    "skyrecipes:family/thunderbolt_1": {
+      "id": "skyrecipes:family/thunderbolt_1"
+    },
+    "skyrecipes:family/thunderlord_1": {
+      "id": "skyrecipes:family/thunderlord_1"
+    },
+    "skyrecipes:family/tidal_1": {
+      "id": "skyrecipes:family/tidal_1"
+    },
+    "skyrecipes:family/tidal_rune_1": {
+      "id": "skyrecipes:family/tidal_rune_1"
+    },
+    "skyrecipes:family/tiger_4": {
+      "id": "skyrecipes:family/tiger_4"
+    },
+    "skyrecipes:family/tiny_scaffolding": {
+      "id": "skyrecipes:family/tiny_scaffolding"
+    },
+    "skyrecipes:family/titan_killer_1": {
+      "id": "skyrecipes:family/titan_killer_1"
+    },
+    "skyrecipes:family/titanium_drill_4": {
+      "id": "skyrecipes:family/titanium_drill_4"
+    },
+    "skyrecipes:family/titanium_ore": {
+      "id": "skyrecipes:family/titanium_ore"
+    },
+    "skyrecipes:family/titanium_relic": {
+      "id": "skyrecipes:family/titanium_relic"
+    },
+    "skyrecipes:family/torrhus_artifact": {
+      "id": "skyrecipes:family/torrhus_artifact"
+    },
+    "skyrecipes:family/trading_post_barn_skin": {
+      "id": "skyrecipes:family/trading_post_barn_skin"
+    },
+    "skyrecipes:family/transylvanian_4": {
+      "id": "skyrecipes:family/transylvanian_4"
+    },
+    "skyrecipes:family/treasure_artifact": {
+      "id": "skyrecipes:family/treasure_artifact"
+    },
+    "skyrecipes:family/tree_frog_diamond": {
+      "id": "skyrecipes:family/tree_frog_diamond"
+    },
+    "skyrecipes:family/triple_strike_1": {
+      "id": "skyrecipes:family/triple_strike_1"
+    },
+    "skyrecipes:family/tungsten": {
+      "id": "skyrecipes:family/tungsten"
+    },
+    "skyrecipes:family/turbo_cactus_1": {
+      "id": "skyrecipes:family/turbo_cactus_1"
+    },
+    "skyrecipes:family/turbo_cane_1": {
+      "id": "skyrecipes:family/turbo_cane_1"
+    },
+    "skyrecipes:family/turbo_carrot_1": {
+      "id": "skyrecipes:family/turbo_carrot_1"
+    },
+    "skyrecipes:family/turbo_coco_1": {
+      "id": "skyrecipes:family/turbo_coco_1"
+    },
+    "skyrecipes:family/turbo_gourd": {
+      "id": "skyrecipes:family/turbo_gourd"
+    },
+    "skyrecipes:family/turbo_melon_1": {
+      "id": "skyrecipes:family/turbo_melon_1"
+    },
+    "skyrecipes:family/turbo_moonflower_1": {
+      "id": "skyrecipes:family/turbo_moonflower_1"
+    },
+    "skyrecipes:family/turbo_mushrooms_1": {
+      "id": "skyrecipes:family/turbo_mushrooms_1"
+    },
+    "skyrecipes:family/turbo_potato_1": {
+      "id": "skyrecipes:family/turbo_potato_1"
+    },
+    "skyrecipes:family/turbo_pumpkin_1": {
+      "id": "skyrecipes:family/turbo_pumpkin_1"
+    },
+    "skyrecipes:family/turbo_rose_1": {
+      "id": "skyrecipes:family/turbo_rose_1"
+    },
+    "skyrecipes:family/turbo_sunflower_1": {
+      "id": "skyrecipes:family/turbo_sunflower_1"
+    },
+    "skyrecipes:family/turbo_warts_1": {
+      "id": "skyrecipes:family/turbo_warts_1"
+    },
+    "skyrecipes:family/turbo_wheat_1": {
+      "id": "skyrecipes:family/turbo_wheat_1"
+    },
+    "skyrecipes:family/turtle_4": {
+      "id": "skyrecipes:family/turtle_4"
+    },
+    "skyrecipes:family/ultimate_bank_1": {
+      "id": "skyrecipes:family/ultimate_bank_1"
+    },
+    "skyrecipes:family/ultimate_bobbin_time_3": {
+      "id": "skyrecipes:family/ultimate_bobbin_time_3"
+    },
+    "skyrecipes:family/ultimate_chimera_1": {
+      "id": "skyrecipes:family/ultimate_chimera_1"
+    },
+    "skyrecipes:family/ultimate_combo_1": {
+      "id": "skyrecipes:family/ultimate_combo_1"
+    },
+    "skyrecipes:family/ultimate_crop_fever_1": {
+      "id": "skyrecipes:family/ultimate_crop_fever_1"
+    },
+    "skyrecipes:family/ultimate_fatal_tempo_1": {
+      "id": "skyrecipes:family/ultimate_fatal_tempo_1"
+    },
+    "skyrecipes:family/ultimate_first_impression_1": {
+      "id": "skyrecipes:family/ultimate_first_impression_1"
+    },
+    "skyrecipes:family/ultimate_flash_1": {
+      "id": "skyrecipes:family/ultimate_flash_1"
+    },
+    "skyrecipes:family/ultimate_flowstate_1": {
+      "id": "skyrecipes:family/ultimate_flowstate_1"
+    },
+    "skyrecipes:family/ultimate_habanero_tactics_4": {
+      "id": "skyrecipes:family/ultimate_habanero_tactics_4"
+    },
+    "skyrecipes:family/ultimate_inferno_1": {
+      "id": "skyrecipes:family/ultimate_inferno_1"
+    },
+    "skyrecipes:family/ultimate_jerry_1": {
+      "id": "skyrecipes:family/ultimate_jerry_1"
+    },
+    "skyrecipes:family/ultimate_last_stand_1": {
+      "id": "skyrecipes:family/ultimate_last_stand_1"
+    },
+    "skyrecipes:family/ultimate_legion_1": {
+      "id": "skyrecipes:family/ultimate_legion_1"
+    },
+    "skyrecipes:family/ultimate_missile_1": {
+      "id": "skyrecipes:family/ultimate_missile_1"
+    },
+    "skyrecipes:family/ultimate_no_pain_no_gain_1": {
+      "id": "skyrecipes:family/ultimate_no_pain_no_gain_1"
+    },
+    "skyrecipes:family/ultimate_refrigerate_1": {
+      "id": "skyrecipes:family/ultimate_refrigerate_1"
+    },
+    "skyrecipes:family/ultimate_reiterate_1": {
+      "id": "skyrecipes:family/ultimate_reiterate_1"
+    },
+    "skyrecipes:family/ultimate_rend_1": {
+      "id": "skyrecipes:family/ultimate_rend_1"
+    },
+    "skyrecipes:family/ultimate_soul_eater_1": {
+      "id": "skyrecipes:family/ultimate_soul_eater_1"
+    },
+    "skyrecipes:family/ultimate_sunset_5": {
+      "id": "skyrecipes:family/ultimate_sunset_5"
+    },
+    "skyrecipes:family/ultimate_swarm_1": {
+      "id": "skyrecipes:family/ultimate_swarm_1"
+    },
+    "skyrecipes:family/ultimate_the_one_4": {
+      "id": "skyrecipes:family/ultimate_the_one_4"
+    },
+    "skyrecipes:family/ultimate_wisdom_1": {
+      "id": "skyrecipes:family/ultimate_wisdom_1"
+    },
+    "skyrecipes:family/ultimate_wise_1": {
+      "id": "skyrecipes:family/ultimate_wise_1"
+    },
+    "skyrecipes:family/umber": {
+      "id": "skyrecipes:family/umber"
+    },
+    "skyrecipes:family/uncommon_kuudra_chunk": {
+      "id": "skyrecipes:family/uncommon_kuudra_chunk"
+    },
+    "skyrecipes:family/undead_bow": {
+      "id": "skyrecipes:family/undead_bow"
+    },
+    "skyrecipes:family/undead_sword": {
+      "id": "skyrecipes:family/undead_sword"
+    },
+    "skyrecipes:family/upgrade_stone_subzero": {
+      "id": "skyrecipes:family/upgrade_stone_subzero"
+    },
+    "skyrecipes:family/vaccine_artifact": {
+      "id": "skyrecipes:family/vaccine_artifact"
+    },
+    "skyrecipes:family/vampire_generator_1": {
+      "id": "skyrecipes:family/vampire_generator_1"
+    },
+    "skyrecipes:family/vampire_mask": {
+      "id": "skyrecipes:family/vampire_mask"
+    },
+    "skyrecipes:family/vampiric_melon": {
+      "id": "skyrecipes:family/vampiric_melon"
+    },
+    "skyrecipes:family/vampirism_1": {
+      "id": "skyrecipes:family/vampirism_1"
+    },
+    "skyrecipes:family/vanille_diamond": {
+      "id": "skyrecipes:family/vanille_diamond"
+    },
+    "skyrecipes:family/venator_genesis": {
+      "id": "skyrecipes:family/venator_genesis"
+    },
+    "skyrecipes:family/venomous_1": {
+      "id": "skyrecipes:family/venomous_1"
+    },
+    "skyrecipes:family/venoms_touch": {
+      "id": "skyrecipes:family/venoms_touch"
+    },
+    "skyrecipes:family/vermin_pest_trap": {
+      "id": "skyrecipes:family/vermin_pest_trap"
+    },
+    "skyrecipes:family/vicious_3": {
+      "id": "skyrecipes:family/vicious_3"
+    },
+    "skyrecipes:family/vinesap": {
+      "id": "skyrecipes:family/vinesap"
+    },
+    "skyrecipes:family/vinyl_pretty_fly": {
+      "id": "skyrecipes:family/vinyl_pretty_fly"
+    },
+    "skyrecipes:family/voidgloom_seraph_1_boss": {
+      "id": "skyrecipes:family/voidgloom_seraph_1_boss"
+    },
+    "skyrecipes:family/voidling_generator_1": {
+      "id": "skyrecipes:family/voidling_generator_1"
+    },
+    "skyrecipes:family/voidwalker_katana": {
+      "id": "skyrecipes:family/voidwalker_katana"
+    },
+    "skyrecipes:family/volcanic_stonefish_diamond": {
+      "id": "skyrecipes:family/volcanic_stonefish_diamond"
+    },
+    "skyrecipes:family/voodoo_doll": {
+      "id": "skyrecipes:family/voodoo_doll"
+    },
+    "skyrecipes:family/voter_badge_supreme": {
+      "id": "skyrecipes:family/voter_badge_supreme"
+    },
+    "skyrecipes:family/wake_rune_1": {
+      "id": "skyrecipes:family/wake_rune_1"
+    },
+    "skyrecipes:family/wand_of_healing": {
+      "id": "skyrecipes:family/wand_of_healing"
+    },
+    "skyrecipes:family/warning_flare": {
+      "id": "skyrecipes:family/warning_flare"
+    },
+    "skyrecipes:family/water_bucket": {
+      "id": "skyrecipes:family/water_bucket"
+    },
+    "skyrecipes:family/water_orb": {
+      "id": "skyrecipes:family/water_orb"
+    },
+    "skyrecipes:family/webbed_fossil": {
+      "id": "skyrecipes:family/webbed_fossil"
+    },
+    "skyrecipes:family/wedding_ring_9": {
+      "id": "skyrecipes:family/wedding_ring_9"
+    },
+    "skyrecipes:family/weird_tuba": {
+      "id": "skyrecipes:family/weird_tuba"
+    },
+    "skyrecipes:family/wetlands_frog_diamond": {
+      "id": "skyrecipes:family/wetlands_frog_diamond"
+    },
+    "skyrecipes:family/wheat": {
+      "id": "skyrecipes:family/wheat"
+    },
+    "skyrecipes:family/wheat_generator_1": {
+      "id": "skyrecipes:family/wheat_generator_1"
+    },
+    "skyrecipes:family/white_gift": {
+      "id": "skyrecipes:family/white_gift"
+    },
+    "skyrecipes:family/white_spiral_rune_1": {
+      "id": "skyrecipes:family/white_spiral_rune_1"
+    },
+    "skyrecipes:family/wild_rose": {
+      "id": "skyrecipes:family/wild_rose"
+    },
+    "skyrecipes:family/will_o_wisp": {
+      "id": "skyrecipes:family/will_o_wisp"
+    },
+    "skyrecipes:family/wilted_berberis": {
+      "id": "skyrecipes:family/wilted_berberis"
+    },
+    "skyrecipes:family/witch_4": {
+      "id": "skyrecipes:family/witch_4"
+    },
+    "skyrecipes:family/witch_artifact": {
+      "id": "skyrecipes:family/witch_artifact"
+    },
+    "skyrecipes:family/wither_relic": {
+      "id": "skyrecipes:family/wither_relic"
+    },
+    "skyrecipes:family/wither_skeleton_0": {
+      "id": "skyrecipes:family/wither_skeleton_0"
+    },
+    "skyrecipes:family/wolf_4": {
+      "id": "skyrecipes:family/wolf_4"
+    },
+    "skyrecipes:family/wolf_ring": {
+      "id": "skyrecipes:family/wolf_ring"
+    },
+    "skyrecipes:family/wool": {
+      "id": "skyrecipes:family/wool"
+    },
+    "skyrecipes:family/wyld_sword": {
+      "id": "skyrecipes:family/wyld_sword"
+    },
+    "skyrecipes:family/xxlarge_enchanted_chest": {
+      "id": "skyrecipes:family/xxlarge_enchanted_chest"
+    },
+    "skyrecipes:family/yellow_flower": {
+      "id": "skyrecipes:family/yellow_flower"
+    },
+    "skyrecipes:family/yellow_rock": {
+      "id": "skyrecipes:family/yellow_rock"
+    },
+    "skyrecipes:family/yeti_sword": {
+      "id": "skyrecipes:family/yeti_sword"
+    },
+    "skyrecipes:family/zap_rune_1": {
+      "id": "skyrecipes:family/zap_rune_1"
+    },
+    "skyrecipes:family/zombie_4": {
+      "id": "skyrecipes:family/zombie_4"
+    },
+    "skyrecipes:family/zombie_artifact": {
+      "id": "skyrecipes:family/zombie_artifact"
+    },
+    "skyrecipes:family/zombie_generator_1": {
+      "id": "skyrecipes:family/zombie_generator_1"
+    },
+    "skyrecipes:family/zombie_heart": {
+      "id": "skyrecipes:family/zombie_heart"
+    },
+    "skyrecipes:family/zombie_slayer_rune_1": {
+      "id": "skyrecipes:family/zombie_slayer_rune_1"
+    },
+    "skyrecipes:family/zombie_sword": {
+      "id": "skyrecipes:family/zombie_sword"
+    }
+  }
+}
