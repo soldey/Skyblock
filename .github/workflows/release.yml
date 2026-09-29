@@ -99,6 +99,7 @@ jobs:
               dependencies: $deps[0],
               game_versions: [$pack[0].minecraft],
               loaders: ["fabric"],
+              environment: "client_only",
               version_type: "release",
               featured: true,
               status: "listed",
