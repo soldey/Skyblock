@@ -100,7 +100,7 @@ def main():
     }
 
     out_dir.mkdir(parents=True, exist_ok=True)
-    target = out_dir / f"{pack['name']}-{version}.mrpack"
+    target = out_dir / f"{pack['name'].replace(' ', '-')}-{version}.mrpack"
     with zipfile.ZipFile(target, "w", zipfile.ZIP_DEFLATED) as archive:
         archive.writestr("modrinth.index.json", json.dumps(index, indent=2))
         for path in overrides:

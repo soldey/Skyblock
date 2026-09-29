@@ -2,10 +2,12 @@
 # and only the folders that make up the modpack are let back in.
 /*
 !/.gitignore
+!/.gitattributes
 !/.github/
 !/scripts/
 !/pack.json
 !/README.md
+!/LICENSE
 
 !/config/
 !/datapacks/

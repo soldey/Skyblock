@@ -1,0 +1,2 @@
+# Commit SkyHanni's settings without the player's account storage, see scripts/strip-storage-filter.py.
+config/skyhanni/config.json filter=strip-storage

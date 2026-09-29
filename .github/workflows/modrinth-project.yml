@@ -1,0 +1,50 @@
+name: Modrinth project page
+
+# Keeps the Modrinth project page in step with the repository: the title, the short
+# description and the licence come from pack.json, the long description from .github/modrinth/description.md.
+# Runs when either of them reaches main, or by hand.
+#
+# The icon is deliberately not uploaded: Modrinth does not allow AI-generated images on the
+# project page, so .github/modrinth/icon.png is only a draft.
+on:
+  push:
+    branches: [main]
+    paths:
+      - pack.json
+      - .github/modrinth/description.md
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      # Referenced in an `if:`, which cannot read `secrets` directly.
+      MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+    if: vars.MODRINTH_PROJECT_ID != ''
+    steps:
+      - uses: actions/checkout@v7
+
+      # Needs a token with the "Write projects" and "Write versions" scopes: Modrinth copies
+      # client_side/server_side onto the environment of every existing version.
+      - name: Update the project page
+        if: env.MODRINTH_TOKEN != ''
+        env:
+          PROJECT_ID: ${{ vars.MODRINTH_PROJECT_ID }}
+        run: |
+          jq -n \
+            --slurpfile pack pack.json \
+            --rawfile body .github/modrinth/description.md \
+            '{
+              title: $pack[0].name,
+              description: $pack[0].summary,
+              body: $body,
+              license_id: $pack[0].license,
+              client_side: "required",
+              server_side: "unsupported"
+            }' > project.json
+          curl --fail-with-body -sS -X PATCH "https://api.modrinth.com/v2/project/$PROJECT_ID" \
+            -H "Authorization: $MODRINTH_TOKEN" \
+            -H "Content-Type: application/json" \
+            -H "User-Agent: $GITHUB_REPOSITORY (github.com/$GITHUB_REPOSITORY)" \
+            --data @project.json
+          echo "Project page updated."
