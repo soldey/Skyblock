@@ -54,4 +54,4 @@ Install it, log in to `mc.hypixel.net` and play.
 
 ## Credits
 
-Every mod and the resource pack are downloaded straight from their own Modrinth pages and belong to their authors, under their own licences. This pack only puts them together and ships the settings.
+Every mod and the resource pack are downloaded straight from their own Modrinth pages and belong to their authors, under their own licences. This pack only puts them together and ships the settings; those settings and the build scripts are MIT-licensed.

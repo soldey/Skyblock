@@ -1,7 +1,7 @@
 name: Modrinth project page
 
-# Keeps the Modrinth project page in step with the repository: the title and the short
-# description come from pack.json, the long description from .github/modrinth/description.md.
+# Keeps the Modrinth project page in step with the repository: the title, the short
+# description and the licence come from pack.json, the long description from .github/modrinth/description.md.
 # Runs when either of them reaches main, or by hand.
 #
 # The icon is deliberately not uploaded: Modrinth does not allow AI-generated images on the
@@ -38,6 +38,7 @@ jobs:
               title: $pack[0].name,
               description: $pack[0].summary,
               body: $body,
+              license_id: $pack[0].license,
               client_side: "required",
               server_side: "unsupported"
             }' > project.json

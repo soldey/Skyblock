@@ -2,5 +2,6 @@
   "name": "Skyblock PRO",
   "summary": "A ready-to-play Hypixel SkyBlock pack: SkyHanni, Skyblocker, Firmament, Odin and more, set up to work together, with FurSky Reborn textures and a full Sodium performance stack.",
   "minecraft": "26.1.2",
-  "fabric-loader": "0.19.5"
+  "fabric-loader": "0.19.5",
+  "license": "MIT"
 }
