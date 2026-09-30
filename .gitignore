@@ -26,6 +26,7 @@
 # --- config -----------------------------------------------------------------------------------
 
 # Own mods that are not part of the pack.
+/config/joinskyblock.json
 /config/kuudraiscool/
 /config/safarigrouphelper/
 
@@ -83,6 +84,7 @@
 # --- mods -------------------------------------------------------------------------------------
 
 /mods/Essential Dependencies*
+/mods/join-skyblock-*
 /mods/KIC-*
 /mods/modernfix-*
 /mods/macos-input-fixes-*
