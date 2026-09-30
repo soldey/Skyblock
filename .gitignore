@@ -26,6 +26,7 @@
 # --- config -----------------------------------------------------------------------------------
 
 # Own mods that are not part of the pack.
+/config/joinskyblock.json
 /config/kuudraiscool/
 /config/safarigrouphelper/
 
@@ -38,6 +39,7 @@
 /config/firmament/storage/
 /config/notenoughupdates/repo/
 /config/skyblockapi/
+/config/btrbz/
 /config/skyblocker/item-repo/
 /config/skyblocker/config_backups/
 /config/skyhanni/backup/
@@ -83,6 +85,7 @@
 # --- mods -------------------------------------------------------------------------------------
 
 /mods/Essential Dependencies*
+/mods/join-skyblock-*
 /mods/KIC-*
 /mods/modernfix-*
 /mods/macos-input-fixes-*
