@@ -1,0 +1,265 @@
+{
+	"enabled": true,
+	"alwaysActive": false,
+	"widgets": {
+		"global_fine_tune_scale": 1.0,
+		"global_background": -2079585268,
+		"manager_launcher_position": {
+			"x": 0.0,
+			"y": 1.0
+		},
+		"manager_panel_width": 210,
+		"manager_panel_height_percent": 85,
+		"manager_launcher_visible": true,
+		"runtime_dragging": false,
+		"bazaar_orders": {
+			"frame": {
+				"enabled": true,
+				"placements": {
+					"default": {
+						"x": 1.0,
+						"y": 0.006
+					}
+				},
+				"override_scale": false,
+				"scale": 1.0,
+				"override_background": false,
+				"background": -2079585268
+			},
+			"mode": "Detailed",
+			"visible_orders": 4,
+			"content_width": 200,
+			"abbreviate_enchanted": false,
+			"show_queue": true,
+			"show_undercut_gap": false,
+			"toggle_hint_state": "Unseen"
+		},
+		"tracked_orders": {
+			"frame": {
+				"enabled": true,
+				"placements": {
+					"default": {
+						"x": 0.145,
+						"y": 0.25
+					}
+				},
+				"override_scale": false,
+				"scale": 1.0,
+				"override_background": false,
+				"background": -2079585268
+			},
+			"content_width": 200,
+			"visible_rows": 5,
+			"layout": "Standard",
+			"sort": "Manual"
+		},
+		"order_value": {
+			"frame": {
+				"enabled": true,
+				"placements": {
+					"default": {
+						"x": 0.393,
+						"y": 0.077
+					}
+				},
+				"override_scale": false,
+				"scale": 1.0,
+				"override_background": false,
+				"background": -2079585268
+			},
+			"content_width": 205,
+			"display": "Detailed"
+		},
+		"order_book_screen": {
+			"frame": {
+				"enabled": true,
+				"placements": {
+					"default": {
+						"x": 0.29,
+						"y": 0.31
+					}
+				},
+				"override_scale": false,
+				"scale": 1.0,
+				"override_background": false,
+				"background": -2079585268
+			},
+			"content_width": 400,
+			"visible_rows": 10,
+			"layout": "Split",
+			"number_style": "Exact",
+			"show_order_count": true
+		},
+		"order_book_price": {
+			"frame": {
+				"enabled": true,
+				"placements": {
+					"default": {
+						"x": 0.16,
+						"y": 0.11
+					}
+				},
+				"override_scale": false,
+				"scale": 1.0,
+				"override_background": false,
+				"background": -2079585268
+			},
+			"content_width": 400,
+			"visible_rows": 8,
+			"show_order_count": true,
+			"side_display": "Relevant"
+		},
+		"bookmarks": {
+			"frame": {
+				"enabled": true,
+				"placements": {
+					"default": {
+						"x": 0.145,
+						"y": 0.516
+					}
+				},
+				"override_scale": false,
+				"scale": 1.0,
+				"override_background": false,
+				"background": -2079585268
+			},
+			"content_width": 200,
+			"visible_rows": 5,
+			"sort": "Manual",
+			"items": []
+		},
+		"order_presets": {
+			"frame": {
+				"enabled": true,
+				"placements": {
+					"default": {
+						"x": 0.642,
+						"y": 0.3
+					},
+					"sign": {
+						"x": 0.6,
+						"y": 0.183
+					}
+				},
+				"override_scale": false,
+				"scale": 1.0,
+				"override_background": false,
+				"background": -2079585268
+			},
+			"content_width": 50,
+			"visible_rows": 5,
+			"clipboard": true,
+			"show_disabled": false,
+			"volumes": []
+		},
+		"order_limit": {
+			"frame": {
+				"enabled": true,
+				"placements": {
+					"default": {
+						"x": 0.468,
+						"y": 0.063
+					}
+				},
+				"override_scale": false,
+				"scale": 1.0,
+				"override_background": false,
+				"background": -2079585268
+			},
+			"number_style": "Compact",
+			"daily_limit": 1.5E10,
+			"used_today": 0.0,
+			"last_reset_epoch_day": 20726
+		},
+		"price_diff": {
+			"frame": {
+				"enabled": true,
+				"placements": {
+					"default": {
+						"x": 0.4,
+						"y": 0.086
+					}
+				},
+				"override_scale": false,
+				"scale": 1.0,
+				"override_background": false,
+				"background": -2079585268
+			},
+			"content_width": 190
+		}
+	},
+	"productInfo": {
+		"enabled": true,
+		"item_click_enabled": true,
+		"ctrl_shift_enabled": true,
+		"ctrl_shift_on_bazaar_items": true,
+		"show_outside_bazaar": false,
+		"price_tooltip_enabled": false,
+		"site": "SkyblockBz"
+	},
+	"orderActions": {
+		"enabled": true,
+		"copy_remaining": true,
+		"copy_remaining_modifier": "Ctrl",
+		"reopen_bazaar": false,
+		"reopen_last_buy_order_enabled": true,
+		"clear_on_close": true
+	},
+	"trackedOrders": {
+		"enabled": true,
+		"notify_best": true,
+		"only_on_priority_regain": true,
+		"sound_best": false,
+		"notify_matched": true,
+		"sound_matched": true,
+		"notify_undercut": true,
+		"sound_undercut": true,
+		"notify_self_undercut": true,
+		"goto_on_matched": "Order",
+		"goto_on_undercut": "Order",
+		"show_queue_info": true,
+		"queue_display_mode": "Both",
+		"group_orders": false,
+		"include_price_per_unit": false
+	},
+	"orderHighlight": {
+		"enabled": true
+	},
+	"flipHelper": {
+		"enabled": true
+	},
+	"orderProtection": {
+		"enabled": true,
+		"show_chat_message": true,
+		"sound_on_blocked": true,
+		"block_undercut_percentage": true,
+		"max_buy_order_undercut": 15.0,
+		"max_sell_offer_undercut": 15.0,
+		"block_undercut_of_opposing": true
+	},
+	"tax": 1.125,
+	"alert": {
+		"enabled": true,
+		"sound_on_alert": true,
+		"alerts": [],
+		"reached_alerts": []
+	},
+	"orderListTooltip": {
+		"enabled": true,
+		"show_status": true,
+		"show_queue": true,
+		"show_prices": true,
+		"show_only_when_undercut": false
+	},
+	"orderItemTooltip": {
+		"enabled": true,
+		"show_status": true,
+		"show_queue": true,
+		"show_prices": false,
+		"show_only_when_undercut": true,
+		"show_estimated_time": false
+	},
+	"chatFilter": {
+		"enabled": true
+	}
+}
