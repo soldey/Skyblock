@@ -53,7 +53,7 @@ touchscreen:false
 bobView:false
 toggleCrouch:false
 toggleSprint:false
-toggleAttack:true
+toggleAttack:false
 toggleUse:false
 sprintWindow:7
 darkMojangStudiosBackground:false
@@ -169,6 +169,7 @@ key_key.debug.networkCharts:key.keyboard.3
 key_key.debug.lightmapTexture:key.keyboard.4
 key_key.apec.open_menu:key.keyboard.m
 key_key.apec.toggle_hud:key.keyboard.right.control
+key_key.btrbz.toggle_bazaar_orders_hud:key.keyboard.h
 key_key.chattingenthusiast.chatpeek:key.keyboard.z
 key_firmament.config.wardrobe-keybinds.change-page:key.keyboard.unknown
 key_firmament.config.wardrobe-keybinds.next-page:key.keyboard.unknown
