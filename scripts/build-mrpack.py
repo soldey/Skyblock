@@ -11,8 +11,9 @@ The settings (config/ and options.txt) do not go into overrides/ directly: Modri
 every override of the old version on a pack update, so shipped configs would reset every
 player's settings each time. They go into overrides/proupdater/defaults/ instead, with a
 manifest.json and a resourcepacks.json, and the PRO-Updater mod lays them out: everything on a
-fresh install, only missing files on an update. That layout is useless without the mod, so the
-build refuses to run unless PRO-Updater is in the pack as a Modrinth download.
+fresh install, only missing files on an update. Without the mod in the pack the settings still
+go there and nothing lays them out: the pack starts with every mod at its own defaults, and a
+player who wants the pack's settings adds PRO-Updater themselves. The build only warns about it.
 
 --dev is for trying the pack locally before PRO-Updater is on Modrinth: the untracked
 mods/pro-updater-*.jar from the profile is shipped as an override and the check is skipped.
@@ -153,14 +154,7 @@ def main():
             "dependency_type": "embedded",
         })
 
-    if not dev:
-        if not any(Path(f["path"]).match(f"mods/{PRO_UPDATER_JAR}") for f in index_files):
-            sys.exit(
-                "PRO-Updater is not in the pack as a Modrinth download. Without it nobody lays out "
-                "proupdater/defaults/ and players get no settings at all. Once it is on Modrinth, take "
-                "mods/pro-updater-* out of .gitignore and commit the jar. To try the pack locally "
-                "before that, build with --dev."
-            )
+    has_pro_updater = dev or any(Path(f["path"]).match(f"mods/{PRO_UPDATER_JAR}") for f in index_files)
 
     index = {
         "formatVersion": 1,
@@ -201,6 +195,9 @@ def main():
     for path in overrides:
         if path.parts[0] in LOOKUP_FOLDERS:
             print(f"  not on Modrinth, shipped as override: {path}")
+    if not has_pro_updater:
+        print("  PRO-Updater is not in the pack: nothing will lay out the settings, players start with "
+              "every mod at its defaults until they add PRO-Updater themselves")
     if dev:
         print("  --dev build: for local testing only, do not publish")
 
