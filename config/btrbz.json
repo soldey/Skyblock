@@ -14,7 +14,7 @@
 		"runtime_dragging": false,
 		"bazaar_orders": {
 			"frame": {
-				"enabled": true,
+				"enabled": false,
 				"placements": {
 					"default": {
 						"x": 1.0,
@@ -32,15 +32,15 @@
 			"abbreviate_enchanted": false,
 			"show_queue": true,
 			"show_undercut_gap": false,
-			"toggle_hint_state": "Unseen"
+			"toggle_hint_state": "Dismissed"
 		},
 		"tracked_orders": {
 			"frame": {
 				"enabled": true,
 				"placements": {
 					"default": {
-						"x": 0.145,
-						"y": 0.25
+						"x": 0.10546875,
+						"y": 0.48194444444444445
 					}
 				},
 				"override_scale": false,
@@ -168,8 +168,8 @@
 			},
 			"number_style": "Compact",
 			"daily_limit": 1.5E10,
-			"used_today": 0.0,
-			"last_reset_epoch_day": 20726
+			"used_today": 3.7208789696325E8,
+			"last_reset_epoch_day": 20728
 		},
 		"price_diff": {
 			"frame": {

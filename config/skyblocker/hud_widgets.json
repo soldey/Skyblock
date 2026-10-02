@@ -1,203 +1,9 @@
 {
   "configs": {
-    "foraging_3": {
+    "garden": {
       "hud": {
         "widgets": {
-          "hud_lasso": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.8
-            },
-            "position": {
-              "parent": "sweep_details",
-              "parent_anchor": {
-                "v": "BOTTOM",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 2,
-              "relative_y": 6
-            }
-          },
-          "hud_fishing": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.8,
-              "creature_counter": true,
-              "fishing_timer": true,
-              "only_barn": true
-            },
-            "position": {
-              "parent": "hud_treeprogress",
-              "parent_anchor": {
-                "v": "BOTTOM",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": -307,
-              "relative_y": -266
-            }
-          },
-          "hud_treeprogress": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.8
-            },
-            "position": {
-              "parent": "hud_lasso",
-              "parent_anchor": {
-                "v": "BOTTOM",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 2,
-              "relative_y": 9
-            }
-          },
-          "sweep_details": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.8
-            },
-            "position": {
-              "parent_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 313,
-              "relative_y": 284
-            }
-          }
-        }
-      },
-      "tab": {
-        "widgets": {
-          "pet": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.75,
-              "hide_if_missing": false
-            }
-          },
-          "area": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.75,
-              "hide_if_missing": false
-            }
-          },
-          "players": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.75,
-              "hide_if_missing": false,
-              "name_sorting": "default"
-            }
-          },
-          "skills": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.75,
-              "hide_if_missing": false
-            }
-          },
-          "starborn_temple": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.8,
-              "hide_if_missing": false
-            }
-          },
-          "desert_whispers": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.75,
-              "hide_if_missing": false
-            }
-          },
-          "torrhus_beacon": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.75,
-              "hide_if_missing": false
-            }
-          },
-          "salts": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.75,
-              "hide_if_missing": false
-            }
-          },
-          "profile": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.75,
-              "hide_if_missing": false
-            }
-          }
-        }
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "mining_2": {
-      "hud": {
-        "widgets": {
-          "hud_fishing": {
+          "hud_farming": {
             "config": {},
             "position": {
               "parent_anchor": {
@@ -208,105 +14,8 @@
                 "v": "TOP",
                 "h": "LEFT"
               },
-              "relative_x": 7,
-              "relative_y": 90
-            }
-          }
-        }
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "rift": {
-      "hud": {
-        "widgets": {
-          "hud_slayer": {
-            "config": {},
-            "position": {
-              "parent_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 5,
-              "relative_y": 5
-            }
-          },
-          "hud_fishing": {
-            "config": {},
-            "position": {
-              "parent_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 7,
-              "relative_y": 90
-            }
-          }
-        }
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "farming_1": {
-      "hud": {
-        "widgets": {
-          "hud_fishing": {
-            "config": {},
-            "position": {
-              "parent_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 7,
-              "relative_y": 90
-            }
-          }
-        }
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "foraging_1": {
-      "hud": {
-        "widgets": {
-          "hud_slayer": {
-            "config": {},
-            "position": {
-              "parent": "sweep_details",
-              "parent_anchor": {
-                "v": "BOTTOM",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 0,
-              "relative_y": 2
+              "relative_x": 165,
+              "relative_y": 360
             }
           },
           "sweep_details": {
@@ -324,60 +33,6 @@
               "relative_y": 5
             }
           },
-          "hud_fishing": {
-            "config": {},
-            "position": {
-              "parent_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 7,
-              "relative_y": 90
-            }
-          }
-        }
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "dark_auction": {
-      "hud": {
-        "widgets": {
-          "hud_fishing": {
-            "config": {},
-            "position": {
-              "parent_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 7,
-              "relative_y": 90
-            }
-          }
-        }
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "mining_1": {
-      "hud": {
-        "widgets": {
           "hud_fishing": {
             "config": {},
             "position": {
@@ -429,39 +84,9 @@
         "widgets": {}
       }
     },
-    "garden": {
+    "winter": {
       "hud": {
         "widgets": {
-          "hud_farming": {
-            "config": {},
-            "position": {
-              "parent_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 165,
-              "relative_y": 360
-            }
-          },
-          "sweep_details": {
-            "config": {},
-            "position": {
-              "parent_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 5,
-              "relative_y": 5
-            }
-          },
           "hud_fishing": {
             "config": {},
             "position": {
@@ -687,6 +312,225 @@
         "widgets": {}
       }
     },
+    "combat_3": {
+      "hud": {
+        "widgets": {
+          "hud_slayer": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.75
+            },
+            "position": {
+              "parent_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 247,
+              "relative_y": 61
+            }
+          },
+          "hud_end": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.75,
+              "zealot_kills": true,
+              "protector_location": true
+            },
+            "position": {
+              "parent_anchor": {
+                "v": "BOTTOM",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "BOTTOM",
+                "h": "LEFT"
+              },
+              "relative_x": 9,
+              "relative_y": -139
+            }
+          },
+          "hud_fishing": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.75,
+              "creature_counter": true,
+              "fishing_timer": true,
+              "only_barn": true
+            },
+            "position": {
+              "parent_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 7,
+              "relative_y": 90
+            }
+          }
+        }
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "mining_1": {
+      "hud": {
+        "widgets": {
+          "hud_fishing": {
+            "config": {},
+            "position": {
+              "parent_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 7,
+              "relative_y": 90
+            }
+          }
+        }
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "mining_2": {
+      "hud": {
+        "widgets": {
+          "hud_fishing": {
+            "config": {},
+            "position": {
+              "parent_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 7,
+              "relative_y": 90
+            }
+          }
+        }
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "foraging_1": {
+      "hud": {
+        "widgets": {
+          "hud_slayer": {
+            "config": {},
+            "position": {
+              "parent": "sweep_details",
+              "parent_anchor": {
+                "v": "BOTTOM",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 0,
+              "relative_y": 2
+            }
+          },
+          "sweep_details": {
+            "config": {},
+            "position": {
+              "parent_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 5,
+              "relative_y": 5
+            }
+          },
+          "hud_fishing": {
+            "config": {},
+            "position": {
+              "parent_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 7,
+              "relative_y": 90
+            }
+          }
+        }
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "farming_1": {
+      "hud": {
+        "widgets": {
+          "hud_fishing": {
+            "config": {},
+            "position": {
+              "parent_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 7,
+              "relative_y": 90
+            }
+          }
+        }
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
     "crystal_hollows": {
       "hud": {
         "widgets": {
@@ -785,7 +629,65 @@
         "widgets": {}
       }
     },
-    "dungeon_hub": {
+    "mining_3": {
+      "hud": {
+        "widgets": {
+          "commissions": {
+            "config": {},
+            "position": {
+              "parent_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": -2,
+              "relative_y": 232
+            }
+          },
+          "hud_fishing": {
+            "config": {},
+            "position": {
+              "parent_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 6,
+              "relative_y": 436
+            }
+          },
+          "powders": {
+            "config": {},
+            "position": {
+              "parent": "commissions",
+              "parent_anchor": {
+                "v": "BOTTOM",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 0,
+              "relative_y": 2
+            }
+          }
+        }
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "dynamic": {
       "hud": {
         "widgets": {
           "hud_fishing": {
@@ -812,10 +714,10 @@
         "widgets": {}
       }
     },
-    "combat_2": {
+    "rift": {
       "hud": {
         "widgets": {
-          "hud_fishing": {
+          "hud_slayer": {
             "config": {},
             "position": {
               "parent_anchor": {
@@ -824,67 +726,39 @@
               },
               "this_anchor": {
                 "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 7,
-              "relative_y": 90
-            }
-          }
-        }
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "winter": {
-      "hud": {
-        "widgets": {
-          "hud_fishing": {
-            "config": {},
-            "position": {
-              "parent_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 7,
-              "relative_y": 90
-            }
-          }
-        }
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "dungeon": {
-      "hud": {
-        "widgets": {
-          "dungeon_splits": {
-            "config": {},
-            "position": {
-              "parent_anchor": {
-                "v": "CENTER",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "CENTER",
                 "h": "LEFT"
               },
               "relative_x": 5,
-              "relative_y": 0
+              "relative_y": 5
+            }
+          },
+          "hud_fishing": {
+            "config": {},
+            "position": {
+              "parent_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 7,
+              "relative_y": 90
             }
           }
         }
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "safari": {
+      "hud": {
+        "widgets": {}
       },
       "tab": {
         "widgets": {}
@@ -920,7 +794,34 @@
         "widgets": {}
       }
     },
-    "fishing_1": {
+    "lotus_atoll": {
+      "hud": {
+        "widgets": {
+          "hud_fishing": {
+            "config": {},
+            "position": {
+              "parent_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 5,
+              "relative_y": 5
+            }
+          }
+        }
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
+    "combat_2": {
       "hud": {
         "widgets": {
           "hud_fishing": {
@@ -1048,6 +949,33 @@
         "widgets": {}
       }
     },
+    "dungeon": {
+      "hud": {
+        "widgets": {
+          "dungeon_splits": {
+            "config": {},
+            "position": {
+              "parent_anchor": {
+                "v": "CENTER",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "CENTER",
+                "h": "LEFT"
+              },
+              "relative_x": 5,
+              "relative_y": 0
+            }
+          }
+        }
+      },
+      "tab": {
+        "widgets": {}
+      },
+      "secondary_tab": {
+        "widgets": {}
+      }
+    },
     "combat_1": {
       "hud": {
         "widgets": {
@@ -1082,17 +1010,6 @@
             }
           }
         }
-      },
-      "tab": {
-        "widgets": {}
-      },
-      "secondary_tab": {
-        "widgets": {}
-      }
-    },
-    "safari": {
-      "hud": {
-        "widgets": {}
       },
       "tab": {
         "widgets": {}
@@ -1158,24 +1075,9 @@
         "widgets": {}
       }
     },
-    "mining_3": {
+    "fishing_1": {
       "hud": {
         "widgets": {
-          "commissions": {
-            "config": {},
-            "position": {
-              "parent_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": -2,
-              "relative_y": 232
-            }
-          },
           "hud_fishing": {
             "config": {},
             "position": {
@@ -1187,24 +1089,8 @@
                 "v": "TOP",
                 "h": "LEFT"
               },
-              "relative_x": 6,
-              "relative_y": 436
-            }
-          },
-          "powders": {
-            "config": {},
-            "position": {
-              "parent": "commissions",
-              "parent_anchor": {
-                "v": "BOTTOM",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 0,
-              "relative_y": 2
+              "relative_x": 7,
+              "relative_y": 90
             }
           }
         }
@@ -1216,51 +1102,29 @@
         "widgets": {}
       }
     },
-    "combat_3": {
+    "foraging_3": {
       "hud": {
         "widgets": {
-          "hud_slayer": {
+          "hud_lasso": {
             "config": {
               "scale": 1.0,
               "draw_border": true,
               "draw_title": true,
               "rounded_corners": true,
-              "background_opacity": 0.75
+              "background_opacity": 0.8
             },
             "position": {
-              "parent_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "this_anchor": {
-                "v": "TOP",
-                "h": "LEFT"
-              },
-              "relative_x": 247,
-              "relative_y": 61
-            }
-          },
-          "hud_end": {
-            "config": {
-              "scale": 1.0,
-              "draw_border": true,
-              "draw_title": true,
-              "rounded_corners": true,
-              "background_opacity": 0.75,
-              "zealot_kills": true,
-              "protector_location": true
-            },
-            "position": {
+              "parent": "sweep_details",
               "parent_anchor": {
                 "v": "BOTTOM",
                 "h": "LEFT"
               },
               "this_anchor": {
-                "v": "BOTTOM",
+                "v": "TOP",
                 "h": "LEFT"
               },
-              "relative_x": 9,
-              "relative_y": -139
+              "relative_x": 2,
+              "relative_y": 6
             }
           },
           "hud_fishing": {
@@ -1269,12 +1133,56 @@
               "draw_border": true,
               "draw_title": true,
               "rounded_corners": true,
-              "background_opacity": 0.75,
+              "background_opacity": 0.8,
               "creature_counter": true,
               "fishing_timer": true,
               "only_barn": true
             },
             "position": {
+              "parent": "hud_treeprogress",
+              "parent_anchor": {
+                "v": "BOTTOM",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": -307,
+              "relative_y": -266
+            }
+          },
+          "hud_treeprogress": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.8
+            },
+            "position": {
+              "parent": "hud_lasso",
+              "parent_anchor": {
+                "v": "BOTTOM",
+                "h": "LEFT"
+              },
+              "this_anchor": {
+                "v": "TOP",
+                "h": "LEFT"
+              },
+              "relative_x": 2,
+              "relative_y": 9
+            }
+          },
+          "sweep_details": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.8
+            },
+            "position": {
               "parent_anchor": {
                 "v": "TOP",
                 "h": "LEFT"
@@ -1283,20 +1191,112 @@
                 "v": "TOP",
                 "h": "LEFT"
               },
-              "relative_x": 7,
-              "relative_y": 90
+              "relative_x": 313,
+              "relative_y": 284
             }
           }
         }
       },
       "tab": {
-        "widgets": {}
+        "widgets": {
+          "pet": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.75,
+              "hide_if_missing": false
+            }
+          },
+          "area": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.75,
+              "hide_if_missing": false
+            }
+          },
+          "players": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.75,
+              "hide_if_missing": false,
+              "name_sorting": "default"
+            }
+          },
+          "skills": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.75,
+              "hide_if_missing": false
+            }
+          },
+          "starborn_temple": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.8,
+              "hide_if_missing": false
+            }
+          },
+          "desert_whispers": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.75,
+              "hide_if_missing": false
+            }
+          },
+          "torrhus_beacon": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.75,
+              "hide_if_missing": false
+            }
+          },
+          "salts": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.75,
+              "hide_if_missing": false
+            }
+          },
+          "profile": {
+            "config": {
+              "scale": 1.0,
+              "draw_border": true,
+              "draw_title": true,
+              "rounded_corners": true,
+              "background_opacity": 0.75,
+              "hide_if_missing": false
+            }
+          }
+        }
       },
       "secondary_tab": {
         "widgets": {}
       }
     },
-    "dynamic": {
+    "dark_auction": {
       "hud": {
         "widgets": {
           "hud_fishing": {
@@ -1323,7 +1323,7 @@
         "widgets": {}
       }
     },
-    "lotus_atoll": {
+    "dungeon_hub": {
       "hud": {
         "widgets": {
           "hud_fishing": {
@@ -1337,8 +1337,8 @@
                 "v": "TOP",
                 "h": "LEFT"
               },
-              "relative_x": 5,
-              "relative_y": 5
+              "relative_x": 7,
+              "relative_y": 90
             }
           }
         }

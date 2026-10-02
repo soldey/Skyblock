@@ -1,8 +1,8 @@
 {
   "schemaVersion": 12,
-  "buildTimestamp": 1790717044635,
-  "itemCount": 8842,
-  "etag": "\"a24bc6724c976cb344b4f578bf7867708369599cce2f832ba2200c424560ed02\"",
-  "commitHash": "4522a0ab8e5e831a",
+  "buildTimestamp": 1790953819063,
+  "itemCount": 8847,
+  "etag": "\"736fac1005af6edc5fe7b9d9a46bdb3527be2bf7c0be0b65b77c753460300b28\"",
+  "commitHash": "ce9ea4ff29b2993d",
   "sourceUrl": "https://codeload.github.com/NotEnoughUpdates/NotEnoughUpdates-REPO/zip/refs/heads/master"
 }

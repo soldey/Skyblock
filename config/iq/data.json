@@ -1,9 +1,13 @@
 {
   "iqconfig.uiStateTimestamp": 1.790015250936E12,
   "globalcfg.hudStyle": 0,
+  "globalcfg.session.category": 0,
+  "globalcfg.session.expandedSections": "",
   "globalcfg.hudStyleOptionsV2": true,
   "iqconfig.lastCategoryId": "Configuration",
   "iqconfig.expandedSections": "",
+  "globalcfg.session.scroll": 306.0,
   "iqconfig.lastScroll": 0.0,
-  "iqconfig.lastSearch": ""
+  "iqconfig.lastSearch": "",
+  "globalcfg.session.query": ""
 }
