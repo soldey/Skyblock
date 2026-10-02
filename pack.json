@@ -8,5 +8,8 @@
     "vanilla",
     "file/FurSky Reborn.cats.zip"
   ],
-  "versionType": "alpha"
+  "versionType": "release",
+  "forcedOptions": {
+    "toggleAttack": "false"
+  }
 }
