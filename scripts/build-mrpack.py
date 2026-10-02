@@ -48,19 +48,11 @@ def strip_skyhanni_storage(data):
     data.pop("storage", None)
 
 
-def clear_nofrills_slot_bindings(data):
-    # The author's own slot bindings; a new player starts without any. The feature itself stays.
-    slots = data.get("slotBinding", {}).get("data", {})
-    for hotbar in slots.values():
-        if isinstance(hotbar, dict):
-            hotbar["last"] = 0
-            hotbar["binds"] = []
-
-
-# Account state or personal choices kept next to the settings, removed from the shipped copy.
+# Account state kept next to the settings, removed from the shipped copy. NoFrills slot bindings
+# do ship: they are part of the author's setup, and PRO-Updater's "Clear NoFrills slot bindings"
+# step empties them for players who would rather start without them.
 JSON_SANITIZERS = {
     "config/skyhanni/config.json": strip_skyhanni_storage,
-    "config/NoFrills/Configuration.json": clear_nofrills_slot_bindings,
 }
 
 
