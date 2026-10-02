@@ -50,6 +50,7 @@
 
 # State of the player's own account: inventories, friends, pets, sacks, museum, found souls,
 # trackers and the like. None of it is a setting, and it must not end up in a public pack.
+/config/enhanced_storage/
 /config/NoFrills/ShardData.json
 /config/NoFrills/SkillTracker.json
 /config/NoFrills/*Cache.json
@@ -98,3 +99,7 @@
 # --- skyrecipes -------------------------------------------------------------------------------
 
 /skyrecipes/cache/
+
+# --- scripts ----------------------------------------------------------------------------------
+
+/scripts/__pycache__/

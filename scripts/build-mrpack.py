@@ -48,6 +48,10 @@ def strip_skyhanni_storage(data):
     data.pop("storage", None)
 
 
+# Folders that only ever hold the player's own data (cached backpack and ender chest contents per
+# SkyBlock profile, ...). They are gitignored; this keeps them out of the pack even if one slips in.
+NEVER_SHIP = ("config/enhanced_storage/",)
+
 # Account state kept next to the settings, removed from the shipped copy. NoFrills slot bindings
 # do ship: they are part of the author's setup, and PRO-Updater's "Clear NoFrills slot bindings"
 # step empties them for players who would rather start without them.
@@ -86,7 +90,11 @@ def tracked_files():
     out = subprocess.run(
         ["git", "ls-files", "-z", "--", *FOLDERS, *FILES], check=True, capture_output=True
     ).stdout
-    return sorted(Path(p) for p in out.decode().split("\0") if p and Path(p).name not in SKIP_NAMES)
+    paths = [Path(p) for p in out.decode().split("\0") if p and Path(p).name not in SKIP_NAMES]
+    for path in paths:
+        if path.as_posix().startswith(NEVER_SHIP):
+            print(f"  personal data, not shipped: {path}")
+    return sorted(p for p in paths if not p.as_posix().startswith(NEVER_SHIP))
 
 
 def lookup(sha1s):
