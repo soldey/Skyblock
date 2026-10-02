@@ -53,7 +53,7 @@ touchscreen:false
 bobView:false
 toggleCrouch:false
 toggleSprint:false
-toggleAttack:false
+toggleAttack:true
 toggleUse:false
 sprintWindow:7
 darkMojangStudiosBackground:false
@@ -61,7 +61,7 @@ hideLightningFlashes:false
 hideSplashTexts:false
 mouseSensitivity:0.40199530516431914
 damageTiltStrength:0.10211267605633803
-highContrast:false
+highContrast:true
 highContrastBlockOutline:false
 narratorHotkey:true
 resourcePacks:["vanilla","file/FurSky Reborn.cats.zip","high_contrast"]

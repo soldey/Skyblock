@@ -55,21 +55,37 @@ NEVER_SHIP = ("config/enhanced_storage/",)
 # Account state kept next to the settings, removed from the shipped copy. NoFrills slot bindings
 # do ship: they are part of the author's setup, and PRO-Updater's "Clear NoFrills slot bindings"
 # step empties them for players who would rather start without them.
+def reset_btrbz_daily_volume(data):
+    # BtrBz counts the coins traded on the Bazaar today against the daily limit: the author's own
+    # trading. A zero day makes the mod start counting from the player's first order.
+    limit = data.get("widgets", {}).get("order_limit")
+    if isinstance(limit, dict):
+        limit["used_today"] = 0.0
+        limit["last_reset_epoch_day"] = 0
+
+
 JSON_SANITIZERS = {
     "config/skyhanni/config.json": strip_skyhanni_storage,
+    "config/btrbz.json": reset_btrbz_daily_volume,
 }
 
 
 def sanitize_options(text, pack):
     # The author's resource pack choice (high contrast, ...) is not the pack's: PRO-Updater turns
-    # on the pack's own list, the rest is the player's business.
+    # on the pack's own list, the rest is the player's business. "forcedOptions" in pack.json are
+    # what the pack always ships, whatever the author has locally (Attack/Destroy on Hold, ...).
+    forced = dict(pack.get("forcedOptions", {}))
     lines = []
     for line in text.splitlines():
-        if line.startswith("resourcePacks:"):
+        key = line.split(":", 1)[0]
+        if key in forced:
+            line = f"{key}:{forced.pop(key)}"
+        elif line.startswith("resourcePacks:"):
             line = "resourcePacks:" + json.dumps(pack["resourcePacks"], separators=(",", ":"))
         elif line.startswith("incompatibleResourcePacks:"):
             line = "incompatibleResourcePacks:[]"
         lines.append(line)
+    lines += [f"{key}:{value}" for key, value in forced.items()]
     return "\n".join(lines) + "\n"
 
 
