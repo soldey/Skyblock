@@ -7,5 +7,6 @@
   "resourcePacks": [
     "vanilla",
     "file/FurSky Reborn.cats.zip"
-  ]
+  ],
+  "versionType": "alpha"
 }

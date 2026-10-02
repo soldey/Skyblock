@@ -6,6 +6,10 @@ name: Release
 #
 # The manual run is for when Modrinth failed half-way or a release is wanted without a new
 # commit: leave the version empty to work it out from the commits, or type one to force it.
+#
+# "versionType" in pack.json (release, beta or alpha) sets the Modrinth channel. Beta and alpha
+# get the channel appended to the file name and the Modrinth version number (3.4.0-alpha) and
+# a GitHub pre-release; the git tag stays plain (v3.4.0) so the next version is worked out as usual.
 on:
   push:
     branches: [main]
@@ -43,16 +47,24 @@ jobs:
           if [ -z "$version" ]; then
             echo "No feat/fix/release commit since the last tag, nothing to release."
             echo "skip=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "Next version: $version"
-            echo "version=$version" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
+          type=$(jq -r '.versionType // "release"' pack.json)
+          case "$type" in
+            release) suffix="" ;;
+            beta|alpha) suffix="-$type" ;;
+            *) echo "Unknown versionType \"$type\" in pack.json"; exit 1 ;;
+          esac
+          echo "Next version: $version ($type)"
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+          echo "type=$type" >> "$GITHUB_OUTPUT"
+          echo "pack_version=$version$suffix" >> "$GITHUB_OUTPUT"
 
       - name: Build the modpack
         if: steps.version.outputs.skip != 'true'
         env:
-          VERSION: ${{ steps.version.outputs.version }}
-        run: python3 scripts/build-mrpack.py "$VERSION" dist
+          PACK_VERSION: ${{ steps.version.outputs.pack_version }}
+        run: python3 scripts/build-mrpack.py "$PACK_VERSION" dist
 
       # A manual re-run for a version that is already tagged skips straight to Modrinth.
       - name: Publish the GitHub release
@@ -60,6 +72,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VERSION: ${{ steps.version.outputs.version }}
+          PACK_VERSION: ${{ steps.version.outputs.pack_version }}
+          TYPE: ${{ steps.version.outputs.type }}
         run: |
           NAME=$(jq -r .name pack.json)
           scripts/changelog.sh "v$VERSION" > dist/notes.md
@@ -70,10 +84,12 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git tag -a "v$VERSION" -m "$NAME $VERSION"
+          git tag -a "v$VERSION" -m "$NAME $PACK_VERSION"
           git push origin "v$VERSION"
-          gh release create "v$VERSION" dist/*.mrpack \
-            --title "$NAME $VERSION" \
+          prerelease=()
+          [ "$TYPE" != release ] && prerelease=(--prerelease)
+          gh release create "v$VERSION" dist/*.mrpack "${prerelease[@]}" \
+            --title "$NAME $PACK_VERSION" \
             --notes-file dist/notes.md
 
       # Skipped silently until the MODRINTH_PROJECT_ID variable and the MODRINTH_TOKEN secret
@@ -82,12 +98,14 @@ jobs:
         if: steps.version.outputs.skip != 'true' && vars.MODRINTH_PROJECT_ID != '' && env.MODRINTH_TOKEN != ''
         env:
           PROJECT_ID: ${{ vars.MODRINTH_PROJECT_ID }}
-          VERSION: ${{ steps.version.outputs.version }}
+          PACK_VERSION: ${{ steps.version.outputs.pack_version }}
+          TYPE: ${{ steps.version.outputs.type }}
         run: |
           file=$(ls dist/*.mrpack)
           jq -n \
             --arg project "$PROJECT_ID" \
-            --arg version "$VERSION" \
+            --arg version "$PACK_VERSION" \
+            --arg type "$TYPE" \
             --rawfile changelog dist/notes.md \
             --slurpfile deps dist/dependencies.json \
             --slurpfile pack pack.json \
@@ -100,7 +118,7 @@ jobs:
               game_versions: [$pack[0].minecraft],
               loaders: ["fabric"],
               environment: "client_only",
-              version_type: "release",
+              version_type: $type,
               featured: true,
               status: "listed",
               file_parts: ["file"],
